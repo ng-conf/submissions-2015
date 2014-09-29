@@ -1,0 +1,18 @@
+---
+Session:
+  Title: "What to do when you realize Angular.js sucks (aka Angular.js: The bad parts)"
+  Description: >
+    I fell in love with Angular.js when I started using it years ago but as my
+    Angular.js apps have grown they have started to rear Angular's ugly head.
+    You will reach this point at sometime in your app's lifetime as it grows.
+    Here is what you can do when you run into the bad parts.
+  Length: 20 # sessions are 5 or 20 minutes long
+  Tags:
+    - suck
+    - bad parts
+
+Speaker:
+  name: "Paul Navasard"
+  twitter: "peanav"
+  bio: >
+    Paul built his first website in the mid 90's and has been an advocate for the web ever since.
