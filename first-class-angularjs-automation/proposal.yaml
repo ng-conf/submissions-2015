@@ -1,0 +1,23 @@
+---
+Session:
+  Title: First Class AngularJS Automation
+  Description: >
+    A question I've been often asked is "How do I integrate AngularJS with {{MY_[FAVORITE|FORCED]}} server stack?"
+
+    The answer is simple. You don't.
+
+    AngularJS apps should be first class applications. Not something you wedge into an existing server technology. The very first step to achieving this is rock solid automation.
+    
+    Let's talk about the tools we have at our disposal. Gulp, Grunt, Karma, Protractor meets Jenkins, Travis, and CodeShip. Build an army of robot minions to help build your first class AngularJS applications.
+  Length: 20 # of solid passionate ranting
+  Tags:
+    - automation
+    - enterprise
+    - integration
+
+Speaker:
+  name: Joel Hooks
+  twitter: jhooks
+  email: joel@egghead.io
+  bio: >
+    Joel is Co-Chief Nerd at egghead.io. He likes to build things and solve problems. As a software consultant, Joel has been in the trenches, working on large-scale "enterprise" applications using AngularJS, fighting the good fight for software craftsmanship and quality. He is deeply passionate about helping developers succeed and have fun doing what they love; building great software. He lives and works in Fort Worth, TX.
