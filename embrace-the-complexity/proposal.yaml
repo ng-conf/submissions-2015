@@ -1,0 +1,31 @@
+---
+Session:
+  Title: Embrace The Complexity
+  Description: >
+    AngularJS directives have been criticized for being overly complex. A developer needs to
+    know too many concepts (scope, compile/link, transclusion, etc.) in order to be productive
+    with directives. Though this is a valid concern, this complexity is due to the rich
+    set of features and expressiveness that directives bring to building robust user experiences.
+    Directives provide a great abstraction for creating custom controls that can be readily used
+    within your team. Directives can define their own specialized API through scope binding. Directives can
+    easily communicate with each other to coordinate functionality. I hope in this talk to demonstrate
+    the power of directives and why it is worth pushing through this initial complexity to really
+    learn how to use them effectively.
+  Length: 20
+  Tags: 
+    - directives
+    - complexity
+    - ng-model
+    - custom controls
+    - user experience
+
+Speaker:
+  name: Dave Baskin
+  twitter: dfbaskin
+  email: dbaskin@wintellect.com
+  bio: >
+    Dave Baskin is a Senior Consultant at Wintellect -- a recognized leader in mission critical
+    architecture, design and development. Dave has worked on a variety of large-scale, enterprise
+    web applications, using both the Microsoft and Open Source stacks.  He has worked with AngularJS
+    since its early days and has used it to successfully build applications with widely distributed
+    teams. He lives in Tennessee with his wife and family.
