@@ -1,0 +1,19 @@
+---
+Session:
+  Title: Enlist Your Users With A/B Oriented Design
+  Description: >
+    You've been wasting resources building features no one wants. Get the answers from your users' instead - without a single survey. Learn how to design your Angular app that is prototype-friendly and A/B test-compatible. Get real data from real users, powered by Google Analytics Content Experiments. This talk will explore our design, best practices, common pitfalls, and real results from our experiments.
+  Length: 20
+  Tags:
+    - experiments
+    - analytics
+    - architecture
+    - statistics
+
+Speaker:
+  name: Chad Smith
+  twitter: hppycoder
+  email: chad.smith@giftcards.com
+  bio: >
+    Chad is a Software Development Manager at GiftCards.com in Pittsburgh, PA where he focuses on helping the company do more with less code.
+    He enjoys embracing the changes in the industry and preparing presentations for his developers on emerging trends. He is a husband, father, runner, hockey player, and enjoys learning new things.
