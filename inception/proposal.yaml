@@ -1,0 +1,27 @@
+---
+Session:
+  Title: "Inception: Attacking Common Problems At The Source"
+  Description: >
+    You know the kind of problems I'm talking about... the kind that infect your code like the plague,
+    spreading into every possible corner of your code requiring you to repeat yourself over and over again.
+    Security, error handling, boilerplate code that leaches itself onto every controller and service you write.
+    Surely there is a better way? Luckily, Angular's amazing dependency injection gives us all the tools we need
+    to attack these problems at the source. Using interceptors and decorators we can solve cross cutting problems
+    and only have to write the code once. Learn how to leverage this power and start writing less code today.
+  Length: 20 # sessions are 5 or 20 minutes long
+  Tags: 
+    - interceptors
+    - decorators
+    - directives
+
+Speaker:
+  name: Josh Carroll
+  twitter: jwcarroll
+  email: jwarren.carroll@gmail.com
+  bio: >
+    Josh is just a dude who loves to program and write things that run on the web. Ever since he was in
+    elementary school and wrote his first HTML 1.1 website, he was in love with the potential reach that
+    the internet and a browser could offer. Although he is a full stack developer, Josh spends a lot of his
+    time these days hacking on Angular applications in JavaScript. He is co-organizer of the KnoxJS user group,
+    and loves to speak and write about web technologies. He is also lucky enough to work for Wintellect who pays
+    him to do all these things.
