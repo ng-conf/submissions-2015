@@ -1,0 +1,24 @@
+---
+Session:
+  Title: Give Your Data The Respect It Deserves
+  Description: >
+    Your data is one of your most valuable assets, and it deserves your respect. Angular-data 
+    (https://github.com/jmdobry/angular-data) is a robust data store primed to grant any Angular app 
+    wisdom beyond its youth. Forget fleets of boilerplate services and dissatisfactory (read buggy) 
+    data management, Angular-data supercharges your RESTful (and not so RESTful) data and makes 
+    handling it a breeze. Angular-data 2.0 (future) blesses the un-Angularized with a framework-agnostic
+    core, bringing a sane data layer to the masses. Switch frameworks while leaving your data layer 
+    intact! For ages 3 and up and all those who above all else, desire power (over their data).
+  Length: 20
+  Tags: 
+    - data
+    - orm
+    - service
+    - model
+
+Speaker:
+  name: Jason Dobry
+  twitter: jmdobry
+  email: jason.dobry@gmail.com
+  bio: >
+    Husband. Father. Software Engineer. Open Source Hacker. Outdoor Adventurer. Soccer Fanatic. Always Learning.
