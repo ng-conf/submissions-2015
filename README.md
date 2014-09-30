@@ -8,7 +8,7 @@ We're looking for speakers who are passionate about sharing deep insights, usefu
 ## How to Submit a Proposal
 
 1. Fork this repository
-2. Create a new directory with a short name (no spaces) that represents your topic e.g. 'rich-ng-modles' or 'loving-promises'.
+2. Create a new directory with a short name (no spaces) that represents your topic e.g. 'rich-ng-models' or 'loving-promises'.
 3. In that directory add a high quality 500x500 picture of yourself, named `profile.jpg`, to be used in the schedule if your submission is selected.
 4. In that directory create a "proposal.yaml" file, using the [proposal template](./template/proposal.yaml).
    Make sure the file remains [valid yaml](http://yamllint.com/).
