@@ -2,7 +2,7 @@
 Session:
   Title: Enlist Your Users With A/B Oriented Design
   Description: >
-    You've been wasting resources building features no one wants. Get the answers from your users' instead - without a single survey. Learn how to design your Angular app that is prototype-friendly and A/B test-compatible. Get real data from real users, powered by Google Analytics Content Experiments. This talk will explore our design, best practices, common pitfalls, and real results from our experiments.
+    You've been wasting resources building features no one wants. Get the answers from your users' instead - without a single survey. Learn how to design your Angular app that is prototype-friendly and A/B test-compatible. Get real data from real users, powered by Google Analytics Content Experiments. This talk will share our design, best practices, common pitfalls, and real results from our Angular-powered shopping cart.
   Length: 20
   Tags:
     - experiments
