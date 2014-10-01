@@ -3,6 +3,8 @@
 ng-conf 2015 is March 5-6th 2015 in Salt Lake City, Utah. 
 We're looking for speakers who are passionate about sharing deep insights, useful tools, and crazy awesome ideas.
 
+The deadline for submissions is November 1st, 2014.
+
 ![](./logo.png)
 
 ## How to Submit a Proposal
@@ -17,3 +19,5 @@ We're looking for speakers who are passionate about sharing deep insights, usefu
 6. If you have multiple proposals, repeat this process for each submission
 
 Selected submissions will have their pull request merged into master. Best of luck!
+
+If you have any questions about the process or about your ideas, please don't hesitate to contact us at info@ng-conf.org and we will give you all the help we can.
