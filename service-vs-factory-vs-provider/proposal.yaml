@@ -1,0 +1,22 @@
+---
+Session:
+  Title: Factory vs Service vs Provider
+  Description: >
+    The second most popular question regarding Angular on StackOverflow is one of 'Factory vs Service vs Provider'.
+    I wrote a blog post (http://tylermcginnis.com/angularjs-factory-vs-service-vs-provider) which tackles that topic and since then it has become quite popular and has received amazing feedback (see the comments).
+    This topic will be perfect for the 5 minute time slot while also helping a lot of people understand, at a deeper level, the differences between those three services.
+
+
+  Length: 5 # sessions are 5 or 20 minutes long
+  Tags: 
+    - Factory
+    - Service
+    - Provider
+
+Speaker:
+  name: Tyler McGinnis
+  twitter: tylermcginnis33
+  email: tylermcginnis33@gmail.com
+  bio: >
+    Tyler is the lead instructor at DevMountain. He loves teaching and sharing what he's learned with others. 
+    Writing in the third person makes him feel uncomfortable and he is very proud that he ranks at the top of Google for the keywords 'JavaScript George Clooney'.
