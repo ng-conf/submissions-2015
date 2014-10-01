@@ -1,0 +1,23 @@
+---
+Session:
+  Title: Improving performance with angularjs
+  Description: >
+    Do you already use AngularJS and have some performance issues experience? This presentation will show the major problems that occurring in AngularJS applications that deal with a large database of best practices to work in this scenario besides showing proposals already underway by the group of engineers AngularJS.
+    Learn how to extract the best of each feature of the framework, as good practice using two-way data bind and another ways to improve your "dirty checking", lazy load, best practices with directives, data cache, angular modules and important tools that help to identify, measure and improve the performance of your app.
+  Length: 20 # sessions are 5 or 20 minutes long
+  Tags:
+    - performance
+    - directives
+    - filters
+    - javascript
+    - lazy load
+    - best practices
+    - data cache
+Speaker:
+  name: Wilson Mendes
+  twitter: willmendesneto
+  email: willmendesneto@gmail.com
+  bio: >
+    Wilson Mendes is passionate about technology, Google Developer Group Salvador organizer and active on many
+    communities in your hometown focused on technologies to web developers (Javascript, CSS, HTML, Workflow, Web Performance, Security, etc),
+    participating in some events organizations and contributing with opensource projects.
