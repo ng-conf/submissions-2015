@@ -1,0 +1,20 @@
+---
+Session:
+  Title: Angular app testing for real
+  Description: >
+    Let Ward take you beyond the basics of automated tests. 
+    He'll opine on what to test … so you build confidence that the application works without driving 
+    yourself nuts. He'll demonstrate testing techniques to overcome certain well-known hurdles 
+    (including async) and explain how ngMocks work.
+  Length: 20 # sessions are 5 or 20 minutes long
+  Tags: 
+    - testing
+    - practices
+
+Speaker:
+  name: Ward Bell
+  twitter: wardbell
+  email: wardb@ideablade.com
+  bio: >
+    Ward is VP of Technology at IdeaBlade, a consulting and product company, makers of BreezeJS. 
+    He's a big talker, Microsoft MVP, client app aficionado, AngularJS junkie, and snappy dresser. 
