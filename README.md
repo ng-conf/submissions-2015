@@ -14,5 +14,6 @@ We're looking for speakers who are passionate about sharing deep insights, usefu
    Make sure the file remains [valid yaml](http://yamllint.com/).
    For sessions with multiple speakers just add a "Speaker2" following the same format.
 5. Commit your changes and submit a [pull request](https://help.github.com/articles/creating-a-pull-request) back to this repo.
+6. If you have multiple proposals, repeat this process for each submission
 
 Selected submissions will have their pull request merged into master. Best of luck!
