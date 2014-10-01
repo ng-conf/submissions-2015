@@ -1,0 +1,43 @@
+---
+Session:
+  Title: Rapid Prototyping With AngularFire
+  Description: >
+    I've been working on a CMS using Firebase as a datastore and AngularFire for the admin-facint side of the app.
+    The initial build out has been ridiculously fast with the new AngularFire 0.8.0 release, and I've got a few tips
+    and tricks to present for anyone interested in building out a production-worthy Firebase project.
+    I could talk at length about any of the following topics:
+    Firebase, AngularFire 0.8.0 and FirebaseSimpleLogin.
+    See the project repo here: https://github.com/deltaepsilon/quiver-cms
+    The gist of the project architecture is Node/Express/Angular/Firebase with FirebaseSimpleLogin for auth. The admin
+    for the app is entirely in AngularFire. The content created in the admin part of the app is then served up via a
+    simple Node/Express/Handlebars theme system with a very simple Redis cacheing layer.
+    This architecture prevents excessive concurrent users on Firebase, which keeps down your Firebase costs. Once
+    the cache is warmed, Firebase bandwidth goes nearly to zero with only a single connected user unless an admin logs
+    in to make edits.
+    This architecture also sidesteps any SEO issues by serving up completely bootstrapped/static pages.
+    As a nice little bonus, you can run the admin and user-facing parts of the application separately,
+    disabling the admin entirely without impacting the performance of the user-facing site.
+    I've got all of my high-priority admin functionality working. I'm currently developing a default theme for the CMS
+    and I hope to use this project in production before the year is out.
+
+  Length: 20 # sessions are 5 or 20 minutes long
+  Tags:
+    - firebase
+    - angular
+    - angularfire
+    - redis
+    - firebasesimplelogin
+    - rapidprototyping
+    - node
+    - express
+
+Speaker:
+  name: Chris Esplin
+  twitter: chrisesplin
+  email: chris@quiver.is
+  bio: >
+    Chris was skiing with the founder and ex-ceo of his last employer when the founder called Chris out as "uncommitted
+    to his side projects" because he "would quit his job if he were truly committed." It took six months for Chris to
+    do just that, and now he and his wife Melissa build online businesses for fun and change daipers for work.
+    Chris has been using Angular exclusively since striking out on his own in 2013.
+    He tries to bike six days a week through the summer and ski as much as his wife will allow through the winter.
