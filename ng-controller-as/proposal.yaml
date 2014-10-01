@@ -1,6 +1,6 @@
 ---
 Session:
-  Title: Controler As the JavaScript Way
+  Title: Controller As 'The JavaScript Way'
   Description: >
     Stop including $scope everywhere and get rid of all those explict $watch calls!
     Everything you need for a scalable, responsive Angular app is there, out of the box. 
@@ -26,11 +26,11 @@ Speaker:
   bio: >
     Jeremy Likness is a principal architect within the custom application development practice at Atlanta-based iVision. 
     During Jeremy’s 20 years of experience working on enterprise applications (with 15 of those years focused on web-based apps) 
-    he has helped several initially small companies like Manhattan Associates and AirWatch grow and has actively 
-    participated in their transition from good to great. Jeremy has authored/co-authored four technology books and regularly 
+    he has helped several initially small companies grow and has actively 
+    participated in their transition from good to great. Jeremy authored/co-authored four technology books and regularly 
     speaks at events around the country. Once upon a time he even dreamt of becoming a game developer and wrote/co-wrote 
-    several customizations and one total conversion for Quake. In his free time Jeremy loves to spend time with his daughter 
-    supporting her healthy cooking business, watching retro sci-fi movies and teaching her to drive. A former certified fitness 
+    several customizations and one total conversion for Quake. In his free time Jeremy loves to support his daughter's 
+    healthy cooking business, watch retro sci-fi movies and teach her to drive. A former certified fitness 
     trainer and specialist in nutrition, he is currently training his wife to walk her first marathon after undergoing major 
     back surgery. Jeremy’s personal mission is to transform the lives of other developers in appreciation for how the 
     industry has impacted his own life. 
