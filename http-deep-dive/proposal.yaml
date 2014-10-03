@@ -1,0 +1,32 @@
+---
+Session:
+  Title: A Michael (Squints) Palledorous dive into $http
+  Description: >
+    $http is likely one of the most used services provided by the AngularJS core, but many times it is used sub-optimally or just downright wrong.
+    In this talk, we'll do a deep dive into patterns, anti-patterns (to avoid), and best practices of using $http in angular as well as chat about some of
+    the lesser-known features of the service that make interacting with your server a much more pleasant experience. Who knows, after this stunt, you may
+    even end up kissing a lifegaurd!
+  Length: 20
+  Tags:
+    - angular
+    - $http
+    - $q
+    - best practices
+    - deep dive
+    - promises
+    - interceptors
+    - transformers
+    - robots in disguise
+
+Speaker:
+  name: Kent C. Dodds
+  twitter: kentcdodds
+  email: kent@doddsfamily.us
+  bio: >
+    Kent C. Dodds is a professional frontend developer working at Alianza.
+    Kent's an egghead instructor and loves sharing what he knows with the world in small bite-sized videos.
+    Kent's active in the open source community with projects of his own and others (including AngularJS core).
+    Find him on GitHub (kentcdodds).
+    Kent loves building things with JavaScript (vanilla, AngularJS, and ReactJS flavors) and talking with people about code.
+    If you like talking about code too, he'd love to chat!
+    And, if you're reading this in a published thing, Kent's also speaking at ng-conf :-)
