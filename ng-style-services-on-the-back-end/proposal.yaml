@@ -1,0 +1,26 @@
+---
+Session:
+  Title: NG Style Services on the Back End
+  Description: >
+    While developing the Node.js framework called Synth, I ran into a problem
+    implementing middleware. I found Node.js middleware too cumbersome to use.
+    Hitting upon the idea of Angular style dependency injection, most tasks that
+    were accomplished with middleware are now better implemented as back-end
+    services. I'll go over the benefits of services on the back-end, and show
+    how to use them yourself.
+  Length: 20 # sessions are 5 or 20 minutes long
+  Tags:
+    - back-end
+    - node.js
+    - services
+    - dependency injection
+
+Speaker:
+  name: Jon Abrams
+  twitter: JonathanAbrams
+  email: jon@jonabrams.com
+  bio: >
+    Jon is the lead platform engineer at OUYA Inc. Jon created a
+    Node.js web framework designed for making and serving AngularJS apps. In his
+    spare time he tinkers with Node.js, AngularJS, or competes in pinball
+    tournaments.
