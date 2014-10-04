@@ -1,0 +1,28 @@
+---
+Session:
+  Title: Rule mobile with one Angular app
+  Description: >
+    Let's start building cross platform mobile apps and mobile websites with one
+    codebase using the Ionic Framework. Apps have to behave differently on
+    mobile devices, and Ionic provides many user interface components needed by
+    today's mobile apps or websites. Using Ionic's components and services,
+    discover how to use one codebase for mobile websites that also can be built
+    into hybrid mobile apps.
+  Length: 20
+  Tags:
+    - mobile web
+    - hybrid app
+    - mobile app
+    - ionic framework
+    - angular
+
+Speaker:
+  name: Jeremy Wilken
+  twitter: gnomeontherun
+  email: jeremy@gnomeontherun.com
+  bio: >
+    Jeremy Wilken is a full stack software engineer, developing mobile apps with
+    Ionic, crafting user interfaces with AngularJS applications and building web
+    service layers with NodeJS. He is the author Ionic in Action, and speaks
+    regularly at events. He lives in Texas with his wife and daughter, and when
+    he isn't coding you can find him brewing beer.
