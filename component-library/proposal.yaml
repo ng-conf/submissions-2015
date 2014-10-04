@@ -1,0 +1,22 @@
+---
+Session:
+  Title: Building an Angular Component Library for your Team
+  Description: >
+    Once you learn to love Angular, you want to use it on projects again and again. Unfortunately, this can lead to duplication of common directives, services and styles used across your projects.
+    Maintaining this ever-growing codebase can become quite a task. Without a central repo, you'll find yourself copy-pasting the same code code all over the place.
+    In this talk we'll cover strategies to build and maintain a core component library for your team for use across all of your apps. We'll pull from the lessons learned in the open-source community and talk about how, with a little planning, we can focus on building new apps without re-inventing the wheel every time.
+  Length: 20
+  Tags:
+    - community
+    - documentation
+    - best practices
+    - continous integration
+    - communication
+    - testing
+
+Speaker:
+  name: Kevin Lamping
+  twitter: klamping
+  email: klamping@gmail.com
+  bio: >
+    Kevin Lamping is a Front-End Engineer at Rackspace where he builds web apps using AngularJS and, when not playing with his kids, dabbles in scale model building, tabletop gaming and gardening.
