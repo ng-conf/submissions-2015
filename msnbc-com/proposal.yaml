@@ -16,23 +16,31 @@ Session:
     - msnbc
     - enterprise
     - drupal
+    - decoupled
 
 Speaker:
   name: Sally Young
   twitter: justafish
   email: sally@lullabot.com
   bio: >
+    Sally is a back end developer with broad experience in crafting APIs. She
+    designed and built the foundation for MSNBC's API (consumed by AngularJS)
+    and has worked on building the API of the Grammy Awards.
 
 Speaker2:
-  name: Juan Pablo Novillo Requena
+  name: Juampy Novillo Requena
   twitter: juampy72
   email: juampy@lullabot.com
   bio: >
-    Juampy started working as a web developer in 2006 after finishing his
-    degree in Computer Engineering & Information Systems. He spent a few years
-    developing in Ruby on Rails and Symfony before getting heavily involved
-    with Drupal and it's vibrant community, where as well as writing code he
-    partipates in organising events, talks at conferences and even wrote [a book](http://www.amazon.com/Drush-Users-Guide-ebook/dp/B007SVJ8MA/)!
-    At Lullabot, Juampy has been working a lot outside of the Drupal-sphere,
-    building decoupled sites and development workflow systems, which has given
-    him a very diverse range of tools for his belt.
+    Juampy is a back end developer focused on Drupal and JavaScript. He helps
+    on making Drupal 8 a first class REST server using all the insight that he
+    learned on the MSNBC project.
+
+Speaker3:
+  name: Mateu Aguiló Bosch
+  twitter: e0ipso
+  email: mateu@lullabot.com
+  bio: >
+    Mateu is a back end developer with deep knowledge of AngularJS. He worked
+    on the MSNBC project and then he moved on to NBC, where its decoupled
+    approach made the team won an Emmy Award for The Tonight Show.
