@@ -7,18 +7,18 @@ Session:
     client and server ORM integration, configurable real time synchronized data models,
     model-based validation, and store transactional data in Postgres, documents in Mongo,
     faceted search in Elastic, all while writing less boiler-plate code?" Answer: SWAN.JS.
-
+    
     Okay, so SWAN.JS isn't really a thing yet. But it's coming! And what is it? It's a
     customized stack of open-source libraries built on Sails.js, Waterline ORM, AngularJS,
     and Node.js (shortened to SWAN.JS cuz, well, we don't have enough acroynms in our lives).
-
+    
     "So it's like the MEAN stack?" Well, yes, but not so "mean". MEAN.JS is a great stack,
     but is limited out of the box to building MongoDB-based applications. SWAN.JS doesn't
     care what backend technology you use. "So it does real-time data sync like Firebase?"
     Yep! Firebase is wonderful at providing a real-time data model, but what about when
     you need classic relational data? Or how about composing your model with a mix of
     relational and document-based storage?
-
+    
     In this session we will take a look at a SWAN.JS application template and walk through
     building a just-slightly-more-than-trivial application (hey, we only have 20 minutes!)
     including authentication, authorization, data models (client and server), validation,
@@ -46,6 +46,6 @@ Speaker2:
   twitter:
   email: dadeng@gmail.com
   bio: >
-    David Aden has 20 years of professional IT experience as a full-stack web developer. He's 
+    David Aden has 20 years of professional IT experience as a full-stack web developer. He's
     currently doing Angular development full time with Desk.com, a Salesforce.com company. He's
     the co-author of Manning Publication's Angular in Depth.
