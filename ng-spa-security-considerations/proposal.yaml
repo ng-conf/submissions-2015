@@ -1,0 +1,16 @@
+--- 
+Session: 
+  Title: "Security Considerations for Enterprise Angular Applications"
+  Description: "Security considerations are paramount in enterprise applications.  In our drive to deliver the richest possible user experience, we are  challenged with how to effectively secure our	applications. Single Page Applications balance the distribution between client and server processing, leaving different aspects of security spread across the tiers.  This session covers the security impact when moving greater amounts of your application into the browser realm, security considerations when dealing and the pitfalls of integrating into enterprise-scale security platforms.\n"
+  Length: 20
+  Tags: 
+    - angular
+    - "single page application"
+    - security
+	- http interceptor
+	
+Speaker: 
+  name: "Mike Nolan"
+  bio: "Mike is an independent consultant focusing on Solution and Application Architecture.  His 16 year career has focused on large-scale enterprise and eCommerce solutions in the finance and retail domains.  He has spent recent years in the thick of the web application model evolution from traditional request-response delivery in the Java EE platform to single-page application architecture leveraging multiple frameworks including AngularJS.  He is also an author for Pluralsight.  In his spare time he crawls around the playground with his children, geeks out with new technology, and writes songs."
+  email: mnolan@thoughtbend.com
+  twitter: mnolan98
