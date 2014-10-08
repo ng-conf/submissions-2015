@@ -1,0 +1,20 @@
+---
+Session:
+  Title: Using AngularJS in Android WebViews
+  Description: >
+    There are lots of ways to use AngularJS.
+    One handy method is to use AngularJS in a WebView to make static content dynamic.
+    This presentation will offer solutions to some of the gotchas.
+  Length: 20 # sessions are 5 or 20 minutes long
+  Tags: 
+    - angularjs
+    - android
+    - webview
+
+Speaker:
+  name: Mark Burns
+  twitter: MburnsMark
+  email: mark@expertwebdev.com
+  bio: >
+    Mark has worked on many web technologies, but is new to AngularJS.
+    He loves using great technologies to create solutions.
