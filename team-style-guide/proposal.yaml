@@ -1,0 +1,26 @@
+---
+Session:
+  Title: 7 Common AngularJS Patterns
+  Description: >
+    Once you get beyond the AngularJS basics there are many decisions to be made on how to build robust and maintainable apps.
+    Come learn how to build AngularJS apps and structure your code, maintain clean code with popular patterns, make unit testing smooth, and use automated build tasks. 
+    This session expands on the popular AngularJS Team Style Guide at http://jpapa.me/ngstyles and explores solutions to several of the common challenges that AngularJS developers face while building business applications.
+
+  Length: 20
+  Tags: 
+    - styles
+    - team 
+    - patterns
+    - testing
+    - gulp
+    - angular
+
+Speaker:
+  name: John Papa
+  twitter: john_papa
+  email: john@johnpapa.net
+  bio: >
+    John Papa is web development expert, curator of ToastrJS, and co-host on the Adventures in Angular podcast.
+    His AngularJS Style Guide on github has over 2800 stars and his AngularJS trainng videos on Pluralsight are among the highest rated.
+    He can often be found speaking around the world at industry conferences such as ngConf, Build, MIX, TechEd, VSLive and AngleBrackets.
+    While at Microsoft as a Technical Evangelist, he was the host of the popular show Silverlight TV on Channel 9. 
