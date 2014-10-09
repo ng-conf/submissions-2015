@@ -1,0 +1,32 @@
+---
+Session:
+  Title: Using 3rd Party Authentication with AngularJS
+  Description: >
+    This presentation would show how to integrate 3rd party OAUTH providers
+    such as; Google+, Facebook, Twitter, and Github into your AngularJS application.
+    Topics covered would include:
+      - Creating services and directives to wrap 3rd party OAUTH libraries and controls
+      - 3rd Party configuration setup for your app
+      - Updating app databases with 3rd Party user data
+      - Demonstration of how to put it all together
+  Length: 20 # sessions are 5 or 20 minutes long
+  Tags:
+    - OAUTH
+    - authentication
+    - Google+
+    - Facebook
+    - Twitter
+    - Github
+    - services
+
+Speaker:
+  name: Jim Lavin
+  twitter: OtakuBrewing
+  email: jlavin@jimlavin.net
+  bio: >
+    Jim Lavin has been involved in software development for the past 30 years. He is currently
+    the CTO for one of the leading Restaurant Online Ordering service providers where his team
+    uses AngularJS as a core part of their service offerings. He is the author of AngularJS Services
+    published by Packt Publishing. He is the coordinator of the Dallas/Fort Worth Area AngularJS
+    Meetup Group and routinely gives presentations on AngularJS to other Dallas/Fort Worth Area
+    technology groups.
