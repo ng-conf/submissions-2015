@@ -20,4 +20,6 @@ The deadline for submissions is November 1st, 2014.
 
 Selected submissions will have their pull request merged into master. Best of luck!
 
+For multiple proposals please split them into separate pull requests. To do this with git you just have to create a new branch for each proposal, push them both to github, and open a pull request for each.
+
 If you have any questions about the process or about your ideas, please don't hesitate to contact us at info@ng-conf.org and we will give you all the help we can.
