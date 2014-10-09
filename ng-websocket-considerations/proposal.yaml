@@ -5,9 +5,7 @@ Session:
   Length: 20
   Tags: 
     - angular
-    - "single page application"
-    - security
-	- http interceptor
+    - websocket
 	
 Speaker: 
   name: "Mike Nolan"
