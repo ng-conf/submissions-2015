@@ -1,0 +1,24 @@
+---
+Session:
+  Title: What Angular Devs Should Learn from React
+  Description: >
+    Contrary to what the title may lead you to believe, this is not a long troll.
+    Rather, these are a handful of cool tips and tricks I learned from writing a lot of React that made my Angular a lot better.
+    React enforces some simple rules that in turn make the apps very easy to read and to maintain.
+    While Angular does not enforce these rules, you yourself can enforce these rules and thus have many of the same gains that React enforces.
+  Length: 20
+  Tags: 
+    - react
+    - design patterns
+    - readability
+    - maintability
+
+Speaker:
+  name: Brian Holt
+  twitter: holtbt
+  email: bholt@reddit.com
+  bio: >
+    Brian Holt is lucky enough to be a front-end dev for reddit.
+    He gets paid to write JavaScript to help you gain deep, meaningful insight, have passionate discourse, and look at cat pictures for hour.
+    When not in front of the glowing front of his laptop, you can find Brian playing with his wife Niki and puppy Luna, travelling, eating Vietnamese food, and probably checking reddit on his phone.
+    Yeah, he still slacks off at work by looking at reddit.
