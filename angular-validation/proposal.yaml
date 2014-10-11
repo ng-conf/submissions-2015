@@ -1,0 +1,26 @@
+---
+Session:
+  Title: Client-side Validation should be simple and clean
+  Description: >
+    Angular Validation have the following objectives
+    Client-side Validation should be simple and clean
+    Don't let Client-side Validation dirty your js code
+    Setup your Validation on config phase by using some rules
+    Minimize the js code by adding Validation in your view only.
+  Length: 15 # sessions are 5 or 20 minutes long
+  Tags: 
+    - angular
+    - angularjs
+    - angular validation
+    - validation
+    - validator
+    - client-side validation
+Speaker:
+  name: Huei Tan
+  twitter: HueiTan
+  email: huei90@gmail.com
+  bio: >
+    Imagine every Open Source as your Startup;
+    Keep your source Update and bug free;
+    Open for Community who love to Contribute;
+    World is open to everyone, so does Coding.
