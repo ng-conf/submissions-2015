@@ -1,0 +1,28 @@
+---
+Session:
+  Title: Reactive Angular
+  Description: >
+    There's been a lot of talk about Reactive Programming lately,
+    but nobody really knows exactly what it is.
+    I'll first talk a little bit about what Reactive Programming is and then we'll dive into
+    practical examples on how to use it with AngularJS.
+    We'll see how beautiful and clean our code can be when we use Reactive code with Angular.
+  Length: 20 # sessions are 5 or 20 minutes long
+  Tags:
+    - reactive
+    - rx
+    - rxjs
+    - map
+    - flatmap
+    - observable
+
+Speaker:
+  name: Martin Gontovnikas
+  twitter: mgonto
+  email: martin@gon.to
+  bio: >
+    Martin Gontovnikas is a software engineer living in Buenos Aires, Argentina
+    that works as a Developer Advocate in Auth0.
+    Martin is passionate about technology and he always keeps up to date with everything regarding IT.
+    Lately, he's been coding with AngularJS, NodeJS and Scala among others.
+    Martin also contributes to Open Source with Restangular (Rest client for AngularJS), AngularWizard, Angularytics and FactoryPal among others.
