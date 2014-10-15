@@ -1,0 +1,24 @@
+---
+Session:
+  Title: > Restangular 2.0: The future and beyond
+  Description: >
+    Restangular is a REST client specifically made for AngularJS which helps developers interact with their REST APIs.
+    It knows about your models relationships and let you handle nested restful resources, hypermedia, ETags, etc. easily.
+    As Angular 2.0 is coming soon, I'm creating the new version of Restangular
+    which will be using all the goodies from Angular 2.0 and ES6.
+    I'm going to show code example of usages of the new Restangular 2.0 API and talk about how some of the interals of the library work.
+  Length: 15 # sessions are 5 or 20 minutes long
+  Tags:
+    - rest
+    - api
+    - restangular
+Speaker:
+  name: Martin Gontovnikas
+  twitter: mgonto
+  email: martin@gon.to
+  bio: >
+    Martin Gontovnikas is a software engineer living in Buenos Aires, Argentina
+    that works as a Developer Advocate in Auth0.
+    Martin is passionate about technology and he always keeps up to date with everything regarding IT.
+    Lately, he's been coding with AngularJS, NodeJS and Scala among others.
+    Martin also contributes to Open Source with Restangular (Rest client for AngularJS), AngularWizard, Angularytics and FactoryPal among others.
