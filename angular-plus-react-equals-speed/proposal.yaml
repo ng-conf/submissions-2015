@@ -4,6 +4,13 @@ Session:
   Description: >
     How we integrated React into our Angular directives at HireVue to give them
     super turbo speed boost power.
+
+    At HireVue, we found that some of our directives were slow and janky. After
+    identifying the cause of the slowness in the DOM, we were able to switch to
+    React for the DOM rendering, and we got a huge performance boost.
+
+    This talk will walk you through what we did, and how we are building React-
+    based directives now.
   Length: 20
   Tags: 
     - react
