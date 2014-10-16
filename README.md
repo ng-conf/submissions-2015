@@ -5,6 +5,11 @@ We're looking for speakers who are passionate about sharing deep insights, usefu
 
 The deadline for submissions is November 1st, 2014.
 
+## We Can Help
+
+If you are nervous about proposing a talk please don't let that stop you. First time presenters are more than welcome. If you would like to run your ideas by someone feel free to contact @iammerrick on Twitter or via email at info@ng-conf.com. We are happy to brainstorm and review your ideas and interests with you. If you need more encouragment check out this [fantastic website](http://weareallaweso.me/) by Tiffany Conroy.
+
+
 ![](./logo.png)
 
 ## How to Submit a Proposal
@@ -22,4 +27,3 @@ Selected submissions will have their pull request merged into master. Best of lu
 
 For multiple proposals please split them into separate pull requests. To do this with git you just have to create a new branch for each proposal, push them both to github, and open a pull request for each.
 
-If you have any questions about the process or about your ideas, please don't hesitate to contact us at info@ng-conf.org and we will give you all the help we can.
