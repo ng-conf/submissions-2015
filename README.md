@@ -9,7 +9,7 @@ We do not tolerate any form of harassment. See our code of conduct document [her
 
 ## Travel
 
-We cover the hotel and reimburse up to $500 in travel costs. And ofcourse, you attend the conference for free.
+We cover the hotel and reimburse up to $500 in travel costs. And of course, you attend the conference for free.
 
 ## We Can Help
 
