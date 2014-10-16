@@ -1,16 +1,19 @@
 # [ng-conf 2015](http://ng-conf.org/) submissions
 
+![](./logo.png)
+
 ng-conf 2015 is March 5-6th 2015 in Salt Lake City, Utah. 
 We're looking for speakers who are passionate about sharing deep insights, useful tools, and crazy awesome ideas.
 
 The deadline for submissions is November 1st, 2014.
 
+## Travel
+
+We cover the hotel and reimburse up to $500 in travel costs. And ofcourse, you attend the conference for free.
+
 ## We Can Help
 
 If you are nervous about proposing a talk please don't let that stop you. First time presenters are more than welcome. If you would like to run your ideas by someone feel free to contact @iammerrick on Twitter or via email at info@ng-conf.com. We are happy to brainstorm and review your ideas and interests with you. If you need more encouragment check out this [fantastic website](http://weareallaweso.me/) by Tiffany Conroy.
-
-
-![](./logo.png)
 
 ## How to Submit a Proposal
 
