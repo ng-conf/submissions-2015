@@ -3,9 +3,12 @@
 ng-conf 2015 is March 5-6th 2015 in Salt Lake City, Utah. 
 We're looking for speakers who are passionate about sharing deep insights, useful tools, and crazy awesome ideas.
 
-The deadline for submissions is November 1st, 2014.
 
 We do not tolerate any form of harassment. See our code of conduct document [here](http://www.ng-conf.org/2014/public/downloads/anti-harassment.pdf).
+
+## Deadline
+
+The deadline for submissions is November 1st, 2014.
 
 ## Travel
 
