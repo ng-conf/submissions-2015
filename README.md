@@ -13,7 +13,7 @@ We cover the hotel and reimburse up to $500 in travel costs. And ofcourse, you a
 
 ## We Can Help
 
-If you are nervous about proposing a talk please don't let that stop you. First time presenters are more than welcome. If you would like to run your ideas by someone feel free to contact @iammerrick on Twitter or via email at info@ng-conf.com. We are happy to brainstorm and review your ideas and interests with you. If you need more encouragment check out this [fantastic website](http://weareallaweso.me/) by Tiffany Conroy.
+If you are nervous about proposing a talk please don't let that stop you. First time presenters are more than welcome. If you would like to run your ideas by someone feel free to contact @iammerrick on Twitter or via email at info@ng-conf.com. We are happy to brainstorm and review your ideas and interests with you. If you need more encouragement check out this [fantastic website](http://weareallaweso.me/) by Tiffany Conroy.
 
 ## How to Submit a Proposal
 
