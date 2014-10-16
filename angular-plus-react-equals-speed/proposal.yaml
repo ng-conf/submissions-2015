@@ -1,0 +1,22 @@
+---
+Session:
+  Title: Angular + React = Speed
+  Description: >
+    How we integrated React into our Angular directives at HireVue to give them
+    super turbo speed boost power.
+  Length: 20
+  Tags: 
+    - react
+    - performance
+    - directives
+    - hotdogs
+
+Speaker:
+  name: Dave Smith
+  twitter: djsmith42
+  email: dave@thesmithfam.org
+  bio: >
+    Dave has been developing software professionally for 10 years. He got his start
+    tinkering on a TI-82 calculator in high school and has worked on projects that
+    span the spectrum from embedded devices to user interfaces. Currently, he works
+    at HireVue on the company's Angular-based web application.
