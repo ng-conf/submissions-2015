@@ -1,6 +1,6 @@
 ---
 Session:
-  Title: Restoring the peace with JSON validation
+  Title: Restoring the Peace with JSON Validation and Angular
   Description: >
     Using JSON as a data interchange format is awesome - until it isn't. That's when the
     recriminations between front-end and back-end devs start: "You spelt that property name wrong!"
