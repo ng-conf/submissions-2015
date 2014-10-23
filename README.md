@@ -6,6 +6,8 @@ We're looking for speakers who are passionate about sharing deep insights, usefu
 
 We do not tolerate any form of harassment. See our code of conduct document [here](http://www.ng-conf.org/2014/public/downloads/anti-harassment.pdf).
 
+We couldn't possibly answer all of your questions with this simple README.md, so please feel free to reach out to us with questions: info@ng-conf.org
+
 ## Deadline
 
 The deadline for submissions is November 1st, 2014.
