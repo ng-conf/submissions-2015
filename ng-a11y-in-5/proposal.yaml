@@ -1,0 +1,26 @@
+---
+Session:
+  Title: Accessiblity and Angular in 5 Minutes
+  Description: >
+    One of the greatest problems with the trend towards single page applications
+    heavy on JavaScript is we tend to forget about users who rely on adaptive
+    technologies such as screenreaders.  I propose to spend 5 minutes describing
+    basic techniques that can be used to make sure we make our applications
+    accessible for everyone.  I intend to speak primarily speak about the ngAria
+    directive and properly implementing DOM elements.
+  Length: 5
+  Tags:
+    - accessibility
+
+Speaker:
+  name: Clay Diffrient
+  twitter: @ClayDiffrient
+  email: clay@instructure.com
+  bio: >
+    Clay loves web development especially the rapid development cycle that Angular
+    helps provide.  He currently works at Instructure as a front-end developer
+    on their Canvas learning management system. He enjoys chasing new techniques
+    and technologies and seeing where they end up.  He is passionate about
+    making sure the web doesn't further disable individuals by not being accessible
+    to them.  His formal training includes a Bachelor's degree in Computer
+    Science from Brigham Young University-Idaho.
