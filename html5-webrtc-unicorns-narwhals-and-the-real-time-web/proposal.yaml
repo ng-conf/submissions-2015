@@ -1,0 +1,26 @@
+---
+Session:
+  Title: HTML5 WebRTC - Unicorns, Narwhals and The Real-Time Web
+  
+  Description: >
+    This talk is about taking a pragmatic look at WebRTC. In it, we examine the history of WebRTC. The good, the bad and the ugly of WebRTC. And finally, How can we leverage WebRTC NOW to build the next SnapChat or Google Hangout? Think you know WebRTC? Believe me, you've never seen it like this.
+    
+    Sample Past Talk: http://tiandavis.com/talks/javascript-and-the-monomyth/
+    
+  Length: 20
+  
+  Tags: 
+    - JavaScript
+    - WebRTC
+    - Narwhals
+    - STUN
+    - TURN
+    - Servers
+    - C++
+    
+Speaker:
+  name: Tian Davis
+  twitter: tiandavis
+  email: tiandavis@gmail.com
+  bio: >
+    Software Engineer. JavaScript, Ruby - Mainly. Polyglot - Mostly. Lead Rōnin - I build LOB apps and other games. 
