@@ -1,14 +1,17 @@
 ---
 Session:
-  Title: Accessiblity and Angular in 5 Minutes
+  Title: Accessiblity and Angular in 20 Minutes
   Description: >
     One of the greatest problems with the trend towards single page applications
     heavy on JavaScript is we tend to forget about users who rely on adaptive
-    technologies such as screenreaders.  I propose to spend 5 minutes describing
+    technologies such as screenreaders.  I propose to spend 20 minutes describing
     basic techniques that can be used to make sure we make our applications
-    accessible for everyone.  I intend to speak primarily speak about the ngAria
-    directive and properly implementing DOM elements.
-  Length: 5
+    accessible for everyone.  I intend to focus on the problem of accessibility
+    with Angular applications.  How the different assistive technologies respond
+    to different situations with Angular applications. I will discuss the ngAria
+    directive and other techiques that allow all users to experience the joy of
+    using your Angular application.
+  Length: 20
   Tags:
     - accessibility
 
