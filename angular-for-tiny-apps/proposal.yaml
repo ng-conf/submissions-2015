@@ -1,0 +1,26 @@
+---
+Session:
+  Title: Angular.js for Tiny Apps
+  Description: >
+    Angular.js is commonly used in large single-page applications.
+    A lot of success can be had by using Angular.js to build out small or tiny applications.
+    The directives Angular.js provides are a powerful way to organize your code and two-way binding makes managing the views simple.
+    Two way binding along with session, cookie, and ajax based backend storages become simple details to work with and switch out.
+    I've built out several of these including http://todayisasuccess.com and http://yearscheduler.com.
+    Both pages were built out in about an afternoon.
+  Length: 20 # sessions are 5 or 20 minutes long
+  Tags:
+    - small
+    - single-page
+    - practice
+    - directives
+
+Speaker:
+  name: Charles Max Wood
+  twitter: cmaxw
+  email: chuck@devchat.tv
+  bio: >
+    Charles Max Wood co-hosts several popular podcasts including Adventures in Angular and JavaScript Jabber.
+    He loves exploring new tools and splits his time between freelancing, recording videos, recording podcasts, and building online services for podcasters.
+    He's a dedicated husband, father, scouter and soccer fan.
+    He lives in Utah with his wife Heather and 4 children.
