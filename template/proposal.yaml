@@ -1,24 +1,30 @@
 ---
 Session:
-  Title: The Swanson Pyramid of Greatness
+  Title: Advanced Angular Error Instrumentation
   Description: >
-    I have been developing the Swanson Pyramid of Greatness for years.
-    It’s a perfectly calibrated recipe for maximum personal achievement. 
-    Categories include: Capitalism, God’s way of determining who is smart, and who is poor.
-    Crying, acceptable at funerals and the Grand Canyon. Rage. Poise. Property rights. 
-    Fish, for sport only, not for meat.
-    Fish meat is practically a vegetable.
+    Something terrible happened here. Traces of errors litter the floor; memory
+    leaking from cracks in the ceiling. Someone lost their object context in
+    the corner. Everything reeks of jank. In this session, a JavaScript error
+    tracking expert breaks down common AngularJS crimes, and tools to monitor
+    for them. You’ll leave the session armed with techniques and tools to
+    detect, diagnose, and fix your JavaScript web applications. Bring your bugs
+    and let’s fix up our web.
   Length: 20 # sessions are 5 or 20 minutes long
-  Tags: 
-    - success
-    - liberty
-    - wisdom
+  Tags:
+    - errors
+    - debugging
+    - instrumentation
 
 Speaker:
-  name: Ron Swanson
-  twitter: RonUSwanson
-  email: ron@swanson.net
-  bio: >
-    Ron, who has an extremely deadpan and masculine personality, 
-    actively works to make city hall less effective and despises interacting with the public. 
-    He loves meat, hunting, whiskey, and breakfast foods. 
+  name: Todd H Gardner
+  twitter: toddhgardner
+  email: todd@trackjs.com
+  bio: >+
+    Todd H Gardner is the president and co-founder of TrackJS (trackjs.com) and
+    an independent software consultant. With over a decade of experience
+    building software systems, Todd has built large enterprise systems, complex
+    software products, and launched businesses.
+
+    Todd is a veteran of software conferences and an international speaker. He
+    holds a Master of Science in Management of Technology from the University of
+    Minnesota. He lives in Stillwater Minnesota.
