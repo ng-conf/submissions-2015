@@ -1,0 +1,30 @@
+---
+Session:
+  Title: Lift-ng: Secure, rapid web development with Scala and AngularJS
+  Description: >
+    In this talk I present lift-ng, an open-source library which extends the Scala-based Lift web framework into a productive, powerful, and secure Angular backend.
+
+    How do we enable Angular application developers to be highly productive without neglecting security?  
+    Using Scala’s elegantly malleable syntax, we have created a DSL which gives the appearance of extending Angular down to the server.  
+    Like Angular's model/view binding, lift-ng can also extend binding down to the backend via client/server model binding.
+    All of this functionality is delivered using Lift’s proven security features to ensure the application is secure by default.
+
+    To demo this backend library I show code snippets from a simple chat application.  
+    The code base exercises the three primary feature sets of lift-ng:
+      1. Client-initiated server calls are utilized to send chat messages to the server.
+      2. Server-initiated events announce new users have joined the chat.
+      3. Client/server model binding seamlessly keeps the chat log in sync on the client.
+  Length: 20 
+  Tags: 
+    - backend
+    - scala
+    - security
+
+Speaker:
+  name: Joe Barnes
+  twitter: joescii
+  email: barnesjd@gmail.com
+  bio: >
+    Joe Barnes is currently a Senior Software Architect at Mentor Graphics where he leads development of cloud-based web solutions such as PartQuest.com. 
+    An advocate of open source, Joe contributes to the projects such as Lift and lift-ng which are utilized in his day job.
+    Driven by passion for quality software, Joe can also be found tweeting, blogging, and speaking around the country as a NFJS speaker.
