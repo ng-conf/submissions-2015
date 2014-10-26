@@ -1,6 +1,6 @@
 ---
 Session:
-  Title: Lift-ng: Secure, rapid web development with Scala and AngularJS
+  Title: "Lift-ng: Secure, rapid web development with Scala and AngularJS"
   Description: >
     In this talk I present lift-ng, an open-source library which extends the Scala-based Lift web framework into a productive, powerful, and secure Angular backend.
 
