@@ -1,14 +1,15 @@
 ---
 Session:
-  Title: ngTasty - build performante reusable UI components
+  Title: ngTasty - Building performante reusable UI components
   Description: >
-    As going by project to project every two quarter I start feel the nececity to build
-    something I can reuse and also I can improve the performance version by version.
-    ng-tasty is a lightweight, flexible, and tasty collection of reusable UI components,
-    that every day in few internal projects I use in Twitter.
-    By using Batarang I discover all the weak part and by Benchpress I keep track all 
-    the improvement version by version.
-    Things I discover by using this tool every day together...
+    Every quarter we complete a project and move on to a new one. This results in a nececity to build
+    reusable components that we can improve upon. With each new project we improve performance of the
+    compnents used and thereby improve the perfomrance of previously built applications.
+    To meet this need I built ng-tasty. A lightweight, flexible, and tasty collection of reusable
+    UI components that my team uses every day at Twitter in many internal products.
+    With input from Jeff Cross, I will discuss how we focus on performance when designing reusable components
+    that are measurably fast using Benchpress and Batarang. 
+
   Length: 20 # sessions are 5 or 20 minutes long
   Tags: 
     - performance
@@ -18,7 +19,8 @@ Speaker:
   twitter: zizzamia
   email: leonardo@twitter.com
   bio: >
-    Leo is a software engineer at Twitter, 
-    Leo teach a couple of class in Twitter University like "A Taste of AngularJS" 
-    and "AngularJS Essentials" where help other team in Twitter learn more and 
-    get more confident using AngularJS inside Twitter.
+    Leo is a software engineer at Twitter and has contributed to AngularJS by benchmarking with Benchpress.
+    He teaches the "A Taste of AngularJS" and "AngularJS Essentials" classes for Twitter University
+    where he helps Twitter engineers to learn and improve skills with AngularJS. Leo uses AngularJS
+    on daily basis on internal applications at Twitter. When Leo is not coding AngularJS, 
+    he can ussually be found drinking esspresso at the Twitter Cafe.
