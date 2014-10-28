@@ -1,0 +1,29 @@
+---
+Session:
+  Title: Using ES6 Modules with Angular 1.3 Today
+  Description: >
+    Angular 2.0 will invest heavily in the ES6 module system for architecting Angular applications.
+    Whilst Angular 1.3 has its own module system, that doesn't mean that you can't start embracing ES6 and its module system today.
+    At GoCardless we've been using ES6 modules in an Angular app for the past 9 months and in this talk we'll talk about how we've done it and what we've learned along the way.
+    We'll cover the development workflow, how to test with Karma and Protractor when using ES6 modules, and how we bundle our application into one file for production.
+  Length: 20 # sessions are 5 or 20 minutes long
+  Tags:
+    - es6
+    - systemjs
+    - architecture
+
+Speaker1:
+  name: Jack Franklin
+  twitter: Jack_Franklin
+  email: jack@gocardless.com
+  bio: >
+    Jack is a Ruby and JS engineer at GoCardless based in London, UK.
+    He's also a Google Developer Expert for the Chrome HTML5 team and is normally
+    found obsessively tweaking his vimrc file.
+
+Speaker2:
+  name: Philip Harrison
+  twitter: harrisonphilip
+  email: philip@gocardless.com
+  bio: >
+    Phil is a ...
