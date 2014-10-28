@@ -1,0 +1,32 @@
+---
+Session:
+  Title: >
+    Frenemies: Why I Hate Angular When I Use It, and Miss It When I Don't 
+  Description: >
+    Angular's wizardry with two-way data bindings, data filtering and UI state 
+    management has made it the darling framework of the front-end community. But 
+    sometimes, not understanding what's happening behind the curtain can cause 
+    big headaches when something goes wrong, especially for beginners. In this 
+    session, we'll look at the growing pains of learning Angular, as told by a 
+    developer who was in way over his head when he started using it on client projects.
+  Length: 20 
+  Tags: 
+    - beginner
+    - learning
+    - challenges
+
+Speaker:
+  name: Aaron Ladage
+  twitter: aladage
+  email: aladage@gmail.com
+  bio: >
+    Aaron Ladage is a UI engineer for DEG in Overland Park, Kansas. He’s currently 
+    obsessed with creating faster, leaner responsive sites, and architecting front-end 
+    workflow tools and processes that help other developers do the same. Over the last 
+    near-decade, he’s worked on projects for Kashi, Purina and American Century Investments, 
+    as well as several universities and K12 districts. He also teaches web development 
+    courses at a local community college.
+    > 
+    Outside of work and freelance, Aaron enjoys spending time with his family, is a cliché 
+    Kansas City BBQ snob and brews some really bad beer. He also recently co-created Yeo+Lab, 
+    a front-end website scaffolding tool, with his DEG teammates.
