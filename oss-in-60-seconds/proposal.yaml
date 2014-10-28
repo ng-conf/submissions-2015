@@ -1,0 +1,23 @@
+---
+Session:
+  Title: Contributing to Open Source in 60 Seconds
+  Description: >
+    Ever noticed a typo or out of date instructions in an open source repository?
+    You probably felt like submitting a patch, but thought it was too much hassle
+    for something so minor. In 5 minutes, I can show you a workflow for submitting
+    patches in less than a minute. Perfect for OSS n00bs and old vets alike.
+  Length: 5 # sessions are 5 or 20 minutes long
+  Tags: 
+    - oss
+    - community
+    - git
+
+Speaker:
+  name: Ben Clinkinbeard
+  twitter: bclinkinbeard
+  email: ben@knowbetter.io
+  bio: >
+    Ben is an independent consultant living in the bustling tech hub of Northern Kentucky.
+    He has been contributing to and creating open source projects since 2007.
+    His current interests are all things JavaScript, process, automation, and anything that 
+    helps him create compelling, useful software.
