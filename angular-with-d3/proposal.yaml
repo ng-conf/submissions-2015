@@ -1,0 +1,26 @@
+---
+Session:
+  Title: Data Visualization with Angular and D3
+  Description: >
+    [D3.js](http://d3js.org) is the de facto standard for creating modern, performant
+    data visualizations. Rather than a collection of pre-made charts, D3 provides
+    a vast toolbox of features capable of creating just about anything you can imagine.
+    The possibilities are endless, but sometimes it feels like the learning curve is too.
+    This session will introduce the basics of D3 and show the various ways it can be
+    integrated into your Angular application. SVG, data binding, and animation, oh my!
+  Length: 20 # sessions are 5 or 20 minutes long
+  Tags: 
+    - d3
+    - datavis
+    - integration
+
+Speaker:
+  name: Ben Clinkinbeard
+  twitter: bclinkinbeard
+  email: ben@knowbetter.io
+  bio: >
+    Ben is an independent consultant living in the bustling tech hub of Northern Kentucky.
+    He has been contributing to and creating open source projects since 2007, and is a regular
+    contributor to [egghead.io](http://egghead.io) on topics from D3 to Protractor to Angular
+    basics. His current interests are all things JavaScript, process, automation, and anything
+    else that helps him create compelling, useful software.
