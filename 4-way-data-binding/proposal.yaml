@@ -12,7 +12,7 @@ Session:
     mobile application capable of working and persisting offline with a local 3-way data binding. Then we will
     add a remote CouchDb server to enable online synchronization via a 4-way data binding.
 
-    Finally, I will show how you use the opensource ng-pouchdb library to create your own applications.
+    Finally, I will show how you can use the opensource ng-pouchdb library to create your own application.
 
   Length: 20 # sessions are 5 or 20 minutes long
   Tags:
