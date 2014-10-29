@@ -4,7 +4,7 @@ Session:
   Description: >
     Angular 2.0 will invest heavily in the ES6 module system for architecting Angular applications.
     Whilst Angular 1.3 has its own module system, that doesn't mean that you can't start embracing ES6 and its module system today.
-    At GoCardless we've been using ES6 modules in an Angular app for the past 9 months and in this talk we'll talk about how we've done it and what we've learned along the way.
+    At GoCardless we've been using ES6 modules in an Angular app since June 2014 and in this talk we'll show you how we've done it and what we've learned along the way.
     We'll cover the development workflow, how to test with Karma and Protractor when using ES6 modules, and how we bundle our application into one file for production.
   Length: 20 # sessions are 5 or 20 minutes long
   Tags:
@@ -26,4 +26,4 @@ Speaker2:
   twitter: harrisonphilip
   email: philip@gocardless.com
   bio: >
-    Phil is a ...
+    Philip lives in London UK, and is lead front-end at GoCardless.
