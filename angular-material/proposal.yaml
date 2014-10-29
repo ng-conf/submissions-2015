@@ -1,0 +1,33 @@
+---
+Session:
+  Title: 4-Way Data-Binding for Offline Data Synchronization
+  Description: >
+    You can read, send and delete mail from your mobile email client when you are offline, why not from your
+    AngularJS app? Web applications no longer need to be dependent on a server. We need to stop treating offline
+    as an error condition. Mobile applications need to be able to work without an internet connection to make
+    them useful to your users in more situations.
+
+    Using open-source technologies, such as PouchDb & CouchDb, we will create a 4-way data binding (model, UI,
+    local storage & remote storage). Using the Ionic Framework we will walk through the steps of creating a
+    mobile application capable of working and persisting offline with a local 3-way data binding. Then we will
+    add a remote CouchDb server to enable online synchronization via a 4-way data binding.
+
+    Finally, I will show how you can use the opensource ng-pouchdb library to create your own application.
+
+  Length: 20 # sessions are 5 or 20 minutes long
+  Tags:
+    - CouchDb
+    - PouchDb
+    - IonicFramework
+    - OpenSource
+    - ng-pouchdb
+
+Speaker:
+  name: Daniel Zen
+  twitter: @zendigital
+  email: daniel@zendigital.com
+  bio: >
+    Daniel Zen is the CEO of Zen Digital, founder of the New York AngularJS Meetup, a frequent lecturer, and a
+    former consultant for Google, Pivotal Labs and various Fortune 500 companies. Zen Digital uses Agile techniques
+    to move projects forward while continuously integrating new code and ideas, producing elegant frontend
+    experiences and efficient backend systems for web and mobile applications.
