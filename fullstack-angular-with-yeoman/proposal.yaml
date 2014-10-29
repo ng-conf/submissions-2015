@@ -1,0 +1,21 @@
+---
+Session:
+  Title: Building Full-stack AngularJS Apps in a Snap with Yeoman
+  Description: >
+    Don't get stuck building the same old boilerplate for your web app. Give yourself a head start with Yeoman. Quickly scaffold your AngularJS app with an express backend and database, a modular structure following best practices, websockets, authentication, an easy deployment process, and much more, using the Angular Fullstack generator.
+    We'll talk about how Yeoman generators can improve your Angular workflow, and help you create more modular apps.
+  Length: 20 # sessions are 5 or 20 minutes long
+  Tags: 
+    - yeoman
+    - fullstack
+    - generator
+    - websockets
+    - modular
+    - authentication
+
+Speaker:
+  name: Tyler Henkel
+  twitter: tyhenkel
+  email: tyhenkel@gmail.com
+  bio: >
+    Tyler Henkel is a Software Engineer working at Lendio, where he focuses on front-end development and testing. An active contributor in the open source community, Tyler created and maintains the popular "Angular Fullstack" Yeoman generator.
