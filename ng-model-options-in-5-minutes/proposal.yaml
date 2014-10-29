@@ -1,0 +1,27 @@
+---
+Session:
+  Title: ngModelOptions in 5 minutes
+  Description: >
+    Angular 1.3 brought a sweet new directive to the table called
+    ng-model-options. It gives you more control over how your model
+    gets updated and is very easy to use. Get a quick intro and
+    start using this today!
+  Length: 5
+  Tags:
+    - angular
+    - ngModelOptions
+    - ngModel
+    - directive
+
+Speaker:
+  name: Kent C. Dodds
+  twitter: kentcdodds
+  email: kent@doddsfamily.us
+  bio: >
+    Kent C. Dodds is a professional frontend developer working at Alianza.
+    Kent's an egghead instructor and loves sharing what he knows with the world in small bite-sized videos.
+    Kent's active in the open source community with projects of his own and others (including AngularJS core).
+    Find him on GitHub (kentcdodds).
+    Kent loves building things with JavaScript (vanilla, AngularJS, and ReactJS flavors) and talking with people about code.
+    If you like talking about code too, he'd love to chat!
+    And, if you're reading this in a published thing, Kent's also speaking at ng-conf :-)
