@@ -1,0 +1,21 @@
+---
+Session:
+  Title: Use AtScript Today
+  Description: >
+    Ever want to make your JavaScript easier to read, scale, and reuse? AtScript can help with all of these and you can start using it today.
+    AtScript is an extension of JavaScript that builds on top of ES6 and TypeScript but transpiles down to ES5 so you can use it in current browsers (IE9+). AtScript borrows features like classes, modules, and types from ES6/TypeScript, and adds annotations and runtime type assertions/introspection. AtScript is the recommended language for writing Angular 2.0 apps and Angular 2.0 itself will be written with it. However since AtScript is completely separate from Angular you can use it in any JavaScript project.
+    In this session you'll learn how to get started with AtScript. We'll go over some practical examples of how AtScript can be used to make an Angular 1.x app more expressive, declarative, and robust. We'll also cover some useful tools for editing and transpiling AtScript.
+  Length: 20
+  Tags: 
+    - atscript
+    - angular
+    - traceur
+    - es6
+    - typescript
+
+Speaker:
+  name: Rob McDiarmid
+  twitter: robianmcd
+  email: robianmcd@gmail.com
+  bio: >
+    Rob McDiarmid is a software developer with a love for all things Angular. He is an active member of the JavaScript community and takes every chance he gets to speak at and participate in developer events and conferences. By day, Rob works for OTPP as a full-stack developer on an Angular/Java app. By night, he is the lead developer on sonder.io's MEAN stack site.
