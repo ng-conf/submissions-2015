@@ -1,0 +1,25 @@
+---
+Session:
+  Title: Run digest cycle in web worker
+  Description: >
+    Browser freezes while the digest cycle runs. What if we could keep our
+    angular application the same but offload the digest cycle to separate
+    thread in a web worker? Well, we can!
+    I published the step by step micro angular example that makes it possible
+    in the blog post http://bahmutov.calepin.co/run-angular-digest-cycle-in-web-worker.html
+    Please see the post for the content.
+  Length: 5 # sessions are 5 or 20 minutes long
+  Tags:
+    - performance
+    - web worker
+    - digest
+    - fun
+    - just because I can
+
+Speaker:
+  name: Dr. Gleb Bahmutov PhD.
+  twitter: bahmutov
+  email: gleb.bahmutov@gmail.com
+  bio: >
+    JavaScript ninja, image processing expert, software quality fanatic.
+
