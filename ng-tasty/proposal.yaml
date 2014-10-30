@@ -2,14 +2,14 @@
 Session:
   Title: ngTasty - Building high performance measurable directives
   Description: >
-    Every quarter at Twitter my team completes a project and moves on to a new one. This results in a nececity to build
-    reusable components that we can improve upon. With each new project we improve performance of the
-    compnents used by all of our applcations. With input from Jeff Cross, I will discuss how we focus
-    on performance when designing reusable components that are measurably fast. You may already know
-    abuot Batarang, but how can you use it in conjuction with Benchpress to design, measure, and
-    identify specififc areas of improvement in your application? I will present real-life examples
-    from our ngTasty implementations at Twitter that demonstate how you can use these tools together to
-    develop the fastest directive you have ever made.
+    Every quarter at Twitter my team completes a project and moves on to a new one. 
+    This results in a nececity to build reusable components that we can improve upon. With each new project 
+    we improve performance of the components used by all of our applcations. With input from Jeff Cross, 
+    I will discuss how we focus on performance when designing reusable components that are measurably fast. 
+    You may already know abuot Batarang, but how can you use it in conjuction with Benchpress to design, 
+    measure, and identify specififc areas of improvement in your application? I will present real-life 
+    examples from our ngTasty implementations at Twitter that demonstrate how you can use these tools 
+    together to develop the fastest directive you have ever made.
   Length: 20 # sessions are 5 or 20 minutes long
   Tags: 
     - performance
