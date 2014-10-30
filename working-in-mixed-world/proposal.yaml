@@ -1,0 +1,31 @@
+---
+Session:
+  Title: Working in a mixed world
+  Description: >
+    Even in a new startup with new frameworks legacy can develop suprisingly
+    quickly. I'll describe how introducing Angular to a large and still
+    developing web application allowed us to advance quickly whilst not needing
+    to rewrite everything.
+
+    I'll discuss why left things split between two hemispheres of code, and how
+    we manage integrating the two hemispheres into one world.
+
+    Integration techniques include injecting services into Backbone, loading
+    portions via requireJS, testing an entire application with Protractor
+    and building everything with the Google Closure Compiler.
+
+  Length: 5 # sessions are 5 or 20 minutes long
+  Tags:
+    - hybrid
+    - backbone
+    - protractor
+
+Speaker:
+  name: Andrew Kimpton
+  twitter: awk
+  email: awk@onshape.com
+  bio: >
+    Andrew leads the development of the browser experience at Onshape. After
+    many years of cross-platform desktop development he now thoroughly enjoys
+    mixing it up in the browser. When not pounding the keys he's an active
+    father, cyclist and skier.
