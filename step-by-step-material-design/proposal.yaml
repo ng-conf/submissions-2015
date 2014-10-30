@@ -1,0 +1,29 @@
+---
+Session:
+  Title: "Step by Step: Use Material Design and AngularJS to build a first class multi-platform app"
+  Description: >
+    This talk presents a case study of building a responsive (mobile + desktop),
+    highly interactive, tastefully animated Angular app with Material Design.  I will start
+    with a review of the design process——highlighting Material Design principles——and
+    follow through the steps to implementation. Rather than fixating on specific code details,
+    I will focus on the different tools and technologies at play, as well as how to select
+    them in the first place and how to bring them all together.
+    The final result will be a web app, a mobile browser app, and a mobile native-hybrid app,
+    all from a single Angular codebase, and all assembled (with some git time travel) in 20 minutes.
+  Length: 20
+  Tags: 
+    - material design
+    - animations
+    - mobile
+    - desktop
+    - responsive
+
+Speaker:
+  name: Zack Brown
+  twitter: zackaboo
+  email: zack@thomasstreet.com
+  bio: >
+    Zack is passionate about animations, user experience, and the Web.
+    He created and maintains Famo.us/Angular in order to make the internet
+    a more richly interactive place.  He enjoys exploring, solving, and creating——
+    all of which he does while building web software at Thomas Street in San Francisco.
