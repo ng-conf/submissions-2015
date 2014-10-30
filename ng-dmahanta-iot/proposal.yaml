@@ -1,0 +1,16 @@
+--- 
+Session: 
+  Description: "IoT is the next big wave and we can see it all around us. In my talk, i will show how to build a simple home automation hub using Angular, realtime database and microcontrollers. I will go over some of the other frameworks we can leverage to do rapid protoyping. \n"
+  Length: 20
+  Tags: 
+    - iot
+    - realtime
+    - hardware
+    - microcontroller
+    - "realtime database"
+  Title: "Home Automation using AngularJS in realtime."
+Speaker: 
+  bio: "Deba, is a Software Engineer in Aon and has been working for over 8 years in javascript world. He has degree in electrical engineering and likes exploring new trends in enigeering indsutry. He has always been fascinated with hardware/software interactions and how software can affect things in the real world. When free, he likes to grab a beer and explore the hacker community. \n"
+  email: debajyoti.mahanta@gmail.com
+  name: "Debajyoti Mahanta"
+  twitter: dmahanta
