@@ -1,0 +1,23 @@
+---
+Session:
+  Title: Building a Home Automation System with Angular
+  Description: >
+    Ken recently moved into a new house and decided it was time to fulfill his life-long dream of building a home
+    automation system. He quickly became frustrated with the limited features available in off-the-shelf systems. Armed
+    with an API and a few basic angular skills, he built MOAHAS, the mother of all home automation systems. Using
+    angular and express, it enables complex programmatic control of lights and sensors throughout his
+    house using a simple, intuative interface.
+  Length: 20 # sessions are 5 or 20 minutes long
+  Tags: 
+    - home-automation
+    - insteon
+    - z-wave
+    - wink
+    - raspberry-pi
+Speaker:
+  name: Ken Heutmaker
+  twitter: bgok
+  email: bgok@me.com
+  bio: >
+    Ken builds cool webapps for a great company in the Seattle area. He had some spare time between jobs recently
+    to build a home automation server and write a proposal to give a talk at ngConf.
