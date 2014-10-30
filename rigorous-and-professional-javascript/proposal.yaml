@@ -1,0 +1,22 @@
+---
+Session:
+  Title: Rigorous and Professional Javascript
+  Description: >
+    We have a duty, an obligation, to our clients and users to be diligent in our craft. Javascript is wonderful, we can do whatever we want. Javascript is horrible, we can do whatever we want. It's a choice between those two paths.
+
+    Luckily we live in a age of killer tooling and can draw on the experience of those that preceeded us. Let's build killer applications that are a pleasure to use AND develop.
+
+    This brief discussion will be about software craftsmanships, and what it means for modern web development. We will take a short survey of the best tools, books, and resources to achieve rigorous and professional Javascript.
+  Length: 5
+  Tags:
+    - craftsmanship
+    - tooling
+    - testing
+    - constant improvement
+
+Speaker:
+  name: Joel Hooks
+  twitter: jhooks
+  email: joel@egghead.io
+  bio: >
+    Joel is Co-Chief Nerd at egghead.io. He likes to build things and solve problems. As a software consultant, Joel has been in the trenches, working on large-scale "enterprise" applications using AngularJS, fighting the good fight for software craftsmanship and quality. He is deeply passionate about helping developers succeed and have fun doing what they love; building great software. He lives and works in Fort Worth, TX.
