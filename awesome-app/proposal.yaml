@@ -2,8 +2,8 @@
 Session:
  Title: Creating an awesome app within 20 min with AngularJS and Ionic
  Description: >
-   For CodingStuff.org I organized a Hackathon@School. Within a few hours kids can create their own app with the help of AngularJS and 
-   Ionic. In this talk I'll show how  we created the app 
+   For CodingStuff.org I organized a Hackathon@School. Within a few hours kids can create their own My Friend app with the help of AngularJS and 
+   Ionic. In this talk I'll show how to create an My Friend app and I'll give you an impression of such a hackathon.
    
  Length: 20m
  Tags:
@@ -16,7 +16,7 @@ Speaker:
  twitter: henkjurriens
  email: henk.jurriens@gmail.com
  bio: >
-  Henk is a technology advoacate for Trivento and has been working on different
+  Henk is a technology advocate for Trivento and has been working on different
   projects for the Dutch Postcode Lottery, KPN and Dutch Police.
   In april Henk founded CodingStuff.org, an initiative to encourage the
   next generation how to code.
