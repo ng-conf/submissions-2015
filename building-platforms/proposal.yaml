@@ -1,0 +1,25 @@
+---
+Session:
+  Title: Building Platforms with angular.js
+  Description: >
+    While we often see angular.js used to quickly build small applications,
+    it also has the power to drive large frameworks.  Learn how Google has 
+    used angular.js to build infrastructure and libraries that support the
+    Google Cloud Developer web console.  We'll talk about challenges the 
+    team has experienced and how we've handled them, from implementing 
+    lazy-loading to assuring consistency and quality across many separate 
+    contributing teams.
+  Length: 20 # sessions are 5 or 20 minutes long
+  Tags: 
+    - developers
+    - scale
+
+Speaker:
+  name: Jen Bourey
+  twitter: jbourey
+  email: jennifer.bourey@gmail.com
+  bio: >
+    Jen currently serves as a Tech Lead in Google's Cloud Platform, one of 
+    Google's biggest angular-powered applications. She has over 10 years of 
+    experience building web portals and has contributed to several open-source
+    projects.
