@@ -1,0 +1,23 @@
+---
+Session:
+  Title: Eating Humble Pie
+  Description: >
+    How often do you post your code? I did that once sharing an angular directive.
+    Are you ready for positive and negative comments?
+    Did you learn from the experience and engage the critic?
+    I posted a simple directive that decorates negative currency with some simple css.  I thought I did it correctly however I was wrong, dead wrong.  It turns out I was doing things the wrong way and I learned the angular way to accomplish the same thing easier and with less code.
+  Length: 5
+  Tags:
+    - practice
+    - learning
+    - code-review
+
+Speaker:
+  name: Mark Coleman
+  twitter: markcoleman
+  email: markcoleman@gmail.com
+  bio: >
+    Mark is a very passionate developer located in central Pennsylvania.
+    He loves technology and sharing new ideas to the development team at work, at local meet up groups, and blogging.
+    Mark also is known as an obsessive mission to drink as many unique beers as possible while enjoying gratuitous amounts of hamburgers.
+    In his spare time he is a dabbler in home brewing, photography, and everything Simpsons.
