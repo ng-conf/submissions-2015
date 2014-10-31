@@ -2,7 +2,7 @@
 Session:
   Title: Building a Build Tool Called Gib 
   Description: >
-    Since well before single page apps we've used build tools to automate tasks
+    Since well before single page apps we've used build tools to automate 
     tasks for our static assets.  Today a good build system not only prepares
     assets for production but makes the development process faster and more
     enjoyable.  Among my favorites is the grunt-based NGBP.  Building Gib,
