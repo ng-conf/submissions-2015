@@ -1,0 +1,22 @@
+---
+Session:
+  Title: Anonymous Zoids - Lessons from multi-library architectures
+  Description: >
+    Sharing lessons and experiences from two years of Angular and ten years
+    using and maintaining mulitple libraries in a single Architecture, David
+    Souther explains the nuances, intricacies, and benefits of architecting
+    solutions that create and consume their own libraries.
+  Length: 20
+  Tags:
+    - architecture
+    - project-management
+
+Speaker:
+  name: David Souther
+  twitter: david_souther
+  email: davidsouther@gmail.com
+  bio: >
+    A Software Architect, with a BA in CS and Math from Rocky Mountain College
+    in Billings, MT, David Souther works with Javascript technologies on the
+    front-edge. A fan of the flexibility and ubiquity of Javascript, David has
+    built his career leading teams effectively managing large JS codebases.
