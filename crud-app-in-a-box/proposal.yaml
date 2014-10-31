@@ -16,15 +16,15 @@ Session:
     - REST
     - reports
 
-  Speaker:
-    name: Mark Chapman
-    twitter: reallycare_mark
-    email: mark@reallycare.org
-    bio: >
-      Following a very brief “career” in showbiz Mark spent decades developing  software for the social care sector,
-      during which time he had a few successful start-ups (and regrettable exits).  For the last few years he  has been
-      trying unsuccessfully to show the UK government (local and  central) how to use open source and open data to
-      improve elderly care.   Now he has probably retired.  He’ll know in a few years.
+Speaker:
+  name: Mark Chapman
+  twitter: reallycare_mark
+  email: mark@reallycare.org
+  bio: >
+    Following a very brief “career” in showbiz Mark spent decades developing  software for the social care sector,
+    during which time he had a few successful start-ups (and regrettable exits).  For the last few years he  has been
+    trying unsuccessfully to show the UK government (local and  central) how to use open source and open data to
+    improve elderly care.   Now he has probably retired.  He’ll know in a few years.
 Speaker2:
   name: Vincent Boucher
   email: vincent.boucher@b12-consulting.com
