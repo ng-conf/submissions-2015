@@ -2,23 +2,23 @@
 Session:
   Title: "Interceptors and Promises: A Love Story"
   Description: >
-    Angular HTTP interceptors are awesome, and promises are even awesomer! Together, they are like
-    the Beyonce and Jay-Z of Angular - a power-couple that are impressive individually but
+    Angular HTTP interceptors are awesome and promises are even awesom-er! Together, they are like
+    the Beyonce and Jay-Z of Angular - a power couple that are impressive individually but
     unstoppable when combined. Fully leveraging the possibilities of interceptors requires a
-    good understanding of the capabilities of the Promises API - but the problem is that this can be
+    good understanding of the capabilities of the Promises API. But the problem is that this can be
     a little difficult to develop just by reading the docs.
 
     In this talk we'll explore the union of interceptors and promises by example, going beyond the
     usual authorization or error-handling use-cases to something more substantial: adding run-time
     JSON validation to HTTP requests and responses. Furthermore, we'll see how the Promises API
     allows us to easily orchestrate additional asynchronous tasks alongside our original HTTP
-    requests- in this case, recursively loading JSON Schema files on-demand - whilst still handling
+    requests - in this case, recursively loading JSON Schema files on-demand whilst still handling
     errors correctly.
 
     Attendees will leave with their minds expanded to the full possibilities of HTTP interceptors
     and the Promises API. They'll see how they can write asynchronous HTTP code that is easier to
-    understand and reason about. And they'll get to feel the love that is promises and interceptors
-    together - a match made in heaven.
+    understand and reason about. And they'll get to feel the love that promises and interceptors
+    share. It truly is a match made in heaven!
   Length: 20
   Tags:
     - HTTP
