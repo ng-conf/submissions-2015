@@ -2,7 +2,7 @@
 Session:
   Title: Too Many Packages. Managing Dependencies and Packages in Enterprise Applications with AngularJS and RequireJS.
   Description: >
-  Our team is tasked with building a large scale application in AngularJS that is a dashboard and frame for other, sub-applications.
+    Our team is tasked with building a large scale application in AngularJS that is a dashboard and frame for other, sub-applications.
     Each application, including the dashboard and frame, consists of a mobile and desktop version. 
     Functionality is also shared between applications and with the Global Frame.                  
     We use RequireJS to load our individual application components as well as the configuration objects for those applications.
