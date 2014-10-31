@@ -3,7 +3,10 @@ Session:
   Title: ngModel validation: Barry Allen Style
   Description: >
     Quick as a flash, we're going to go over the new $validators pipeline and
-    the ngMessages module to validate user input like a boss.
+    the ngMessages module to validate user input like a boss. The new pipeline
+    makes validation much easier to accomplish (even asynchronos validation
+    is a much easier story now) and combine that with ngMessages and there's no
+    telling how super powerful you'll be after this lightning fast talk.
   Length: 5
   Tags:
     - angular
