@@ -6,7 +6,6 @@ Session:
     a myriad of functions and measurements for both introductory and advanced physics courses.
     The device is currently under its last development phase and expected to be launched early 2015.
     (https://www.youtube.com/channel/UCkgql1ePbwyCP-selmAUJng/feed)
-
     This talk will demonstrate how AngularJS can be used to develop desktop applications
     communicating with hardware devices (USB, serial ports, etc.).
     The speaker will guide attendees through the IOLab software platform which combines
@@ -32,3 +31,14 @@ Speaker:
     integrated development of online and data analysis services.
     In addition to crushing AngularJS on top of hardware devices, he is passionate about Physics,
     Philosophy but also caving, paragliding and climbing.
+
+Speaker2:
+  name: Vincent Boucher
+  twitter: b12_consulting
+  email: vincent.boucher@b12-consulting.com
+  bio: >
+    Vincent, Belgium, has a scientific background and holds a PhD in cosmology. 
+    He is co-founder of B12 Consulting, a growing consulting company in software 
+    development and data analysis. He likes challenging the limits (if any) of AngularJS
+    with drawing or desktop app frameworks. 
+    On Saturdays, you’ll meet him with either a squash racket or skis in hands, or both. 
