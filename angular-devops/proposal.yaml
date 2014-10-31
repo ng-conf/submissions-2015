@@ -1,0 +1,25 @@
+---
+Session:
+  Title: DevOps for Angular Apps
+  Description: >
+    Are you using ng-annotate in your Grunt or Gulp build? You have a front-end build process right?
+    As web applications grow in sophistication and scope, it becomes increasingly important
+    to apply the same DevOps rigor to the front-end that is often more focused on the back-end.
+    In this talk we'll dive into how to setup an Angular focused front-end continuous delivery workflow that
+    encompasses: building and optimizing assets, running both Karma unit tests and Protractor
+    integration tests, and automating the final deployment leg to production. Expect a live-onstage
+    production code push demonstrating the process in action.
+  Length: 20 # sessions are 5 or 20 minutes long
+  Tags:
+    - devops
+    - continuousdelivery
+    - grunt
+    - gulp
+Speaker:
+  name: David Von Lehman
+  twitter: davidvlsea
+  email: david@aerobatic.com
+  bio: >
+    David is an AngularJS aficionado and co-founder of Aerobatic, a hosting platform
+    purpose-built for HTML5 single page applications. He's enthusiastic about the future
+    of web applications and their intersection with cloud services.
