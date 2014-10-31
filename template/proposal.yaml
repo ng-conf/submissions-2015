@@ -1,24 +1,47 @@
 ---
 Session:
-  Title: The Swanson Pyramid of Greatness
+  Title: Embrace SVG with Angular and D3
   Description: >
-    I have been developing the Swanson Pyramid of Greatness for years.
-    It’s a perfectly calibrated recipe for maximum personal achievement. 
-    Categories include: Capitalism, God’s way of determining who is smart, and who is poor.
-    Crying, acceptable at funerals and the Grand Canyon. Rage. Poise. Property rights. 
-    Fish, for sport only, not for meat.
-    Fish meat is practically a vegetable.
+    As soon as you think about SVG, D3 pops to your mind. However, Angular does not
+    need D3 to embrace and take advantage of SVG. As of Angular 1.3 one can easily
+    create SVG directives using the templateNamespace attribute.
+    This talk is built on the experience acquired through 3 real-world web platforms.
+    Each of them takes advantage of SVG in very different ways:
+    - a drawing interface for an energy simulator (warmup.greenwatch.com,  with D3)
+    - an interactive dental chart for a social network (dentisphere.com, AngularJS only)
+    - an interactive visualization of large datasets for an educative framework (IOLab, with D3)
+    Attendees will learn patterns to integrate D3 with AngularJS,
+    but also how AngularJS excels in SVG directive without D3.
+
   Length: 20 # sessions are 5 or 20 minutes long
   Tags: 
-    - success
-    - liberty
-    - wisdom
+    - SVG
+    - directive
+    - interacting directives
+    - D3
+    - production-grade projects
 
 Speaker:
-  name: Ron Swanson
-  twitter: RonUSwanson
-  email: ron@swanson.net
+  name: Antoine Pairet
+  twitter: antoinepairet
+  email: antoine.pairet@gmail.com
   bio: >
-    Ron, who has an extremely deadpan and masculine personality, 
-    actively works to make city hall less effective and despises interacting with the public. 
-    He loves meat, hunting, whiskey, and breakfast foods. 
+    Antoine is an engineer from Belgium. He is working at B12 Consulting
+    where he builds rocking web apps.
+    Having an entrepreneur spirit, he is co-founder at DentiSphere through which
+    he is trying hard to revolutionize the dental world using the MEAN stack.
+    Passionate about new technologies and the web, Antoine is also a strong open-source advocate.
+    He is grateful to the open source community for all the things he learned and believes
+    it is now time to give back to the community.
+    Antoine loves skiing and can not wait for ng-conf Saturday ski day!
+
+Speaker2:
+  name: Geoffroy Piroux
+  twitter: b12_consulting
+  email: geoffroy.piroux@b12-consulting.com
+  bio: >
+    Geoffroy is a belgian physicist holding a PhD in Mathematical Physics and a BA degree in Philosophy.
+    He has been building software for a decade. Recently, he co-founded B12 Consulting which offers
+    integrated development of online and data analysis services.
+    In addition to crushing AngularJS on top of hardware devices, he is passionate about Physics,
+    Philosophy but also caving, paragliding and climbing.
