@@ -1,0 +1,29 @@
+---
+Session:
+  Title: Building a Build Tool Called Gib 
+  Description: >
+    Since well before single page apps we've used build tools to automate tasks
+    tasks for our static assets.  Today a good build system not only prepares
+    assets for production but makes the development process faster and more
+    enjoyable.  Among my favorites is the grunt-based NGBP.  Building Gib,
+    I have borrowed the best best ideas of NGBP, re-written them using gulp,
+    and wrapped them in an npm for easy use and maintenance accross multiple
+    projects.  Build systems do not have to be boilerplate.
+  Length: 5
+  Tags: 
+    - gulp
+    - gib
+    - build
+    - automation
+    - ngbp
+    - angular-app
+    - ops
+
+Speaker:
+  name: Carl Sutherland
+  twitter: cesutherla
+  email: carl@humblesoftware.com
+  bio: >
+    Carl is an independent front-end engineer passionate about data and data 
+    visualization.   Outside of work I enjoy travel, jogging, backpacking, board
+    games and beer.
