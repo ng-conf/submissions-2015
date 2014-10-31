@@ -1,24 +1,28 @@
 ---
 Session:
-  Title: The Swanson Pyramid of Greatness
+  Title: Manage errors and messages consistently throughout your web app
   Description: >
-    I have been developing the Swanson Pyramid of Greatness for years.
-    It’s a perfectly calibrated recipe for maximum personal achievement. 
-    Categories include: Capitalism, God’s way of determining who is smart, and who is poor.
-    Crying, acceptable at funerals and the Grand Canyon. Rage. Poise. Property rights. 
-    Fish, for sport only, not for meat.
-    Fish meat is practically a vegetable.
-  Length: 20 # sessions are 5 or 20 minutes long
+    This 5 minute talk describes a pattern to manage errors and messages in large web apps.
+    The speaker will guide attendees from the initial design using angular events ($emit, $broadcast)
+    to an interacting directive-service couple.
+    Improvement perspectives (i.e. namespaces) will be explored.
+
+  Length: 5 # sessions are 5 or 20 minutes long
   Tags: 
-    - success
-    - liberty
-    - wisdom
+    - directive
+    - errors
+    - consistency
 
 Speaker:
-  name: Ron Swanson
-  twitter: RonUSwanson
-  email: ron@swanson.net
+  name: Antoine Pairet
+  twitter: antoinepairet
+  email: antoine.pairet@gmail.com
   bio: >
-    Ron, who has an extremely deadpan and masculine personality, 
-    actively works to make city hall less effective and despises interacting with the public. 
-    He loves meat, hunting, whiskey, and breakfast foods. 
+    Antoine is an engineer from Belgium. He is working at B12 Consulting
+    where he builds rocking web apps.
+    Having an entrepreneur spirit, he is co-founder at DentiSphere through which
+    he is trying hard to revolutionize the dental world using the MEAN stack.
+    Passionate about new technologies and the web, Antoine is also a strong open-source advocate.
+    He is grateful to the open source community for all the things he learned and believes
+    it is now time to give back to the community.
+    Antoine loves skiing and can not wait for ng-conf Saturday ski day!
