@@ -1,0 +1,33 @@
+---
+Session:
+  Title: "Famo.us/Angular 2:  The Web Is Winning"
+  Description: >
+    While there's a lot that's new and exciting in the world of Angular 2,
+    Famo.us, too, is rolling out some big features and big changes.  Along
+    with these two recrafted libraries, there will be a new integration,
+    code-named (shh, this is top secret) 'Famo.us/Angular 2'.  This talk will
+    discuss some highlights of the new integration, including some of the major
+    improvements from previous versions, some of the design lessons learned,
+    and some of the really cool new stuff that developers can do across platforms 
+    with the combination of these cutting-edge technologies.
+
+  Length: 5
+  Tags: 
+    - animations
+    - interactions
+    - webgl
+    - angular 2
+    - atscript
+    - famo.us
+    - mobile
+    - desktop
+
+Speaker:
+  name: Zack Brown
+  twitter: zackaboo 
+  email: zack@thomasstreet.com  
+  bio: >
+    Zack is passionate about animations, user experience, and the Web.
+    He created and maintains Famo.us/Angular in order to make the internet
+    a more richly interactive place.  He enjoys exploring, solving, and creating——
+    all of which he does while building web software at Thomas Street in San Francisco.
