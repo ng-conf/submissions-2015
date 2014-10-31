@@ -1,24 +1,34 @@
 ---
 Session:
-  Title: The Swanson Pyramid of Greatness
+  Title: Desktop applications and interaction with hardware devices using CEF (Chromium Embeded Framework)
   Description: >
-    I have been developing the Swanson Pyramid of Greatness for years.
-    It’s a perfectly calibrated recipe for maximum personal achievement. 
-    Categories include: Capitalism, God’s way of determining who is smart, and who is poor.
-    Crying, acceptable at funerals and the Grand Canyon. Rage. Poise. Property rights. 
-    Fish, for sport only, not for meat.
-    Fish meat is practically a vegetable.
+    IOLab is a low-cost, easy-to-use, all-purpose handheld sensor device for student that performs
+    a myriad of functions and measurements for both introductory and advanced physics courses.
+    The device is currently under its last development phase and expected to be launched early 2015.
+    (https://www.youtube.com/channel/UCkgql1ePbwyCP-selmAUJng/feed)
+
+    This talk will demonstrate how AngularJS can be used to develop desktop applications
+    communicating with hardware devices (USB, serial ports, etc.).
+    The speaker will guide attendees through the IOLab software platform which combines
+    a unique set of technologies: low level C++ programming, CEF (Chromium Embedded Framework),
+    BSON database, Angular and D3!
+
   Length: 20 # sessions are 5 or 20 minutes long
   Tags: 
-    - success
-    - liberty
-    - wisdom
+    - CEF
+    - USB
+    - directive
+    - service
+    - D3
+    - SVG
 
 Speaker:
-  name: Ron Swanson
-  twitter: RonUSwanson
-  email: ron@swanson.net
+  name: Geoffroy Piroux
+  twitter: b12_consulting
+  email: geoffroy.piroux@b12-consulting.com
   bio: >
-    Ron, who has an extremely deadpan and masculine personality, 
-    actively works to make city hall less effective and despises interacting with the public. 
-    He loves meat, hunting, whiskey, and breakfast foods. 
+    Geoffroy is a belgian physicist holding a PhD in Mathematical Physics and a BA degree in Philosophy.
+    He has been building software for a decade. Recently, he co-founded B12 Consulting which offers
+    integrated development of online and data analysis services.
+    In addition to crushing AngularJS on top of hardware devices, he is passionate about Physics,
+    Philosophy but also caving, paragliding and climbing.
