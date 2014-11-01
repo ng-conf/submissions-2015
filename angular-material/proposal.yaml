@@ -1,18 +1,26 @@
 ---
 Session:
-  Title: Web Components &
+  Title: 4-Way Data-Binding for Offline Data Synchronization
   Description: >
-    Web Components - What are they? Where and when can I use them? How do they compare to other technologies,
-    such as AngularJS? What are Custom Elements, an HTML import & a Shadow DOM? How does the Polymer library &
-    platform.js relate to all of this?
+    You can read, send and delete mail from your mobile email client when you are offline, why not from your
+    AngularJS app? Web applications no longer need to be dependent on a server. We need to stop treating offline
+    as an error condition. Mobile applications need to be able to work without an internet connection to make
+    them useful to your users in more situations.
+
+    Using open-source technologies, such as PouchDb & CouchDb, we will create a 4-way data binding (model, UI,
+    local storage & remote storage). Using the Ionic Framework we will walk through the steps of creating a
+    mobile application capable of working and persisting offline with a local 3-way data binding. Then we will
+    add a remote CouchDb server to enable online synchronization via a 4-way data binding.
+
+    Finally, I will show how you can use the opensource ng-pouchdb library to create your own application.
 
   Length: 20 # sessions are 5 or 20 minutes long
   Tags:
     - WebComponents
-    - Polymer
-    - ShadowDOM
-    - Custom Elements
-    - X-tags
+    - PouchDb
+    - IonicFramework
+    - OpenSource
+    - ng-pouchdb
 
 Speaker:
   name: Daniel Zen
