@@ -1,0 +1,22 @@
+---
+Session:
+  Title: Make Your Bootstrap Template Come Alive...Before Lunch
+  Description: 
+    "Most Angular developers do not want to put the time and energy needed to build out a robust back-end, but sometimes they have to. Today there are a few out-of-the-box backend solutions, however are they really integrated well with Angular and can they scale up? In this presentation we will show you, how to easily build a web app by connecting any Bootstrap Angular-based template to a cloud database through a generic REST API all before you head out for the lunch break.\n
+  You will learn how to: \n
+- Choose a Bootstrap template  and connect it to a cloud database through a REST API.\n
+- Use baked in Angular directives and modify your code.\n
+- Configure server side business rules, set up role base security and manage it all up in the cloud.\n
+You will leave this presentation hungry for lunch and with working knowledge of how to build an end-to-end Angular data-driven app with a full blown backend.\n"
+
+  Length: 20 minutes
+  Tags: 
+    - Backend as a Service
+    - Bootstrap
+    - REST API
+    - Directives
+Speaker:
+  name: Itay Herskovits
+  twitter: itayher
+  email: itay@backand.com
+  bio: With 18 years of software and product development experience, Itay is responsible for the technical development, delivery and operation of the Backand platform. Previously, Itay served as VP Product Management at Mobix.com, Director of Engineering at Ask.com, and Development Manager at Esurance.com.
