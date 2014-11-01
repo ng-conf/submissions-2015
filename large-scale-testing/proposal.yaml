@@ -24,9 +24,10 @@ Session:
     - tools
 
 Speaker:
-  bio: Andres is a software engineer at Google NY. He has been working on very
-    large AngularJS applications since before version 0.9. During his free time
-    he builds development tools and contributes with Protractor.
-  email: code@karateca.con
   name: "Andres Dominguez"
   twitter: andresdom
+  email: code@karateca.con
+  bio: >
+    Andres is a software engineer at Google NY. He has been working on very
+    large AngularJS applications since before version 0.9. During his free time
+    he builds development tools and contributes with Protractor.
