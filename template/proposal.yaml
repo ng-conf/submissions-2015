@@ -1,24 +1,32 @@
 ---
 Session:
-  Title: The Swanson Pyramid of Greatness
+  Title: AngularJS for Enterprise Apps
   Description: >
-    I have been developing the Swanson Pyramid of Greatness for years.
-    It’s a perfectly calibrated recipe for maximum personal achievement. 
-    Categories include: Capitalism, God’s way of determining who is smart, and who is poor.
-    Crying, acceptable at funerals and the Grand Canyon. Rage. Poise. Property rights. 
-    Fish, for sport only, not for meat.
-    Fish meat is practically a vegetable.
+
+    Morgan Stanley has been one of the earliest adopters of AngularJS. Our internal UX framework built 
+    with AngularJS has helped us rapidly create more than 30 new large scale financial applications that are used by our internal staff 
+    and clients. I will walk through our journey with AngularJS by discussing:
+
+      - why and how AngularJS works for enterprise
+      - design best practices for large business applications  
+      - performance considerations 
+
   Length: 20 # sessions are 5 or 20 minutes long
   Tags: 
-    - success
-    - liberty
-    - wisdom
+
+    - enterprise development 
+    - performance
+    - best practices
+    - design patterns 
 
 Speaker:
-  name: Ron Swanson
-  twitter: RonUSwanson
-  email: ron@swanson.net
+  name: Ambika Sukla
+  twitter: ambikasukla
+  email: ambika.sukla@morganstanley.com 
   bio: >
-    Ron, who has an extremely deadpan and masculine personality, 
-    actively works to make city hall less effective and despises interacting with the public. 
-    He loves meat, hunting, whiskey, and breakfast foods. 
+
+    Ambika Sukla is an Executive Director at Morgan Stanley and heads the UX Framework team. 
+    Ambika has spent most of his career writing complex financial applications and creating in house development frameworks
+    at Goldman Sachs and Morgan Stanley. His love for UI Engineering started with Java Applets, and over the years he has developed
+    a deep understanding of UI design and architecture while working with frameworks such as Swing, Flex, JSF, ExtJS, iOS SDK and of course
+    AngularJS.    
