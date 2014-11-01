@@ -1,9 +1,9 @@
 ---
 Session:
-  Title: Clean Your Controllers
+  Title: A Sublime Editor
   Description: >
-    Admit it.  Your controllers are dirty.  There's stuff in there that no man or woman deserves to see. We'll take a quick look at a very dirty controller with all the common pitfalls. Then we'll refactor away into a clean testable work of concise controller craft.
-  Length: 5
+    I love watching how people work. We'll spend the next 20 minutes as I setup Sublime Text from scratch with all the settings, configuration, shortcuts and packages I use every day to maximize my productivity writing good clean AngularJs enabled code.
+  Length: 20
   Tags:
     - controllers
     - refactoring
