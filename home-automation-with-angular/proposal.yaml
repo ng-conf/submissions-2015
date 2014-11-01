@@ -6,13 +6,12 @@ Session:
     automation system. He quickly became frustrated with the limited features available in off-the-shelf systems. Armed
     with an API and a few basic angular skills, he built MOAHAS, the mother of all home automation systems. Using
     angular and express, it enables complex programmatic control of lights and sensors throughout his
-    house using a simple, intuative interface.
+    house using a simple, intuitive interface.
   Length: 20 # sessions are 5 or 20 minutes long
-  Tags: 
+  Tags:
     - home-automation
+    - home-controller
     - insteon
-    - z-wave
-    - wink
     - raspberry-pi
 Speaker:
   name: Ken Heutmaker
