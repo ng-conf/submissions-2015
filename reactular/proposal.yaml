@@ -2,21 +2,21 @@
 Session:
   Title: Reactular
   Description: >
-		Whether you have an existing Angular app and want to incorporate React
-		components as an alternative to Angular directives, or you are looking to
-		migrate from Angular to React entirely, this talk will discuss the performance
-		benefits of using React along with Angular, and how to share data between
-		the two frameworks.
+    Whether you have an existing Angular app and want to incorporate React
+    components as an alternative to Angular directives, or you are looking to
+    migrate from Angular to React entirely, this talk will discuss the performance
+    benefits of using React along with Angular, and how to share data between
+    the two frameworks.
   Length: 20
   Tags:
     - angular
-		- react
-		- data
-		- performance
+    - react
+    - data
+    - performance
 
 Speaker:
   name: Matt Zabriskie
   twitter: mzabriskie
   email: mzabriskie@gmail.com
   bio: >
-		Javascript lover. Open source hacker. Burrito connoisseur.
+    Javascript lover. Open source hacker. Burrito connoisseur.
