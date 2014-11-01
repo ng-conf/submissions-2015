@@ -1,0 +1,23 @@
+---
+Session:
+  Title: Using a RouteInitialization Service
+  Description: >
+    A common scenario I've encountered is the need to share common route initialization
+    across several different controllers. The technique I've settled on for handling this is
+    encapsulating the functionality within a RouteInitialization service that returns a promise.
+    Angular waits for the promise to resolve before changing the route allowing for one or more asynchronous
+    calls to return data. The service can also be made to cache objects that carry over from route
+    to route avoiding uncessary network round trips. I'll demonstrate the pattern with a sample app and
+    hopefully it's something you find useful for you own apps.
+  Length: 5 # sessions are 5 or 20 minutes long
+  Tags:
+    - routing
+    - resolve
+Speaker:
+  name: David Von Lehman
+  twitter: davidvlsea
+  email: david@aerobatic.com
+  bio: >
+    Ron, who has an extremely deadpan and masculine personality,
+    actively works to make city hall less effective and despises interacting with the public.
+    He loves meat, hunting, whiskey, and breakfast foods.
