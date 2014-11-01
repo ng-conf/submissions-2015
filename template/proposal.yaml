@@ -1,24 +1,22 @@
 ---
 Session:
-  Title: The Swanson Pyramid of Greatness
+  Title: Digging into AngularJS styleguide decisions.
   Description: >
-    I have been developing the Swanson Pyramid of Greatness for years.
-    It’s a perfectly calibrated recipe for maximum personal achievement. 
-    Categories include: Capitalism, God’s way of determining who is smart, and who is poor.
-    Crying, acceptable at funerals and the Grand Canyon. Rage. Poise. Property rights. 
-    Fish, for sport only, not for meat.
-    Fish meat is practically a vegetable.
+    Jump into my AngularJS styleguide and the design decisions that went into it. 
+    From nearly 2 years Angular experience, many workshops, talks and engineering 
+    projects - I've learned a few things. This styleguide adopts my best practices 
+    and learnings from working by myself and in teams to make your life adopting 
+    and maintaining Angular a breeze.
   Length: 20 # sessions are 5 or 20 minutes long
   Tags: 
-    - success
-    - liberty
-    - wisdom
+    - teams
+    - styleguide
 
 Speaker:
-  name: Ron Swanson
-  twitter: RonUSwanson
-  email: ron@swanson.net
+  name: Todd Motto
+  twitter: toddmotto
+  email: todd@toddmotto.com
   bio: >
-    Ron, who has an extremely deadpan and masculine personality, 
-    actively works to make city hall less effective and despises interacting with the public. 
-    He loves meat, hunting, whiskey, and breakfast foods. 
+    Lead front-end engineer and developer advocate at Appsbroker, 
+    Developer Expert at Google (GDE), open source lover, JavaScript 
+    and HTML5 fanatic.
