@@ -1,18 +1,26 @@
 ---
 Session:
-  Title: Material Design in practice with AngularJS
+  Title: 4-Way Data-Binding for Offline Data Synchronization
   Description: >
-    Material Design is Google’s specification for a unified system of visual, motion, and interaction design
-    that adapts across different devices. Available for both the web & mobile, it is the basis for the design
-    of the upcoming Android L OS. Found out how to put Material Design’s principles & goals into practice with
-    Angular Material, the AngularJS implementation. Experience how easy it can be to create a beautiful UX for
-    your application using the Material metaphor.
+    You can read, send and delete mail from your mobile email client when you are offline, why not from your
+    AngularJS app? Web applications no longer need to be dependent on a server. We need to stop treating offline
+    as an error condition. Mobile applications need to be able to work without an internet connection to make
+    them useful to your users in more situations.
+
+    Using open-source technologies, such as PouchDb & CouchDb, we will create a 4-way data binding (model, UI,
+    local storage & remote storage). Using the Ionic Framework we will walk through the steps of creating a
+    mobile application capable of working and persisting offline with a local 3-way data binding. Then we will
+    add a remote CouchDb server to enable online synchronization via a 4-way data binding.
+
+    Finally, I will show how you can use the opensource ng-pouchdb library to create your own application.
 
   Length: 20 # sessions are 5 or 20 minutes long
   Tags:
-    - UX
-    - UI
-    - materialdesign
+    - WebComponents
+    - PouchDb
+    - IonicFramework
+    - OpenSource
+    - ng-pouchdb
 
 Speaker:
   name: Daniel Zen
