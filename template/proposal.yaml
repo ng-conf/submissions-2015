@@ -3,9 +3,10 @@ Session:
   Title: AngularJS for Enterprise Apps
   Description: >
 
-    Morgan Stanley has been one of the earliest adopters of AngularJS. Our internal UX framework built 
-    with AngularJS has helped us rapidly create more than 30 new large scale financial applications that are used by our internal staff 
-    and clients. I will walk through our journey with AngularJS by discussing:
+    Morgan Stanley has been one of the early adopters of AngularJS. Our internal UX framework built 
+    with AngularJS has helped us rapidly create more than 30 new large scale financial applications 
+    that are used by our internal staff and clients. 
+    I will walk through our journey with AngularJS by discussing:
 
       - why and how AngularJS works for enterprise
       - design best practices for large business applications  
