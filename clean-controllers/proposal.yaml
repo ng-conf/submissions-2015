@@ -1,18 +1,14 @@
 ---
 Session:
-  Title: Run Your Tests Everywhere In 5 Minutes Or Less
+  Title: Clean Your Controllers
   Description: >
-    If you only run tests on your dev box in chrome, you are doing it wrong.  One of the beauties of writing tests is that we can run them in multiple environments.  In five minutes or less, I will show you how to hook your tests up to Sauce labs and run them on more devices than you would ever dare support.
+    Admit it.  Your controllers are dirty.  There's stuff in there that no man or woman deserves to see. We'll take a quick look at a very dirty controller with all the common pitfalls and quickly refactor into a clean testable work of concise controller craft.
   Length: 5
   Tags:
-    - testing
-    - cross-browser
-    - sauce
-    - tdd
-    - bdd
-    - karma
-    - jasmine
-    - protractor
+    - controllers
+    - refactoring
+    - best practices
+    - testable
 
 Speaker:
   name: Hunter Powers
