@@ -1,0 +1,25 @@
+---
+Session:
+  Title: $asqwatch is real!
+  Description: >
+    All that Angular, all that power. Turns out Angular's best feature can also be
+    the main suspect in your not so fast apps. Those $asqwatches are there, wheter you see them or not,
+    Learn how to use less of Angular and speed up your apps by levering community tools and small
+    but powerful techniques.
+  Length: 20 # sessions are 5 or 20 minutes long
+  Tags:
+    - performance
+    - speed
+    - $watch
+    - optimizations
+
+Speaker:
+  name: William Scott Moss
+  twitter: scotups
+  email: scott.moss@hackreactor.com
+  bio: >
+    Scott is an Engineer and instructor at Hack Reactor where he develops and teaches curricula
+    in Angular and Node. He's also the author of ngFx, the most popular Angular animation library.
+    When he's not assisting students or learning, he spends his time with his family in Oakland, CA
+    or in a gym
+
