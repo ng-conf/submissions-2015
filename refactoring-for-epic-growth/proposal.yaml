@@ -1,0 +1,42 @@
+---
+Session:
+  Title: Refactoring Angular Apps for Epic Growth
+  Description: >
+    Angular is a great framework! However, it's not a silver bullet. Easy
+    decisions today lead to extreme difficulty later on at scale, but it's not
+    obvious which ones are safe and which are dangerous. To combat this
+    uncertainty, we must design our apps to be refactored and be vigilant about
+    fighting cruft. We will share our insights from scaling Rackspace Cloud
+    Intelligence from a simple prototype to a large production app supporting
+    customers who need to monitor thousands of servers with up-to-the-minute
+    metrics. Specifically, we will discuss how we changed our approach in
+    writing and composing directives that led to epic wins in both scale and
+    developer experience.
+  Length: 20
+  Tags:
+    - refactoring
+    - css
+    - developer experience
+    - scalability
+    - maintainability
+
+Speaker:
+  name: Ken Sheedlo
+  twitter: kensheedlo
+  email: me@kensheedlo.com
+  bio: >
+    Ken is a User Interface Engineer at Rackspace who is dedicated to building
+    products that users and developers love. He is one half of the incredible
+    Angular summer intern class of 2013 and loves African dance, traveling
+    cheaply, and turkey bacon and avocado sandwiches.
+
+Speaker2:
+  name: Satheesh Kumar
+  twitter: sathify
+  email: satheesh7@gmail.com
+  bio: >
+    Satheesh is a User Interface Engineer at Rackspace with a passion for
+    building products with exceptional user experience. He is the author of
+    CCSS, a new modular architecture for CSS which improves the CSS authoring
+    experience at scale. His favourite AngularJS features are directives,
+    dependency injection and transclusion.
