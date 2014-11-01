@@ -1,18 +1,18 @@
 ---
 Session:
-  Title: Make Your Bootstrap Template Come Alive...Before Lunch
+  Title: Refurb Your Existing Applications with Angular
   Description: 
-    "Most Angular developers do not want to put the time and energy needed to build out a robust back-end, but sometimes they have to. Today there are a few out-of-the-box backend solutions, however are they really integrated well with Angular and can they scale up? In this presentation we will show you, how to easily build a web app by connecting any Bootstrap Angular-based template to a cloud database through a generic REST API all before you head out for the lunch break.\n
-  You will learn how to: \n
-- Choose a Bootstrap template  and connect it to a cloud database through a REST API.\n
-- Use baked in Angular directives and modify your code.\n
-- Configure server side business rules, set up role base security and manage it all up in the cloud.\n
-You will leave this presentation hungry for lunch and with working knowledge of how to build an end-to-end Angular data-driven app with a full blown backend.\n"
+    "In the enterprise world there are endless data-driven applications, and they usually need to be upgraded every few years. With Angular being a huge trend, many companies are in the process of refurbing their existing apps using Angular and maybe even give it a beautiful and easy to use UI using a Bootstrap template. Of course you can rebuild it from scratch (really?), but what if you can reverse engineer the application and migrate it fast and easy?\n
+  In this presentation you will learn how to: \n
+- Reverse engineer the data-driven application business logic into a robust back-end.\n
+- Connect Angular front-end in no time with all the app's business logic represented as REST API.\n
+- Apply more server side business rules, set up role base security and manage it all up in the cloud.\n
+At the end of the presentation the old application will be made over into a beautiful Angular app with a full blown backend.\n"
 
   Length: 20 minutes
   Tags: 
     - Backend as a Service
-    - Bootstrap
+    - enterprise
     - REST API
     - Directives
 Speaker:
