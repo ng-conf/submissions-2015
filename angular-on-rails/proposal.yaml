@@ -1,0 +1,20 @@
+---
+Session:
+  Title: Angular on Rails
+  Description: >
+    Tips and tricks along with lessons learned after 1.5 years of ERB-free development 
+    using an Angular frontend on top of a Rails backend.
+  Length: 5
+  Tags: 
+    - rails 
+    - API
+
+Speaker:
+  name: Kendall Park
+  twitter: kendallpark
+  email: darkidder@gmail.com
+  bio: >
+    Kendall has been a full-time AngularJS/Rails developer for ~1.5 years. In her 
+    spare time she both plays and coaches (American!) football. When she is not at 
+    work or practice you can find her lifting weights, playing Smash Bros (Melee, of 
+    course), or updating her brokenshard.net artblog.
