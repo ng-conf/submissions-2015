@@ -2,7 +2,7 @@
 Session:
   Title: Clean Your Controllers
   Description: >
-    Admit it.  Your controllers are dirty.  There's stuff in there that no man or woman deserves to see. We'll take a quick look at a very dirty controller with all the common pitfalls and quickly refactor into a clean testable work of concise controller craft.
+    Admit it.  Your controllers are dirty.  There's stuff in there that no man or woman deserves to see. We'll take a quick look at a very dirty controller with all the common pitfalls. Then we'll refactor away into a clean testable work of concise controller craft.
   Length: 5
   Tags:
     - controllers
