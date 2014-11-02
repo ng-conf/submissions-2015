@@ -4,7 +4,7 @@ Session:
   Description: >
     Most people wait their entire life to get a badge granting them permission to be awesome.
     We would like to challenge that notion by telling you how one of the most popular AngularJS sites came to be.
-    We are going reveal our exact playbook we used to build Plunker with AngularJS so that it could handle almost 20,000 unique visitors a day.
+    We are going reveal the exact playbook we used to build Plunker with AngularJS so that it could handle almost 20,000 unique visitors a day.
     We will also tell you how we did it in our spare time.
     You don't need no stinkin' badges to be awesome!
   Length: 20 # sessions are 5 or 20 minutes long
