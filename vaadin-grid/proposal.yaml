@@ -1,0 +1,29 @@
+---
+Session:
+  Title: Vaadin Grid component for AngularJS
+  Description: >
+    While Vaadin Framework has solely been available to Java developers in the
+    past, we have just released two things that are interesting to front-end
+    developers using AngularJS. 1) Vaadin client-side widgets are now usable 
+    independently of the Java Framework as web components. 2) Vaadin has a
+    new Grid component that makes scrolling through millions of rows butter 
+    smooth and allows customizing presentation with cell renderers. In this 
+    session we will show by example how one can start using the Apache licensed
+    Vaadin Grid with AngularJS in plain JavaScript.
+  Length: 20 # sessions are 5 or 20 minutes long
+  Tags: 
+    - Grid
+    - Vaadin
+    - Web components
+
+Speaker:
+  name: Joonas Lehtinen
+  twitter: joonaslehtinen
+  email: joonas@vaadin.com
+  bio: >
+    Dr. Joonas Lehtinen is the founder of Vaadin project, a Java-based framework
+    for building awesome web UI easily in Java. He is the founder and CEO of the
+    company behind the Vaadin framework and leads a team of 90 engineers who are
+    mostly working in European timezones. While not in a hangout to 10 time zones
+    away from Vaadin's Silicon Valley offices, Joonas keeps failing in getting rid
+    of his Finnish accent.
