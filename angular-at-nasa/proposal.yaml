@@ -1,0 +1,27 @@
+---
+Session:
+  Title: AngularJS at NASA From Eye Candy to CRUD
+  Description: >
+    We used AngularJS, three.js and D3.js to create a touchscreen display for NASA that is used to educate the general public as well as budgetary decision makers on the value of flying low earth orbit satellites in tight formations.
+    Describing sun synchronous low earth orbits in words is painful and requires a ridiculous amount of background information. Stop yawning!
+    Our 3D depiction of current satellite paths can explain them in less than 30 seconds and has caused at least one presumably jaded high schooler to become separated from their tour group!
+    The touchscreen uses Chrome running in kiosk mode with Node as the backend for data aggregation and calculations.     
+    D3.js is used to build the background image of the earth, complete with ground trails and night lights. Three.js is used to build the WebGL view of the earth and the satellites.
+    AngularJS directives and services provide modularity and help encapsulate the gory details of the system.
+    We have built on this small but shiny success by rewriting a medium sized CRUD app for the same customer, using AngularJS and Bootstrap.
+    Along the way, we have learned a lot about driving a conservative organization to adopt new technologies, good and bad ways to use AngularJS, and the power of obstinate optimism. 
+  Length: 20 # sessions are 5 or 20 minutes long
+  Tags: 
+    - AngularJS
+    - three.js
+    - D3.js
+    - sun synchronous low earth orbits
+    - driving technology adoption
+
+Speaker:
+  name: CT Arrington
+  twitter: ctarrington
+  email: arrington.ct@gmail.com
+  bio: >
+    CT is a husband, father, runner, and an occasionally adequate plumber.
+    In his past life as a Java developer he wrote Enterprise Java with UML and spoke once at the IBM / Rational Software Development conference.
