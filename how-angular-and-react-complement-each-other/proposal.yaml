@@ -1,0 +1,27 @@
+---
+Session:
+  Title: How Angular and React Complement Each Other
+  Description: >
+    Nothing's wrong with Angular. But if you wanted to augment it with a view-specific
+    library like React, you'd find that the two actually complement each other well. Angular
+    brings with it a solid architecture and ecosystem for building complete web applications
+    along with an unparalleled open source community. But if we are strictly talking about views,
+    React has an advantage with its virtual DOM and synthetic events.
+
+    So there are a few use cases where you would want to delegate the view to React instead of
+    keeping it in Angular. I'd like to discuss how ngReact facilitates a smooth interaction of
+    React with Angular without losing all of the things that makes Angular great.
+  Length: 5 # sessions are 5 or 20 minutes long
+  Tags:
+    - react
+    - architecture
+
+Speaker:
+  name: David Chang
+  twitter: davidchizzle
+  email: dchang.me@gmail.com
+  bio: >
+    David Chang is a front end engineer at Tune in Seattle, Washington.
+    He is the creator of ngReact and has written on experimenting with React
+    inside of Angular for performance gains, simpler data flows, and isomorphism
+    on davidandsuzi.com. He enjoys all things JavaScript, his wife Suzi, and running.
