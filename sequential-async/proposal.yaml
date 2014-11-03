@@ -2,8 +2,9 @@
 Session:
   Title: AngularJS Promises Sequential Async
   Description: >
-    Promises in AngularJS is the best! However, understanding fully the nucleaus of the promise complexity is not entirely intuitive.  
-    In this presentation we take a beginners dive into the nitty-gritty; single-threaded nature of the browsers, the callback model, AJAX, Promises and thenable methods, and finally AngularJS $q, $http. 
+    Promises in AngularJS is the best! However, fully understanding the nucleus of how promises work is not entirely intuitive.  
+    In this presentation we'll take a beginner's dive into the nitty-gritty, looking at the single-threaded nature of browsers, the callback model, AJAX, Promises and thenable methods and, finally, AngularJS $q, $http.
+    Come and learn a buttload of crap about Promises!
     Categories include:AngularJS, Promises, AJAX, Callbacks, JavaScript 
   Length: 20 # sessions are 5 or 20 minutes long
   Tags: 
