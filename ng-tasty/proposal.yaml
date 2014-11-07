@@ -1,0 +1,33 @@
+---
+Session:
+  Title: ngTasty - Building high performance measurable directives
+  Description: >
+  	My team at Twitter is tasked with building internal tools using agile methodologies with a focus 
+  	on rapid iteration. This results in a need to build reusable components that we can continually 
+  	improve upon. With each new project we increase performance of the components used by all of our 
+  	applications. With input from Jeff Cross, I will discuss how we focus on performance when designing 
+  	reusable components that are measurably fast. You may already know about Batarang, but how can you 
+  	use it in conjunction with Benchpress to design, measure, and identify specific areas of improvement 
+  	in your application? I will present real-life examples from our ngTasty implementations at Twitter 
+  	that demonstrate how you can use these tools together to develop the fastest directive you have ever made.
+  Length: 20 # sessions are 5 or 20 minutes long
+  Tags: 
+    - performance
+    - benchmarking
+    - Benchpress
+    - Batarang
+    - Twitter
+    - ngTasty
+    - directives
+    - design
+
+Speaker:
+  name: Leonardo Zizzamia
+  twitter: zizzamia
+  email: leonardo@twitter.com
+  bio: >
+    Leo is a software engineer at Twitter and has contributed to AngularJS by benchmarking with Benchpress.
+    He teaches the "A Taste of AngularJS" and "AngularJS Essentials" classes for Twitter University
+    where he helps Twitter engineers to learn and improve skills with AngularJS. Leo uses AngularJS
+    on daily basis on internal applications at Twitter. When Leo is not coding AngularJS,
+    he can usually be found drinking gibraltar at the @TwitterLodge.
