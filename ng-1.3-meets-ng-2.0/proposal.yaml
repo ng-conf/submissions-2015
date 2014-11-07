@@ -1,0 +1,21 @@
+---
+Session:
+  Title: Angular 1.3 meets Angular 2.0
+  Description: >
+    A lot of Angular 2.0 proposals rely on established best practices from existing Angular 1.3
+    apps. In this talk I'll show how one can organize the Angular 1.3 project so that it's easier
+    to find one's way in a large code base and migrate to Angular 2.0 in the future.
+  Length: 20 # sessions are 5 or 20 minutes long
+  Tags: 
+    - migration
+    - angular2
+    - project structure
+
+Speaker:
+  name: Michał Gołębiowski
+  twitter: m_gol
+  email: m.goleb@gmail.com
+  bio: >
+    Michał is fascinated by new front-end technologies, especially ECMAScript 6 & further. He's
+    a jQuery Core Team and Angular Working Group member. He loves how easy it is today to contribute
+    to large front-end projects like Angular and in this way have an impact on large part of the internet.
