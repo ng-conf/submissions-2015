@@ -1,0 +1,21 @@
+---
+Session:
+  Title: NG-WAT?
+  Description: >
+    Inspired by the legendary talk of Gary Bernhardt, It's time we'll have an Angular WAT talk!
+    We'll go over the quirks and funky stuff every new Angular dev waste few hours
+    staring in confusion at the screen trying to figure out... WAT?!
+    Prepare your adult diapers, 'cause this one is gonna be hilarious!
+  Length: 15 # can also be 10
+  Tags: 
+    - wat
+    - funny
+Speaker:
+  name: Shai Reznik
+  twitter: shai_reznik
+  email: shai@hirez.io
+  bio: >
+    Angular.js consultant, co-organizer of ng-conf IL, GDG lead and founder of the Javascript Israel meetup group.
+    Worked with over 17 enterprise companies migrating large scale apps to Angular.
+    Founded HiRez.io - an online training school aimed to make people laugh while teaching front end architecture.
+    Shai is also an pro Improv performer with a standup comedian background.
