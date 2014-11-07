@@ -1,0 +1,25 @@
+---
+Session:
+  Title: "Community Building How-To: Make More Angular Devs Now"
+  Description: >
+    Angular's success depends on a thriving community. The apps that we create can
+    better serve the world if our diversity reflects the diversity of our audience. How
+    can we attract more developers of all kinds to Angular, and reach out to underrepresented
+    groups? In this talk, I will draw upon my learnings from creating communities in gaming and
+    programming, with a case study of RailsbridgeSF's success in gender diversity outreach
+    and its effects on other programming communities. This talk is a call to action with
+    concrete steps you can take to foster inclusion in the Angular community in your own home
+    city. Angular needs you, and the time is now. 
+  Length: 20 # sessions are 5 or 20 minutes long
+  Tags: 
+    - community
+    - diversity
+
+Speaker:
+  name: Judy Tuan
+  twitter: judytuna
+  email: judytuna@gmail.com
+  bio: >
+    Judy is a developer at Indiegogo. In San Francisco, she has volunteered with Railsbridge, 
+    led Women Who Code, and mentored at Hackbright Academy. She loves games, constructed 
+    languages, and singing a cappella. 
