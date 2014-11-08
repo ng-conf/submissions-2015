@@ -1,6 +1,6 @@
 ---
 Session:
-  Title: Restoring the Peace with JSON Validation and Angular
+  Title: Restoring the Peace with JSON Validation and Swagger
   Description: >
     Using JSON as a data interchange format is awesome - until it isn't. That's when the
     recriminations between front-end and back-end devs start: "You spelt that property name wrong!"
@@ -8,12 +8,13 @@ Session:
     numeric timestamp for dates, I wanted a human-readable string!"
 
     Testing tools like Protractor can help to a certain degree, but wouldn't it be great if there
-    was a way to specify the format of your JSON? Oh wait, there is: it's called JSON Schema!
+    was a way to specify the format of your JSON?
 
-    In this presentation we'll do a quick intro to JSON Schema, then dive into how Angular makes it
-    spectacularly easy to hook JSON schema validation into your app using the power of interceptors
-    and promises. Finally, we'll look at the pros and cons of using Angular with Swagger, which is a
-    standard for specifying RESTful APIs with JSON.
+    In this presentation we'll take a look at a couple of the different options that are available
+    to you right now for validating JSON. We'll then see how Angular makes it spectacularly
+    easy to hook JSON schema validation into your app using the power of interceptors and promises.
+    Finally, we'll look at the pros and cons of using Angular with Swagger, which is a standard for
+    specifying entire RESTful APIs with JSON.
 
     Attendees will leave with an understanding of how best they can use JSON schema validation to
     eliminate a whole range of bugs from their Angular apps, restoring at least a little peace and
