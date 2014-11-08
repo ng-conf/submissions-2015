@@ -1,0 +1,29 @@
+---
+Session:
+  Title: angular-meteor - Working with the 2 great eco-systems together
+  Description: >
+    Meteor 1.0 just been released and the great power it gives to proggramers is amazing.
+    As a hard core AngularJS developer I wasn't so happy with their choice to invent a new templating engine called Blaze.
+    Reserching into thier code I've found why they did that and why it doesn't stop me from using AngularJS.
+    Better then that, I can use all the power, simplicity and eco-system of AngularJS together with all the tools of Meteor
+    (including Meteor's great power integration with Cordova). A real match from heavens!
+    After 2 production apps with Meteor, AngularJS and Ionic Framwork I have to say, there is nothing compared to that!
+  Length: 20 # sessions are 5 or 20 minutes long
+  Tags: 
+    - angularjs
+    - Meteor
+    - Cordova
+    - PhoneGap
+    - Ionic
+
+Speaker:
+  name: Uri Goldshtein
+  twitter: @UriGoldshtein
+  email: uri.goldshtein@gmail.com
+  github: @Urigo
+  bio: >
+    Uri owns a small dev-shop and travels around the world building stuff and consulting to various companies.
+    Started with assembler, C++, C# and WPF before taking on the web a few years ago.
+    Since then he regularly speaks about AngularJS until moving on to develop the library 'angular-meteor' and now
+    talking about that every chance he gets.
+
