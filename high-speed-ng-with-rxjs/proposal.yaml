@@ -1,0 +1,23 @@
+---
+Session:
+  Title: High Speed Angular with RxJS
+  Description: >
+    Angular is performant enough for most apps, most of the time; But what happens when you're trying to push every drop of performance out
+    of your browser app? How can you handle a fire hose of data from socket pushes streaming to your UI while you've got mouse hover events
+    firing, without things locking up? Reactive programming is your answer. RxJS is a robust library of tools to handle streams of data in
+    amazing ways and it integrates well with any framework. This talk will focus on strategies for using RxJS to alleviate computational stress
+    and complexity in your app.
+  Length: 30
+  Tags:
+    - angular
+    - performance
+    - rxjs
+    - reactive-programming
+
+Speaker:
+  name: Ben Lesh
+  twitter: benlesh
+  email: ben@benlesh.com
+  bio: >
+    Ben Lesh is a Senior UI Engineer at Netflix in Los Gatos, CA. Ben works on realtime data analytics in the browser for events 
+    streaming from the Netflix cloud. He is an Angular contributor, and he works with Angular, Ember, RxJS and D3 daily.
