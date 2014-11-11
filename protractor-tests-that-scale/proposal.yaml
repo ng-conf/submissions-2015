@@ -4,9 +4,13 @@ Session:
   Description: >
     Inspired by last year's excellent talk, "Angular Directives that Scale", I intend to address
     some of the missing gaps on the testing side of things. When developers and testers begin to
-    blur the line of what is expected from eachother, wonderful things are possible. I will also focus on
+    blur the line of what is expected from eachother, wonderful things are possible. I will focus on
     the most important optimization you can invest into your end to end tests -- optimizing for readability.
-  Length: 20
+    At Rackspace, we've implemented a centralized component library, and I'll show you how I've leveraged that
+    to also include page objects for end to end tests. It's saved us a lot of effort, and uses familiar
+    concepts that you'd expect from a devlopment workflow, only applied to the testing effort.
+
+  Length: 10
   Tags:
     - testing
     - protractor
@@ -14,6 +18,7 @@ Session:
     - component
     - sdet
     - selenium
+    - page objects
 
 Speaker:
   name: Andrew Yurisich
