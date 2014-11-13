@@ -1,0 +1,24 @@
+
+---
+Session:
+  Title: JSON Web Tokens (JWTs), how do they work?
+  Description: >
+    JWTs or JSON Web Tokens are very useful for authentication in single
+    page applications. In this talk, we'll go over how they work and why you
+    would want to use them.
+  Length: 5
+  Tags:
+    - authentication
+    - JWT
+Speaker:
+  name: Nicolas Porter
+  twitter: @surjikal
+  email: nick@42technologies.com
+  bio: >
+    Nick Porter is the CTO and Co-Founder of 42 (YC W14), which is an angular-based data analysis
+    platform for brick-and-mortar retailers.
+
+    Nick has previously shipped software for Jack-In-The-Box and Marriot. He has also done academic
+    research on object system designs in game engines.
+---
+

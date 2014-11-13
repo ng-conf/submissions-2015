@@ -1,24 +1,24 @@
-
 ---
 Session:
-  Title: JSON Web Tokens (JWTs), how do they work?
+  Title: The Swanson Pyramid of Greatness
   Description: >
-    JWTs or JSON Web Tokens are very useful for authentication in single
-    page applications. In this talk, we'll go over how they work and why you
-    would want to use them.
-  Length: 5
-  Tags:
-    - authentication
-    - JWT
+    I have been developing the Swanson Pyramid of Greatness for years.
+    It’s a perfectly calibrated recipe for maximum personal achievement. 
+    Categories include: Capitalism, God’s way of determining who is smart, and who is poor.
+    Crying, acceptable at funerals and the Grand Canyon. Rage. Poise. Property rights. 
+    Fish, for sport only, not for meat.
+    Fish meat is practically a vegetable.
+  Length: 20 # sessions are 5 or 20 minutes long
+  Tags: 
+    - success
+    - liberty
+    - wisdom
+
 Speaker:
-  name: Nicolas Porter
-  twitter: @surjikal
-  email: nick@42technologies.com
+  name: Ron Swanson
+  twitter: RonUSwanson
+  email: ron@swanson.net
   bio: >
-    Nick Porter is the CTO and Co-Founder of 42 (YC W14), which is an angular-based data analysis
-    platform for brick-and-mortar retailers.
-
-    Nick has previously shipped software for Jack-In-The-Box and Marriot. He has also done academic
-    research on object system designs in game engines.
----
-
+    Ron, who has an extremely deadpan and masculine personality, 
+    actively works to make city hall less effective and despises interacting with the public. 
+    He loves meat, hunting, whiskey, and breakfast foods. 
