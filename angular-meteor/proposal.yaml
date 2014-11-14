@@ -2,12 +2,12 @@
 Session:
   Title: angular-meteor - Working with the 2 great eco-systems together
   Description: >
-    Meteor 1.0 just been released and the great power it gives to proggramers is amazing.
-    As a hard core AngularJS developer I wasn't so happy with their choice to invent a new templating engine called Blaze.
-    Reserching into thier code I've found why they did that and why it doesn't stop me from using AngularJS.
-    Better then that, I can use all the power, simplicity and eco-system of AngularJS together with all the tools of Meteor
-    (including Meteor's great power integration with Cordova). A real match from heavens!
-    After 2 production apps with Meteor, AngularJS and Ionic Framwork I have to say, there is nothing compared to that!
+    Meteor 1.0 just been released and the great power it gives to programmers is incredible.
+    As a hard core AngularJS developer I wasn't so happy with Meteor’s choice to invent a new templating engine called Blaze.
+    Researching into Meteor’s code I've learned more about the philosophies behind the choices they’ve made and why it doesn't stop us from using it with AngularJS.
+    Even better, we can use all the power, simplicity and eco-system of AngularJS together with Meteor’s tools (including Meteor's great integration with Cordova).
+    After a few production apps with Meteor, AngularJS and Ionic Framework we came to realize , AngularJS and Meteor are a match made in heaven!
+    The talk will be about Meteor’s concepts, how to integrate AngularJS and Ionic Framework into it and a technical details about the angular-meteor implementation and how it utilizes concepts from both AngularJS and Meteor.
   Length: 20 # sessions are 5 or 20 minutes long
   Tags: 
     - angularjs
@@ -22,8 +22,8 @@ Speaker:
   email: uri.goldshtein@gmail.com
   github: @Urigo
   bio: >
-    Uri owns a small dev-shop and travels around the world building stuff and consulting to various companies.
-    Started with assembler, C++, C# and WPF before taking on the web a few years ago.
-    Since then he regularly speaks about AngularJS until moving on to develop the library 'angular-meteor' and now
-    talking about that every chance he gets.
+    Uri is the creator of the angular-meteor package which makes the integration between AngularJS and Meteor as seamless as possible.
+    Uri travels around the world building stuff and consulting to various companies.
+    Started with assembler, C++, then C# and WPF before taking on the web a few years ago.
+    Since then he regularly speaks and lectures about AngularJS until moving on to develop the library 'angular-meteor' and now he is talking about angular-meteor every chance he gets.
 
