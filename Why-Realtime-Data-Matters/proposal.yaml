@@ -5,7 +5,7 @@ Session:
     The future of the web is realtime, but the way we develop apps is still based off of the CRUD model.
     CRUD is a pattern that keeps us blind to updates on the server. It's time to ditch the CRUD model
     and the $http service. Now is the time to start syncing our data in realtime.
-
+    
     In this talk we'll will examine the limitations of a CRUD app. Then using Firebase we'll gut out the
     $http service, and evolve it to a realtime app with AngularFire.
   Length: 20 # sessions are 5 or 20 minutes long
@@ -17,6 +17,6 @@ Speaker:
   twitter:
   email: james@firebase.com
   bio: >
-  James Tamplin is the CEO of Firebase. He has a bachelor's and a master's degree in
-  Industrial and Systems Engineering from the University of Wisconsin. He has been
-  a stage actor in New York, an improv comic, and a realtime data maestro.
+    James Tamplin is the CEO of Firebase. He has a bachelor's and a master's degree in
+    Industrial and Systems Engineering from the University of Wisconsin. He has been
+    a stage actor in New York, an improv comic, and a realtime data maestro.
