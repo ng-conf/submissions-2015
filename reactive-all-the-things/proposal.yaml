@@ -1,0 +1,43 @@
+---
+Session:
+  Title: Reactive all the things
+  Description: >
+    Angular is performant enough for most apps, most of the time;
+    But what happens when you're trying to push every drop of performance out
+    of your browser app? Making your Webapp performant and at the same time
+    have nice, loosely coupled code based on resauble blocks is extremely hard.
+    How would you handle a fire hose of data from socket pushes streaming to your UI
+    while you've got mouse hover events firing? Reactive Programming is the answer to
+    these questions.
+    In this talk, we'll learn first what Reactive Programming really means and then
+    we'll dive into practical examples on how Netflix is leveraging Reactive Programming
+    to make performant, scalable and loosely coupled apps.
+  Length: 20 # sessions are 5 or 20 minutes long
+  Tags:
+    - reactive
+    - rx
+    - rxjs
+    - map
+    - observable
+
+Speaker:
+  name: Ben Lesh
+  twitter: benlesh
+  email: ben@benlesh.com
+  bio: >
+    Ben Lesh is a Senior UI Engineer at Netflix in Los Gatos, CA.
+    Ben works on realtime data analytics in the browser for events
+    streaming from the Netflix cloud.
+    He is an Angular contributor, and he works with Angular, Ember, RxJS and D3 daily.
+Speaker2:
+  name: Martin Gontovnikas
+  twitter: mgonto
+  email: martin@gon.to
+  bio: >
+    Martin Gontovnikas has been a tech nerd since he was 12 years old.
+    Now, he's a web developer, trainer, speaker and writer.
+    He currently works as a Developer Advocate at Auth0.
+    He's a big advocate and contributor for Open Source sofware.
+    He has built Restangular, angularytics, factory_pal, angular-jwt and many more!
+    He (not so) frequently blogs at http://gon.to/blog/ and has spoken at
+    Devoxx, ngEurope and dotJS among others.
