@@ -1,0 +1,22 @@
+---
+Session:
+  Title: Realtime AngularJS apps with SailsJS
+  Description: >
+    Build your own websocket powered, 3-way bound, automagically updating, data-centric, AngularJS apps powered by SailsJS.
+    Choose your own adventure - use $sailsSocket to replace boring $http, or go full-awesome with $sailsResource - the missing Model layer for Angular.
+    We'll build an Ionic app to replace your boring iMessage app, in less time than it takes the NSA to hack your text messages.
+
+  Length: 20 # sessions are 5 or 20 minutes long
+  Tags: 
+    - websockets
+    - sailsJS
+    - realtime
+    - REST
+
+Speaker:
+  name: Rob Wormald
+  twitter: robwormald
+  email: robwormald@gmail.com
+  bio: >
+    Born in the barren deserts of Texas, Rob recently moved to San Franciso to join Jiff, Inc as a Senior Web Engineer, where he builds Ionic apps that help companies keep their employees healthy and happy. 
+    He maintains the angularSails project and contributes to the SailsJS project, as well as spending an inordinate amount of time on IRC preaching the ng-gospel.
