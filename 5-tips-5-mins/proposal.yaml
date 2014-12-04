@@ -1,0 +1,26 @@
+---
+Session:
+  Title: 5 Angular Development Tips in 5 Minutes
+  Description: >
+    We've all experienced it. You're sitting down with someone, trying to debug something. They do something cool and you say "wait, what did you just do there?"
+    We don't even know what cool development and debugging tricks we're missing out on until someone shows us and we have that "ah hah" moment.
+    Be prepared for 5 awesome "ah hah" moments in this lightning talk.
+  Length: 5
+  Tags:
+    - angular
+    - debugging
+    - development
+    - advanced tips
+
+Speaker:
+  name: Kent C. Dodds
+  twitter: kentcdodds
+  email: kent@doddsfamily.us
+  bio: >
+    Kent C. Dodds is a professional frontend developer working at Alianza.
+    Kent's an egghead instructor and loves sharing what he knows with the world in small bite-sized videos.
+    Kent's active in the open source community with projects of his own and others (including AngularJS core).
+    Find him on GitHub (kentcdodds).
+    Kent loves building things with JavaScript (vanilla, AngularJS, and ReactJS flavors) and talking with people about code.
+    If you like talking about code too, he'd love to chat!
+    And, if you're reading this in a published thing, Kent's also speaking at ng-conf :-)
