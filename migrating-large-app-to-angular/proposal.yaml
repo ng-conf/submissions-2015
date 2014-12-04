@@ -1,0 +1,35 @@
+---
+Session:
+  Title: Migrating a Large, Actively Maintained Application to Angular
+  Description: >
+    AOL/Advertising.com has an existing web application, written in Java on the
+    backend and with ~100k lines of Javascript on top of ExtJS (3.4). The
+    application has been in production for three years. We made the decision to
+    split the Javascript UI component from the Java backend so that we could
+    speed up development and move toward a more continuous deployment model. We
+    also decided to migrate from the old version of ExtJS to Angular, so we
+    could take advantage of all the work being doing around it. The application
+    is large enough that we could not simply stop work on it to do a complete
+    port to Angular however, so we had to integrate the new Angular parts of
+    the application with the existing ExtJS interface, while moving towards our
+    continuous integration and deployment goals. I'll talk about the main
+    technique we use, iframes to the new Angular based web application built
+    into the existing one, and other lessons learned during the (still going!)
+    changeover.
+  Length: 5
+  Tags: 
+    - case study
+    - migration
+    - integration
+    - iframe
+
+Speaker:
+  name: David Raynes
+  twitter: rayners
+  email: rayners@gmail.com
+  bio: >
+    David has been working on web applications for nearly 20 years. He has
+    worked with Perl, Ruby, Java, JavaScript, and a handful of frameworks in his
+    time, though he is new to Angular. He was a co-author on Hacking Movable
+    Type and has gets a real kick out of automation and testing.
+    
