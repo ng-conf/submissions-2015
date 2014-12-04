@@ -1,0 +1,33 @@
+Session:
+  Title: Angular in the Classroom: Building a Realtime Experience with Angular and Socket.IO
+  Description: >
+    Schools have notoriously bad networks. Steel lockers, cinder blocks, and outdated technology strangle the network.
+    Whatever bandwidth is left is swallowed by hundreds or thousands of students connecting at the same time.
+    Yet making a difference in the classroom demands an interactive, beautiful, uninterupted online experience.
+    Using Angular and Socket.IO we demonstrate how we overcame these challenges at Amplify Education.
+    We will provide tips you can use to make your apps more reactive, easier to maintain, and a joy to use.
+
+  Length: 20
+  Tags:
+    - reactive
+    - websockets
+    - education
+
+Speaker:
+  name: Thomas Lahr
+  twitter: tjlahr
+  email: tjlahr@gmail.com
+  bio: >
+    Thomas runs realtime tech at Amplify where he built the messaging system backing their reactive classroom tools.
+    Previously he's worked as JavaScript engineer at design agencies such as Fangohr in Brooklyn and Reingold, Inc in Washington, DC.
+    When he's not programming, he's sleeping.
+
+Speaker2:
+  name: Nathan Hurst
+  twitter: nahurst
+  email: nathan@developersforgood.com
+  bio: >
+    Nathan loves using his technical skills to improve the world.
+    He currently runs engineering on Amplify’s content team.
+    Before Amplify, Nathan ran engineering at Kinsa, a mobile health startup.
+    Previously, Nathan founded Hirelite.com, a realtime, distributed interviewing platform.
