@@ -1,0 +1,27 @@
+---
+Session:
+  Title: "Two-Way Data Binding is Horrible and You Shouldn't Use It"
+  Description: >
+    Working with tons of data in your Angular app is made relatively easy thanks
+    to the way data-binding is handled almost seemlessly with services, templates,
+    and directives. But sometimes, having 300 objects on your page constantly updating
+    is a horrible idea. This talk discusses when you should use one-way data-binding
+    over two-way, why should you care, and some metrics to justify much of this reasoning.
+  Length: 20 # sessions are 5 or 20 minutes long
+  Tags: 
+    - data-binding
+    - big-data
+    - DOM
+
+Speaker:
+  name: Stephen Golub
+  twitter: nickburns2006
+  email: stephen.golub@rackspace.com
+  bio: >
+    Stephen is a software developer living in San Antonio, Texas. He works for Rackspace
+    Hosting, building internal tools that help their support floor get their mission done
+    as efficiently as possible. Stephen has always had a passion for providing tools and
+    support to help others get their jobs done.
+    He is the main contributer on rxDataTable, a tool built for use in a project that has
+    since grown to be more a fully feature data display table with the ability to configure
+    on the fly.
