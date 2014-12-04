@@ -1,0 +1,43 @@
+---
+Session:
+  Title: Supercharge AngularJS Apps with TypeScript and ES6
+  Description: >
+    ES6 offers many exciting features that will change how you write JavaScript and AngularJS applications. 
+    But can you take advantage of ES6 features today while still supporting browsers that don’t fully implement ES6? 
+    In this session you’ll learn about key features found in the TypeScript language (a superset of JavaScript) 
+    and see how they can be used to add ES6-style code into your Angular apps. Topics covered include classes, 
+    inheritance, types, generics, and more.
+  Length: 20 
+  Tags: 
+    - angularjs
+    - typescript
+    - es6
+
+Speaker:
+  name: Dan Wahlin
+  twitter: DanWahlin
+  email: dwahlin@thewahlingroup.com
+  bio: >
+  	Dan Wahlin founded Wahlin Consulting which provides consulting and training services 
+  	on Web technologies such as JavaScript, AngularJS, HTML5, Node.js, C#, ASP.NET MVC, 
+  	Web API, and SharePoint. He’s also a course author on Pluralsight.com and has 
+  	published several courses covering a range of technologies including the  
+  	AngularJS JumpStart course on Udemy.com. Dan speaks at conferences and user 
+  	groups around the world and has written several books on Web technologies.  
+  	Dan blogs at http://weblogs.asp.net/dwahlin, runs the Web Weekly newsletter 
+  	(a great way to stay up on the latest technologies), and writes columns for various 
+  	technical magazines. Follow Dan on Twitter @DanWahlin.
+    
+Speaker2:
+  name: Andrew Connell
+  twitter: AndrewConnell
+  email: me@andrewconnell.com
+  bio: >
+  	Andrew Connell is an independent consultant that enjoys development, writing & teaching. 
+    He is an ten-time recipient of Microsoft’s Most Valuable Professional (MVP) award & has 
+    contributed to numerous books articles and projects over the years. You can learn from 
+    Andrew as when he teaches hands-on courses through http://www.CriticalPathTraining.com 
+    or through one of the many on-demand classes he has published though http://www.Pluralsight.com. 
+    Andrew has spoken at conferences and community events in the North America, Europe & Australia. 
+    You can find Andrew on his blog at http://www.andrewconnell.com, follow him on Twitter at @andrewconnell 
+    or subscribe to his podcast at http://www.MicrosoftCloudShow.com. 
