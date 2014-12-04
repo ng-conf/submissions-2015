@@ -1,0 +1,36 @@
+---
+Session:
+  Title: (On) the illusion of stardom.
+  Description: >
+    This talk is about the AngularJS community and the utter lack of rock stars in it.
+
+    As active members of this community, we are very passionate about it, and we strongly believe that its
+    strength lies not in the power of one but in the combined power of all. So let’s take a moment and talk
+    about what makes this community what it is and how we can become even more powerful, constructive and
+    welcoming for everyone.
+  Length: 20 # sessions are 5 or 20 minutes long
+  Tags:
+    - community
+    - community
+    - community
+    - no rock stars
+
+Speaker 1:
+  name: Carmen Popoviciu
+  twitter: @CarmenPopoviciu
+  email: carmen.popoviciu@gmail.com
+  bio: >
+      Carmen is a front-end engineer and the leading lady of the Dutch AngularJS User Group.
+      She is a happy dev ever since she met Angular and is passionate about its community. She believes
+      in constructive feedback and making the community better by helping others and hopes to one day make
+      a difference for the web with the code she writes.
+
+Speaker 2:
+  name: Pascal Precht
+  twitter: @pascalprecht
+  email: pascal.precht@gmail.com
+  bio: >
+      Pascal is a front-end engineer with a love for semantic markup and evolving technologies in the open web.
+      He loves contributing to open source and is the creator of the popular angular-translate module.
+      He also likes traveling the world and speaks at conferences and meetups. When he's not busy preparing
+      the next workshops for thoughtram, you might find him outside with his skateboard.
