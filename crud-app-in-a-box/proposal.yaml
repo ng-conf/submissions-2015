@@ -1,0 +1,36 @@
+---
+Session:
+  Title: CRUD app in a box using forms-angular
+  Description: >
+    We all know how cool’n’trendy it is to generate your forms from JSON - there  are loads of libraries that do that.
+    But you still have to write the JSON.   And if you want to persist the data you will need a database schema.  And an
+    API.  And reports.  In this talk you will learn how to use forms-angular to  get the database schema to do the heavy
+    lifting, and explore some of the  architectural choices that were made in the library and how they relate to  other
+    frameworks.
+  Length: 20
+  Tags:
+    - crud
+    - fullstack
+    - forms
+    - validation
+    - REST
+    - reports
+
+Speaker:
+  name: Mark Chapman
+  twitter: reallycare_mark
+  email: mark@reallycare.org
+  bio: >
+    Following a very brief “career” in showbiz Mark spent decades developing  software for the social care sector,
+    during which time he had a few successful start-ups (and regrettable exits).  For the last few years he  has been
+    trying unsuccessfully to show the UK government (local and  central) how to use open source and open data to
+    improve elderly care.   Now he has probably retired.  He’ll know in a few years.
+Speaker2:
+  name: Vincent Boucher
+  email: vincent.boucher@b12-consulting.com
+  twitter: b12_consulting
+  bio: >
+    Vincent, from Belgium, has a scientific background and holds a PhD in cosmology. Recently, he started up a
+    consulting company in software development and data analysis. He likes challenging the limits (if any)  of AngularJS
+    with drawing or desktop app frameworks. On Saturdays, you’ll meet him with either a squash racket or skis in hands,
+    or both.
