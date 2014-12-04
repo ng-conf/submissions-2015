@@ -1,0 +1,24 @@
+---
+Session:
+  Title: Rupert - The Friendly Node Stack Watcher
+  Description: >
+    Navigating the highly modular ecosystem of a modern Node.js application can
+    be daunting, especially for inexperienced developers. Frustration comes
+    sooner, and code quality suffers. Rupert knows how best to use all the
+    libraries, and in an easily configurable library guides developers into
+    following a set of best practices in the Node and Angular ecosystem.
+  Length: 20
+  Tags:
+    - nodejs
+    - fullstack
+    - front-edge
+
+Speaker:
+  name: David Souther
+  twitter: david_souther
+  email: davidsouther@gmail.com
+  bio: >
+    A Software Architect, with a BA in CS and Math from Rocky Mountain College
+    in Billings, MT, David Souther works with Javascript technologies on the
+    front-edge. A fan of the flexibility and ubiquity of Javascript, David has
+    built his career leading teams effectively managing large JS codebases.
