@@ -1,0 +1,35 @@
+---
+Session:
+  Title: What about a backend in my AngularJS?
+  Description: >
+    With the new powers of the browsers, and growing motivations behind offline
+    mode, more and more usualy backend tasks have been moved to the front.
+    Backend-as-a-Service reached big attention giving even more power to
+    front-end developers. But what if any JS developer could easily create his
+    own backends-as-a-service dedicated for his apps and seamlessly usable from
+    AngularJS? Imagine your Business Rules code implemented once, applied on the
+    client, but still enforced by the server... And what if we could navigate
+    throught millions of objects from a database as if they were just directly
+    in my front-end angular app? That could be great... Guess what? It's already
+    possible!
+
+  Length: 20 # sessions are 5 or 20 minutes long
+  Tags:
+    - backend-as-a-service
+    - nosql
+    - angularfire
+    - ng-contentful
+    - angular-wakanda
+
+Speaker:
+  name: Alexandre Morgaut
+  twitter: amorgaut
+  email: alexandre.morgaut@4d.com
+  bio: >
+    Alexandre started out doing Web development in 1995 on Lynx, Mosaic and
+    Netscape. He designed and developed Web sites and Web applications at
+    French TV channel TF1, and worked next to enhance Web technologies
+    and Web Standards support in 4D application servers and IDEs (4D & Wakanda).
+    Today, as Web Architect and Speaker, his goal is to promote end-to-end
+    JavaScript, HTML5, NoSQL and REST as a powerful platform for professional
+    applications.
