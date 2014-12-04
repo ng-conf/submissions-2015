@@ -1,0 +1,25 @@
+---
+Session:
+  Title: Growing Pains with Angular
+  Description: >
+    Almost every tutorial you read online describes simplistic scenarios and how you can use AngularJs in your production ready applications.
+    In this talk you will learn how the adventures of a team of .net developers utilized angular to build a single page online banking application that serves over 100,000 users.
+    We might have not used the best practices at first but over the course of our experience we learned what works for us while learning from industry experts.
+  Length: 20
+  Tags:
+    - practice
+    - learning
+    - real-world
+    - browsers
+    - adventures
+    - free beer
+
+Speaker:
+  name: Mark Coleman
+  twitter: markcoleman
+  email: markcoleman@gmail.com
+  bio: >
+    Mark is a very passionate developer located in central Pennsylvania.
+    He loves technology and sharing new ideas to the development team at work, at local meet up groups, and blogging.
+    Mark also is known as an obsessive mission to drink as many unique beers as possible while enjoying gratuitous amounts of hamburgers.
+    In his spare time he is a dabbler in home brewing, photography, and everything Simpsons.
