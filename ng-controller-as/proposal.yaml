@@ -1,0 +1,36 @@
+---
+Session:
+  Title: Controller As 'The JavaScript Way'
+  Description: >
+    Stop including $scope everywhere and get rid of all those explict $watch calls!
+    Everything you need for a scalable, responsive Angular app is there, out of the box. 
+    Making the jump to the new "controller as" syntax may seem daunting at first. After all,
+    don't you still need to rely on $scope (if for nothing else, to watch properties change) 
+    and how on earth do you access forms? In this talk, learn how to use controller as and
+    modern JavaScript constructs like properties to define POJO models and controllers that
+    communicate without having to rely on messaging components, explicit watchers, or $scope.
+  Length: 20 
+  Tags: 
+    - controller
+    - controller-as
+    - $scope
+    - $watch 
+    - JavaScript
+    - ECMAScript5
+    - services
+
+Speaker:
+  name: Jeremy Likness
+  twitter: JeremyLikness
+  email: jeremy@jeremylikness.com
+  bio: >
+    Jeremy Likness is a principal architect within the custom application development practice at Atlanta-based iVision. 
+    During Jeremy’s 20 years of experience working on enterprise applications (with 15 of those years focused on web-based apps) 
+    he has helped several initially small companies grow and has actively 
+    participated in their transition from good to great. Jeremy authored/co-authored four technology books and regularly 
+    speaks at events around the country. Once upon a time he even dreamt of becoming a game developer and wrote/co-wrote 
+    several customizations and one total conversion for Quake. In his free time Jeremy loves to support his daughter's 
+    healthy cooking business, watch retro sci-fi movies and teach her to drive. A former certified fitness 
+    trainer and specialist in nutrition, he is currently training his wife to walk her first marathon after undergoing major 
+    back surgery. Jeremy’s personal mission is to transform the lives of other developers in appreciation for how the 
+    industry has impacted his own life. 
