@@ -1,0 +1,16 @@
+---
+Session:
+  Title: Agile is Best with Angular and Node
+  Description: >
+    Agile development is difficult. Consistent forward flow of features are only possible, if technical impediments are minimal. I've synthesized 'A Hapi LEBRON' stack using Angular, Node, Hapi.JS, LevelDB, Browserify, NPM, Bower and Gulp to simplify the development process. I focused on keeping the barrier to entry low, attempting to break down skill silos and eliminate  developer context switching between languages, libraries and tools. Angular and Node together can enable a full-stack JavaScript solution, but it's not trivial to keep the stack straight forward enough for all skill levels. I'd like to demonstrate how anyone can jump in and start creating complete solutions easily.
+  Length: 20
+  Tags: 
+    - agile
+    - node
+    - full-stack
+Speaker:
+  name: Doguhan Uluca
+  twitter: duluca
+  email: duluca@gmail.com
+  bio: >
+    Doguhan strives to remove complexity from this world. He is the JavaScript Lead for Excella Consulting and a technologist passionate about all technology. He blogs on TechTalkDC.com; published on DevPro and the ACM Digital Library. He enjoys playing Go, discussing philosophy, discovering hidden speakeasies and travelling.
