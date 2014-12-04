@@ -1,0 +1,35 @@
+---
+Session:
+  Title: Classy Angular Code with TypeScript
+  Description: >
+    TypeScript adds classes, interfaces, modules and optional static typing on 
+    top of JavaScript, while still compiling down to vanilla JS. We've spent the 
+    last year moving our production codebases to TypeScript. It is awesome. 
+    
+    In this talk you can learn from our mistakes and experiences. See how you can 
+    combine TypeScript classes and Angular's 'controller as' syntax to get super-clean 
+    controllers. Or how TypeScript modules help you scale your development. We'll 
+    also show you how to adopt TypeScript piecemeal in your existing projects.
+  Length: 20 # sessions are 5 or 20 minutes long
+  Tags: 
+    - typescript
+    - classes
+    - modules
+
+Speaker:
+  name: Sander Mak
+  twitter: Sander_Mak
+  email: sander.mak@luminis.eu
+  bio: >
+    Sander crafts scalable and modular software at Luminis Technologies. Besides his 
+    day job he loves contributing to open-source, blogging on branchandbound.net
+    and sharing knowledge by speaking at conferences.
+
+Speaker2:
+  name: Paul Bakker
+  twitter: pbakker
+  email: paul.bakker@luminis.eu
+  bio: >
+    Paul works with  JavaScript and Java to create modular, maintainable apps. 
+    He is the author of Building Modular Cloud Apps with OSGi, speaker at many 
+    tech conferences and contributor to several open source projects. 
