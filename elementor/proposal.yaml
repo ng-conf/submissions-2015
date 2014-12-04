@@ -1,0 +1,25 @@
+--- 
+Session:
+  Title: Writing protractor tests with elementor
+  Description: >
+    When you write a Protractor test you spend 90% of your time finding and
+    testing locators. Elementor allows you test locators against a live
+    Protractor session by entering them directly into Chrome or your IDE
+    (IntelliJ / Webstorm, and Sublime).
+  Length: 5
+  Tags: 
+    - protractor
+    - testing
+    - tools
+    - Webstorm
+    - IntelliJ
+    - Sublime
+
+Speaker: 
+  name: Andres Dominguez
+  twitter: andresdom
+  email: code@karateca.con
+  bio: >
+    Andres is a software engineer at Google NY. He has been working on very
+    large AngularJS applications since before version 0.9. During his free time
+    he builds development tools and contributes with Protractor.
