@@ -1,0 +1,31 @@
+---
+Session:
+  Title: Protractor Tests that Scale
+  Description: >
+    Inspired by last year's excellent talk, "Angular Directives that Scale", I intend to address
+    some of the missing gaps on the testing side of things. When developers and testers begin to
+    blur the line of what is expected from eachother, wonderful things are possible. I will focus on
+    the most important optimization you can invest into your end to end tests -- optimizing for readability.
+    At Rackspace, we've implemented a centralized component library, and I'll show you how I've leveraged that
+    to also include page objects for end to end tests. It's saved us a lot of effort, and uses familiar
+    concepts that you'd expect from a devlopment workflow, only applied to the testing effort.
+
+  Length: 10
+  Tags:
+    - testing
+    - protractor
+    - e2e
+    - component
+    - sdet
+    - selenium
+    - page objects
+
+Speaker:
+  name: Andrew Yurisich
+  twitter: droogans
+  email: droogans@gmail.com
+  bio: >
+    I decided to backpack around the West Coast instead of going to a state university.
+    Fortunately, I discovered a love of computers before I spent any money...I'm a late bloomer.
+    Nowadays, I work as a Software Developer in Test at Rackspace Hosting, Inc. in San Antonio, Texas.
+    I feel fortunate to realize that I finally found a place to work that has SDETs write code all day.
