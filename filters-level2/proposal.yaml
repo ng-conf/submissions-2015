@@ -1,0 +1,17 @@
+---
+Session:
+  Title: Filters Level 2.0 
+  Description: >
+      AngularJS filters are great until you're dealing with some arbitrarily named data and want to start to systematically filter your data based on its schema. Observe the elegance of a custom filter that can handle all the intersections, unions, and one-to-many mappings your heart could desire. 
+  Length: 5 
+  Tags: 
+    - filter 
+    - ng-repeat 
+    - searchability
+
+Speaker:
+  name: Neha Batra 
+  twitter: nerdneha 
+  email: nehalita@gmail.com 
+  bio: >
+     Neha Batra is a software engineer at Floored who works on making the internal repository of materials, products, and scenes more accessible to our modelers, clients, and the public.  Prior to Floored, Neha was an energy consultant who quit and picked up programming because “it was time.” She holds a bachelor’s in Mechanical Engineering from MIT and enjoys confusing people as they try to trace her education/work history. Neha likes food, planning trips/vacations (please ask her about her spreadsheets/gdocs/blog posts about this), and pronouncing GIFs how it should be: jiffs. 
