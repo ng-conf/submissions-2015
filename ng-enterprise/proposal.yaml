@@ -1,0 +1,24 @@
+---
+Session:
+  Title: ngEnterprise: Scale Your Angular App to the Enterprise Level 
+  Description: >
+    Writing Angular apps via tutorials is all well and good, but how do you know your code will work when you've got
+    hundreds, thousands, even millions of users? Many things change at the enterprise level, from code structure to
+    performance, and you'll need to prepare your codebase to scale not only for performance, but for a larger team.
+    This talk will explore both performance and scalability considerations when taking your Angular apps from toys
+    to enterprise-level applications, using a real-world example of an enterprise Angular application.
+  Length: 20
+  Tags: 
+    - performance
+    - scalability
+    - enterprise
+
+Speaker:
+  name: Adam Conrad
+  twitter: adam_conrad
+  email: acconrad@gmail.com
+  bio: >
+    Adam is the lead UX engineer at CoachUp, a marketplace for sport-specific private coaching.
+    Adam focuses on front-end and UX/UI development.
+    Prior to CoachUp, Adam was VP of Product at StarStreet and a web developer at Microsoft and VistaPrint.
+    
