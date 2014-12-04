@@ -1,0 +1,29 @@
+---
+Session:
+  Title: Improving AngularJS web app performance example
+  Description: >
+    We have been working on large AngularJS applications that
+    include lots of data, lots of D3 charts and reusable components.
+    Lately we have started looking at improving the application's performance.
+    In this talk I give step by step example show how to profile an
+    application using Chrome DevTools code snippets. Lots of charts and graphs
+    that show CPU bottlenecks, memory allocation events, timeline profiling
+    to improve code / browser interaction. I published the findings in a
+    detailed blog post http://bahmutov.calepin.co/improving-angular-web-app-performance-example.html
+    Please see the post for the content.
+  Length: 20 # sessions are 5 or 20 minutes long
+  Tags:
+    - profiling
+    - performance
+    - bottlenecks
+    - Chrome
+    - DevTools
+    - timeline
+
+Speaker:
+  name: Dr. Gleb Bahmutov PhD.
+  twitter: bahmutov
+  email: gleb.bahmutov@gmail.com
+  bio: >
+    JavaScript ninja, image processing expert, software quality fanatic.
+
