@@ -1,0 +1,26 @@
+---
+Session:
+  Title: Animating Angular
+  Description: >
+    When asked about the best thing of Angular, many people are quick to point to
+    its fantastic two-way binding feature. With ngAnimate, it is exceptionally easy
+    to add a little spice to that great feature. I will show everyone how simple it is
+    to get up and running with ngAnimate, demonstrate some of my favorite tips and tricks,
+    and delve into some advanced strategies for combining CSS and JS animations using
+    the GreenSock Animation Platform (GSAP).
+  Length: 20
+  Tags: 
+    - ngAnimate
+    - animation
+    - css
+    - gsap
+
+Speaker:
+  name: Nick Seegmiller
+  twitter: NickSeegmiller
+  email: nick.seegmiller@gmail.com
+  bio: >
+    Nick is a self proclaimed jack of all trades programmer but a master of none.
+    He's done everything from professional video game development to monolithic
+    C applications to web/Android apps. He started using AngularJS almost two years
+    ago and has fallen in love with the web all over again.
