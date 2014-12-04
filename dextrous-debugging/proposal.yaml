@@ -1,0 +1,17 @@
+---
+Session:
+  Title: Dextrous Debugging
+  Description: >
+    For all the time you learn on how to code in Angular, you're going to spend at least double that living in the debugger. We're going to look at how to effectively debug and disect an Angular application in Chrome, saving many a headache and several yaks from unnecessary shaving. 
+  Length: 20
+  Tags: 
+    - chrome
+    - debugging
+    - tools
+
+Speaker:
+  name: Brandon Weaver
+  twitter: keystonelemur
+  email: brandon_weaver@baweaver.com
+  bio: >
+    Brandon is an Infrastructure Automation Engineer at Sony in San Francisco. He works in Ruby and Javascript, and loves to experiment with the functional side of programming and creating tools. 
