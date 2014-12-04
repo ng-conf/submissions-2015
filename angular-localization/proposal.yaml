@@ -1,0 +1,31 @@
+---
+Session:
+  Title: Simple Localization for your Angular App
+  Description: >
+    This presentation covers a simple service and a set of directives that can be used
+    to add localized text to your AngularJS App. Content is based on my library
+    angularjs-localization that has been used to provide localized strings to many
+    apps out in the wild today.
+    Topics covered would include:
+      - What is localization
+      - Looking up localized translations
+      - Tokenizing strings for better localization
+      - Directives that can be used for localization
+      - Demonstration of how to put it all together
+  Length: 20 # sessions are 5 or 20 minutes long
+  Tags:
+    - i18n
+    - localization
+    - services
+
+Speaker:
+  name: Jim Lavin
+  twitter: OtakuBrewing
+  email: jlavin@jimlavin.net
+  bio: >
+    Jim Lavin has been involved in software development for the past 30 years. He is currently
+    the CTO for one of the leading Restaurant Online Ordering service providers where his team
+    uses AngularJS as a core part of their service offerings. He is the author of AngularJS Services
+    published by Packt Publishing. He is the coordinator of the Dallas/Fort Worth Area AngularJS
+    Meetup Group and routinely gives presentations on AngularJS to other Dallas/Fort Worth Area
+    technology groups.
