@@ -1,0 +1,31 @@
+---
+Session:
+  Title: Thinking Outside the Library - Rolling Your Own Widget to Improve User Experience
+  Description: >
+    When have you needed something that nobody had built yet? We needed to give our users a clean and
+    elegant faceted search experience, but had so many widgets to choose from, and none was the right
+    fit. We started with an existing AngularJS widget that did not quite meet our needs as-is and
+    developed a customized faceted search bar to delight our users and de-clutter our UI. We will
+    share UX tips and the technical design we went through so you can see the process for yourself. 
+    Categories include: AngularJS, JQuery, Foundation, User Experience, widgets, search
+  Length: 20 # sessions are 5 or 20 minutes long
+  Tags: 
+    - ux
+    - design
+    - widget
+
+Speaker:
+  name: Jenny Loza
+  twitter: UXDoctor
+  email: jenny.loza@hp.com
+  bio: >
+    A known problem-solver, Dr. Loza improved her own UX by developing a false lure to keep her cats
+    off her keyboard and remain productive during working hours.
+
+Speaker2:
+  name: David Kavanagh
+  twitter: David_67
+  email: david.kavanagh@hp.com
+  bio: >
+    Software guy since high school, when PCs were novel. Working with cloud in one way or another for a
+    almost a decade.  Polyglot, API dweeb, wholistic thinker.
