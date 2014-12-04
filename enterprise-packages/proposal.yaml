@@ -1,0 +1,25 @@
+---
+Session:
+  Title: Too Many Packages. Managing Dependencies and Packages in Enterprise Applications with AngularJS and RequireJS.
+  Description: >
+    Our team is tasked with building a large scale application in AngularJS that is a dashboard and frame for other, sub-applications.
+    Each application, including the dashboard and frame, consists of a mobile and desktop version. 
+    Functionality is also shared between applications and with the Global Frame.                  
+    We use RequireJS to load our individual application components as well as the configuration objects for those applications.
+    We present a pattern that allows us to define shared modules and require path configurations in a common place and use RequireJS to create unique combinations of configurations for each application.
+    This allows a single developer to add features and modules to all applications by making changes once instead of adding the configurations to each individual application.
+    Ultimately this makes our application scalable, more maintainable and reduces the amount of duplicated configuration.
+
+  Length: 5
+  Tags: 
+    - RequireJS
+    - modules
+    - configuration
+
+Speaker:
+  name: Elliott Palermo
+  email: epalermo@paychex.com
+  bio: >
+    I am a front and backend developer at Paychex with 6 years experience doing UI design. 
+    I am a relative newcomer when it comes to rich web application design and I am really enjoying the ride so far.
+ 
