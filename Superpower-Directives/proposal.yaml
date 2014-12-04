@@ -1,0 +1,20 @@
+---
+Session:
+  Title: Mixing Angular.js with KendoUI widgest (Superpower Directives).
+  Description: >
+    Talk about how to integrate Angular.js with KendoUI widgets building amazing Directives to get the best of both worlds.
+    Custom Directives based on KendoUI widgets to have a full rich experience dealing with reusable code. 
+  Length: 20 # sessions are 5 or 20 minutes long
+  Tags: 
+    - widgets
+    - liberty
+    - wisdom
+
+Speaker:
+  name: Fernando Monteiro
+  twitter: newaeonweb
+  email: fernando@newaeonweb.com.br
+  bio: >
+     Fernando is a front end engineer, speaker, Responsive Design evangelist, 
+     father and author of book: HTML5 Responsive Table Design. He spent the last 12 years creating high-end graphic
+     and web experiences and working on personal OpenSource projects. 
