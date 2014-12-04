@@ -1,0 +1,37 @@
+---
+Session:
+  Title: Restoring the Peace with JSON Validation and Swagger
+  Description: >
+    Using JSON as a data interchange format is awesome - until it isn't. That's when the
+    recriminations between front-end and back-end devs start: "You spelt that property name wrong!"
+    "Why are you passing me an integer when I need a float?" "What do you mean you're using a
+    numeric timestamp for dates, I wanted a human-readable string!"
+
+    Testing tools like Protractor can help to a certain degree, but wouldn't it be great if there
+    was a way to specify the format of your JSON?
+
+    In this presentation we'll take a look at a couple of the different options that are available
+    to you right now for validating JSON. We'll then see how Angular makes it spectacularly
+    easy to hook JSON schema validation into your app using the power of interceptors and promises.
+    Finally, we'll look at the pros and cons of using Angular with Swagger, which is a standard for
+    specifying entire RESTful APIs with JSON.
+
+    Attendees will leave with an understanding of how best they can use JSON schema validation to
+    eliminate a whole range of bugs from their Angular apps, restoring at least a little peace and
+    harmony to their development teams.
+  Length: 20
+  Tags:
+    - JSON
+    - Schema
+    - Validation
+    - Swagger
+
+Speaker:
+  name: Ben Teese
+  twitter: benteese
+  email: ben.teese@shinetech.com
+  bio: >
+    Ben Teese is a software developer from Melbourne, Australia. Emerging from the primeval swamp
+    of 10 years of Java development, he first evolved into a Ruby developer, then ascended to the
+    world of pure Javascript. He now builds Angular.js apps for a variety of clients and enjoys
+    every minute of it. He presented on Rich Object Models at the inaugural ng-conf 2014.
