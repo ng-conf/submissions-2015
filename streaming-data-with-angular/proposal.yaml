@@ -1,0 +1,24 @@
+---
+Session:
+  Title: Consuming Streaming Data with AnuglarJS
+  Description: >
+    Many applications poll for new data or require user interaction to update.
+    What if you could reliably acquire data in real time? And seamlessly present it to the end user?
+    We’ll talk about different approaches to updating the DOM in real time and ways to avoid common pitfalls.
+
+  Length: 20 # sessions are 5 or 20 minutes long
+  Tags: 
+    - streaming
+    - data
+    - json
+    - real-time
+
+Speaker:
+  name: Jim Anders
+  twitter: janders223
+  email: jim@teamgaslight.com
+  bio: >
+    Jim Anders is a Developer at Gaslight, 
+    a Cincinnati-based software development firm that transforms businesses with technology.
+    He’s a self-taught developer who has loved code since discovering BASIC on an Apple IIe back in the fourth grade.
+    At Gaslight, you might find him working with Ruby, Gulp, AngularJS or helping drive the local tech community forward. www.teamgaslight.com
