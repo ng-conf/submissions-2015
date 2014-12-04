@@ -1,0 +1,27 @@
+---
+Session:
+  Title: Using AngularJS to Drive Content Heavy Websites
+  Description: >
+    This session will show how you can take care of the content modeling and back end
+    part of your AngularJS web project for high demand and big content websites.
+    Drupal is one of the most powerful, flexible and popular open source CMS. It is
+    very good at managing content; as proven in very successful decoupled projects
+    like The Tonight Show with Jimmy Fallon we have built. In this talk I will
+    explain how you can rapidly build content centric experiences using AngularJS.
+  Length: 20 # sessions are 5 or 20 minutes long
+  Tags: 
+    - cms
+    - back end
+    - content
+    - DX
+    - Drupal
+
+Speaker:
+  name: Mateu Aguiló-Bosch
+  twitter: e0ipso
+  email: mateu.aguilo.bosch@gmail.com
+  bio: >
+    Mateu started with web development in 2007. Maintainer of several Drupal modules,
+    Mateu tries to share as much as he can with the community speaking at several
+    events. This last year he has been attracted to AngularJS, and is one of the main
+    developers of the RESTful module. Sun lover, tennis player, bad jokes teller.
