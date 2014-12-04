@@ -1,0 +1,27 @@
+---
+Session:
+  Title: AngularJS Promises Sequential Async
+  Description: >
+    Promises in AngularJS is the best! However, fully understanding the nucleus of how promises work is not entirely intuitive.  
+    In this presentation we'll take a beginner's dive into the nitty-gritty, looking at the single-threaded nature of browsers, the callback model, AJAX, Promises and thenable methods and, finally, AngularJS $q, $http.
+    Come and learn a buttload of crap about Promises!
+    Categories include:AngularJS, Promises, AJAX, Callbacks, JavaScript 
+  Length: 20 # sessions are 5 or 20 minutes long
+  Tags: 
+    - AngularJS
+    - promises
+    - Ajax
+    - JavaScript
+
+Speaker:
+  name: Scott Soward
+  twitter: @scottlsoward
+  email: scott.soward@gmail.com
+  bio: >
+     I am a happy 40 year old with the best kids alive. For most of my career I have been a biased Java curmudgeon generally uninterested in JavaScript. However, for the past few years I have seen the light and am loving the light-weight, simplicity, and rapid development that AngularJS provides.    
+Speaker2:
+  name: Nils Rasmusson
+  twitter: @nilsynils
+  email: nilsynils@gmail.com
+  bio: > 
+      I'm a front end developer with a background in graphics and web design. My passion? Coding the perfect mix of usability, function and design in a succinct way. I'm a Connecticut boy married to a Utah girl with four little kiddos to keep us on our toes.
