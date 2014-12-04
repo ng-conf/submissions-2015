@@ -1,0 +1,25 @@
+---
+Session:
+  Title: "How we whitelabeled: technology is free. The choice is yours."
+  Description: >
+    A worldwide corporate client, a faceted semi-SPA (partially with routing)
+    real-time search in Backbone.js introduced in 2011. Wow-effect back then.
+    Fast forward to 2013, a well-known brand wants a whitelabel with reorganized content.
+    Backbone.js messes with the logic and content. We make a leap of faith — Angular.
+    We need to change the CSS AND HTML, semi-SPA means we could rewrite screen by screen.
+    The codebase is shared between Backbone and Angular,
+    it was only static HTML that was changed — essentially we got whitelabel for free.
+  Length: 20
+  Tags:
+    - whitelabel
+    - rewrite
+    - corporate
+
+Speaker:
+  name: Tymon Tobolski
+  twitter: iteamon
+  email: i@teamon.eu
+  bio: >
+    Tymon is a CTO at Ruby/JS development agency Monterail.com from Wrocław, Poland.
+    He discovered Angular in the early 0.x days and since then
+    has been passionate advocate of the beyond-jQuery movement.
