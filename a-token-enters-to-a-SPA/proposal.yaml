@@ -1,0 +1,30 @@
+---
+Session:
+  Title: A token enters to a SPA...
+  Description: >
+    Everybody has been creating Single Page Apps lately.
+    They look neat and fast. Handling authentication in an SPA can be tricky though:
+    Cookies, Tokens, Right to access URLs and Resources. What should we use?
+    In this talk, I explore all these options: pros and cons. I end up with a live
+    coding sample in which I add authentication to a real app.
+  Length: 20 # sessions are 5 or 20 minutes long
+  Tags:
+    - jwt
+    - cookies
+    - Tokens
+    - urls
+    - resources
+    - live coding
+    - security
+    - identity
+    - authentication
+Speaker:
+  name: Martin Gontovnikas
+  twitter: mgonto
+  email: martin@gon.to
+  bio: >
+    Martin Gontovnikas is a software engineer living in Buenos Aires, Argentina
+    that works as a Developer Advocate in Auth0.
+    Martin is passionate about technology and he always keeps up to date with everything regarding IT.
+    Lately, he's been coding with AngularJS, NodeJS and Scala among others.
+    Martin also contributes to Open Source with Restangular (Rest client for AngularJS), AngularWizard, Angularytics and FactoryPal among others.
