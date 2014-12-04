@@ -1,0 +1,26 @@
+---
+Session:
+  Title: Unit testing techniques
+  Description: >
+    Learn how to unit test your services, controllers, filters and 
+    directives and how to guide your design using TDD.
+
+  Length: 20 # sessions are 5 or 20 minutes long
+  Tags: 
+    - unit testing
+    - tdd
+    - karma
+    - jasmine
+    - angular-mocks
+    - 1.3
+
+Speaker:
+  name: Ciro Nunes
+  twitter: cironunesdev
+  email: ciroanunes@gmail.com
+  bio: >
+    Ciro is a Brazilian Front-end Engineer, works at Questrade and is Google Developer Expert in AngularJS. He uses and 
+    contributes for the framework since the Angular's page was yellow! Besides that, he writes in his blog, and write a 
+    lot of open source code. Last year he spoke at the most important brazilian conferences, reviewed the book "AngularJS 
+    Web Application Development Blueprints" and wrote an Yeoman Generator for the next generation of Angular apps. In the 
+    free time he's a Brazilian Jiu-Jitsu competitor, plays soccer and teach his dog new tricks.
