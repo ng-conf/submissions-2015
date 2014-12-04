@@ -1,0 +1,20 @@
+---
+Session:
+  Title: "Jade, a Less Painful Syntax for HTML"
+  Description: >
+    Angular works on the HTML DOM, and of course the default way to type HTML DOM as text is HTML.
+    But default does not mean best. This talk briefly show the How and Why of Jade, an alternative
+    syntax for HTML. Jade is concise and indentation-based, shortening your templates considerably.
+    Jade lacks the "feature" of unbalanced tags, and can be integrated easily in your AngularJS
+    project using grunt, gulp or other tool.
+  Length: 5
+  Tags:
+    - concise
+
+Speaker:
+  name: "Kyle Cordes"
+  twitter: kylecordes
+  email: kyle@kylecordes.com
+  bio: >
+    Kyle has been wrangling complex systems for a few decades,
+    and teaching AngularJS frequently for the last year.
