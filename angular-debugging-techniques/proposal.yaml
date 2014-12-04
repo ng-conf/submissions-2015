@@ -1,0 +1,34 @@
+---
+Session:
+  Title: Advanced AngularJS debugging techniques
+      Most developers are comfortable using the Javascript debugging tools in their favorite browser,
+      but don't know some of the hidden secrets Angular placed in its API for accessing
+      controllers, scopes, the injector and other hidden gems.
+
+      In this talk I'll review a typical Angular application that uses services, directives, multiple, nested
+      controllers, and data in various scopes, and show you how to debug into and test aspects of the
+      application by interacting with it using the simple Chrome Console.  Put on your hacker hats, 
+      it's time to dig in and play.
+  Length: 20 # sessions are 5 or 20 minutes long
+  Tags: 
+    - debugging
+    - techniques
+    - directives
+
+Speaker:
+  name: Ken Rimple
+  twitter: krimple
+  email: krimple@chariotsolutions.com
+  bio: >
+    Ken Rimple is the Director of Training and Mentoring Services for Chariot Solutions. He is the
+    author of Chariot's training courses in AngularJS, and he teaches and mentors developers in Angular,
+    getting started with Javascript, HTML5, and other subjects such as Spring, Tomcat, Java, and Maven.
+
+    Ken is the co-author of Manning’s Spring Roo in Action, which was published in 2012. 
+    He blogs about AngularJS, Android, Spring, Roo and other topics on Chariot's blog, 
+    http://chariotsolutions.com/blog
+
+    He is also producer, host and/or creator of several podcasts - the Chariot TechCast, 
+    the roundtable news show with other Charioteers named the Chariot Developer News, 
+    a conference session recap audio podcast, and is co-host of the business-driven Business 
+    of Technology podcast with Tracey Welson-Rossman.
