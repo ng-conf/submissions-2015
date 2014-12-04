@@ -1,0 +1,19 @@
+---
+Session:
+  Title: Searchability and Performance in AngularJS 
+  Description: >
+      Everyone loves ng-repeat and two-way data binding until it you have the problem you've always wanted to have, too many data points, along with the problem you've never wanted to have, no way of finding what you want when you want it. With a few custom directives and a quick ng-repeat hack, you can not only filter your data effectively, but you can cut down a 15s or 30s search to 2s! Look under the hood with me to figure out why, how, and what now. 
+  Length: 20
+  Tags: 
+    - searchability 
+    - performance 
+    - ng-repeat
+    - lazy-loading
+    - filter
+
+Speaker:
+  name: Neha Batra 
+  twitter: nerdneha 
+  email: nehalita@gmail.com 
+  bio: >
+     Neha Batra is a software engineer at Floored who works on making the internal repository of materials, products, and scenes more accessible to our modelers, clients, and the public.  Prior to Floored, Neha was an energy consultant who quit and picked up programming because “it was time.” She holds a bachelor’s in Mechanical Engineering from MIT and enjoys confusing people as they try to trace her education/work history. Neha likes food, planning trips/vacations (please ask her about her spreadsheets/gdocs/blog posts about this), and pronouncing GIFs how it should be: jiffs. 
