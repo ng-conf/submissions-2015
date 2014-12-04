@@ -1,0 +1,13 @@
+Session: 
+  Description: "This talk provides a hands-on approach to building a RESTful api in Sails.  The audience will see a live coding example that illustrates common issues when generating an api and how Sails solves them.  I’ll also demonstrate the flexibility of having the Sails approach that allows changes to be made quickly during the prototyping phase.  By the end of the presentation, attendees will gain exposure to a new approach to completely a task that is often requested in organizations.\n"
+  Length: "20 minutes long"
+  Tags: 
+    - api
+    - "serving angular assets"
+    - "integrating real-time events with angular"
+  Title: "Building a modern web api for Angular using Sails.js"
+Speaker: 
+  bio: "Mike McNeil is an open-source developer based in Austin, TX, and the creator of Sails.js, one of the most popular frameworks for Node. He is also the co-founder of Balderdash, a mobile and web studio providing intuitive experiences and clever javascripts for startups, SMBs, and the Fortune 500. \n"
+  email: "info@balderdash.co, mike@balderdash.co"
+  name: "Mike McNeil"
+  twitter: mikermcneil
