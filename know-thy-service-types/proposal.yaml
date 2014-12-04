@@ -1,0 +1,30 @@
+---
+Session:
+  Title: Know Thy Service Types
+  Description: >
+    Deciding how to create your own services is not as easy as heeding the 
+    dismissive "just use a factory" advice from the coworker with two weeks 
+    more Angular experience. A better approach is to take a step back and 
+    understand providers. They are the foundation for all of the service 
+    creation functions available in the framework. Understand providers 
+    and the subtle differences between the five service types will no longer 
+    seem subtle. They will become crystal clear and you will use them each 
+    correctly and with confidence.
+    
+  Length: 20 # sessions are 5 or 20 minutes long
+  Tags: 
+    - services
+    - providers
+    - factories
+
+Speaker:
+  name: Brice Wilson
+  twitter: brice_wilson
+  email: brice@5wilsons.net
+  bio: >
+    Brice Wilson is a professional developer and Pluralsight author. He has 
+    over 20 years experience and has used many tools and programming languages 
+    during that time. His current interests are centered on web services, 
+    single-page web applications and native mobile development. He has worked 
+    as a developer and architect for a number of large companies and enjoys 
+    learning, experimenting with, and teaching new technologies. 
