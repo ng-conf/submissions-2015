@@ -1,0 +1,23 @@
+---
+Session:
+  Title: Angular Audio - Audio the Angular Way
+  Description: >
+    Angular Audio is a library I have developed used by the community to integrate sounds 
+    into Angular.js projects. The library takes an "angular" approach by taking the
+    difficult to access properties of HTML5 Audio and turning them into bindable values.
+    This talk serves both to explain the technical details of the library's operation, as
+    well as an opportunity to discuss what makes a plugin "angular" in nature.
+    http://danielstern.github.io/ngAudio/#/
+  Length: 20
+  Tags: 
+    - audio
+    - directives
+    - binding
+
+Speaker:
+  name: Daniel Stern
+  twitter: danieljackstern
+  email: daniel@danielstern.ca
+  bio: >
+    Known as the "code whisperer", Daniel has been developing code ever since he was in
+    elementary school. He enjoys video games and music.
