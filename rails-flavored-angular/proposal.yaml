@@ -1,0 +1,25 @@
+---
+Session:
+  Title: Sprinkles: Writing Rails-flavored AngularJS
+  Description: >
+    After spending more than a year trying to reconcile how Rails plays with Angular, not only have I been unsuccessful,
+    but I have not been satisfied with any of the suggested solutions. There is a ton of material on the numerous Rails
+    hacks you should employ so that Rails and AngularJS feel compatible; however, I’m beginning to wonder whether this
+    is being approached from the wrong direction. The Angular Sprinkles gem offers a fresh take on this problem and uses
+    established Rails conventions to dynamically generate an AngularJS application on page load time. My talk will
+    highlight the benefits and interesting patterns created by writing applications in this style.
+
+  Length: 20
+  Tags:
+    - Ruby on Rails
+    - dynamic
+
+Speaker:
+  name: Gabe Scholz
+  twitter: gabescholz
+  email: gabe@brewhouse.io
+  bio: >
+    Gabe Scholz is a computer programmer based out of Vancouver, Canada. A former high school physics teacher, he is now a member
+    of the Brewhouse Software team where he spends most of his time tackling tough problems in Ruby and JavaScript.
+    As community development is very important to him, Gabe is a teaching assistant at a local tech bootcamp as well as
+    the co-organizer of Vancouver's Ruby, AngularJS and Dart Meetup groups.
