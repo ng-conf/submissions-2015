@@ -1,0 +1,33 @@
+---
+Session:
+  Title: JSON Powered Forms for Angular
+  Description: >
+    We're all really tired of writing the same code for every form. You need a label here
+    and an input here and make sure their IDs are the same and unique and now you want me
+    to add validation!? Daah! I got fed up with this pretty quick and found that I enjoy
+    writing JavaScript a lot more than repeating myself with HTML. If you're like me, then
+    you'll love angular-formly. In this talk, we'll see how you can very easily represent
+    your model with a form using a few lines of JavaScript. You want validation, conditional
+    fields, or custom templates? You need to react to changes to a field? Piece of cake. So
+    come on, and let's make fields less painful and more delightful.
+  Length: 20
+  Tags:
+    - angular
+    - forms
+    - validation
+    - ngMessages
+    - ngModelOptions
+    - ngAria
+
+Speaker:
+  name: Kent C. Dodds
+  twitter: kentcdodds
+  email: kent@doddsfamily.us
+  bio: >
+    Kent C. Dodds is a professional frontend developer working at Alianza.
+    Kent's an egghead instructor and loves sharing what he knows with the world in small bite-sized videos.
+    Kent's active in the open source community with projects of his own and others (including AngularJS core).
+    Find him on GitHub (kentcdodds).
+    Kent loves building things with JavaScript (vanilla, AngularJS, and ReactJS flavors) and talking with people about code.
+    If you like talking about code too, he'd love to chat!
+    And, if you're reading this in a published thing, Kent's also speaking at ng-conf :-)
