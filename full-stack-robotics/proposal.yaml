@@ -1,0 +1,26 @@
+---
+Session:
+  Title: Full Stack Robotics
+  Description: >
+    The Internet of Things has begun to form, and the Age of Robots is upon us. 
+    What are the tools and techniques that will help us craft the technologies that will make it real? 
+    In this talk, we will share our vision of "Full Stack Robotics" based on open source software such as Cylon.js (http://cylonjs.com), with live demonstrations of actual robotic devices.
+  Length: 20 # sessions are 5 or 20 minutes long
+  Tags: 
+    - robots
+    - iot
+    - wearable
+
+Speaker:
+  name: Ron Evans
+  twitter: deadprogram
+  email: ron@hybridgroup.com
+  bio: >
+    Software developer, contributor to open source, author and speaker, iconoclast. Ringleader at The Hybrid Group (http://hybridgroup.com). Creator of the award-winning KidsRuby (http://kidsruby.com), as well as the open source robotics frameworks Artoo (http://artoo.io), Cylon.js (http://cylonjs.com), & Gobot (http://gobot.io)
+
+Speaker2:
+  name: Adrian Zankich
+  twitter: adzankich
+  email: adrian@hybridgroup.com
+  bio: >
+    Adrian is the "Serious Programming Guy" at The Hybrid Group. Adrian is quickly becoming known to the open source community from speaking at GopherCon, MakerFaire, JSConf, RubyConf, RubyKaigi, MagmaConf, and many other tech conferences. A Los Angeles native, he has worked on Telematics-based web applications, and explored a wide range of technologies, from Go to Ruby to JavaScript, cloud computing, and firmware development, and integrated many different system in his client work, as well as his many open source contributions.
