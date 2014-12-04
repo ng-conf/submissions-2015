@@ -1,0 +1,30 @@
+---
+Session:
+  Title: MSNBC.com and AngularJS
+  Description:  >
+    With a tagline like "Lean Forward" you can bet that MSNBC is pushing the
+    limits of what a news platform can be, and its website MSNBC.com is no
+    exception. That said, introducing new technologies on any Enterprise level
+    site has its share of challenges. In a time when tools are often chosen for
+    either their familiarity or their appeal, [Lullabot](https://www.lullabot.com)
+    found it best to define the problems and then choose the best tools to fix
+    them. In this session we will describe the technical problems encountered
+    building a site of this scale, and which of those problems AngularJS became
+    the perfect solution for.
+  Length: 20
+  Tags: 
+    - msnbc
+    - enterprise
+    - drupal
+    - decoupled
+
+Speaker:
+  name: Juampy Novillo Requena
+  twitter: juampy72
+  email: juampy@lullabot.com
+  bio: >
+    Juampy is an active Drupal contributor and a JavaScript lover. He has
+    written articles, given talks and published modules on how to integrate
+    AngularJS and CasperJS in Drupal projects. He works for Lullabot, a
+    Strategy, Design and Development company. Juampy is one of the main
+    developers who built the Drupal-AngularJS integration for the MSNBC website.
