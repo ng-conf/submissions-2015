@@ -1,0 +1,33 @@
+---
+Session:
+  Title: Large scale testing with Jasmine, Karma, and Protractor
+  Description: >
+    A large project requires a lot of testing code to be successful. Discover
+    how we grew, refactored multiple times, and simplified our code over the
+    years by writing great tests.
+
+    Our unit test are frequently used by the Angular team to test their new features.
+
+    The talk includes the following topics:
+     - Best practices for unit and e2e tests
+     - Refactoring your testing codebase
+     - Building a custom DSL for Angular's $httpBackend
+     - Building your own custom Jasmine matchers to improve readability
+     - How to automate your release with Karma and Protractor
+     - Custom IntelliJ / Webstorm plugins for Jasmine and Protractor
+  Length: 20
+  Tags: 
+    - testing
+    - e2e
+    - karma
+    - protractor
+    - tools
+
+Speaker:
+  name: "Andres Dominguez"
+  twitter: andresdom
+  email: code@karateca.con
+  bio: >
+    Andres is a software engineer at Google NY. He has been working on very
+    large AngularJS applications since before version 0.9. During his free time
+    he builds development tools and contributes with Protractor.
