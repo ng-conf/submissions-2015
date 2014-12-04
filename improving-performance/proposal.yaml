@@ -1,0 +1,18 @@
+---
+Session:
+  Title: Improving performance
+  Description: >
+    Sometimes we code with AngularJS and we forget about the performance or we choose a wrong way to do a thing. 
+    I want to show how using some tools like batarang and ng-stats can improve the performance of your applications, choose coding in a defensively way can keep watcher expressions lightweight
+  Length: 20 # sessions are 5 or 20 minutes long
+  Tags: 
+    - performance
+    - angularjs
+    - coding
+Speaker:
+  name: Josue Gutierrez
+  twitter: eusoj
+  email: josue.ggh@gmail.com
+  bio: >
+    Josue is an active web developer since 2006 and has been part of some opensource projects and communities. At the present their interests lie in computational linguistics research and robotics. He is the main organizer of the AngularJS Mexico Community. 
+
