@@ -1,0 +1,24 @@
+---
+Session:
+  Title: Flaming Sansa - Fiery Hot SVG Visualizations
+  Description: >
+    High-quality visualizations are increasingly a hallmark of great web
+    applications. Understanding how to leverage SVG to create animations is key.
+    In this session, David Souther will highlight the key pieces of creating
+    phenomenal visualizations the Angular Way.
+  Length: 20
+  Tags:
+    - visualization
+    - d3
+    - svg
+    - math
+
+Speaker:
+  name: David Souther
+  twitter: david_souther
+  email: davidsouther@gmail.com
+  bio: >
+    A Software Architect, with a BA in CS and Math from Rocky Mountain College
+    in Billings, MT, David Souther works with Javascript technologies on the
+    front-edge. A fan of the flexibility and ubiquity of Javascript, David has
+    built his career leading teams effectively managing large JS codebases.
