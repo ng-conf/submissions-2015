@@ -1,0 +1,62 @@
+---
+Session:
+  Title: Performance and Better Living Through Virtualized Lists
+  Description: >
+    A really fast, scrollable, long list of data.  You can do it natively on iOS and Android.
+    How about on Angular JS?  Many application developers find themselves needing to provide
+    a fast, scalable user interface capable of meeting the high expectations users have
+    grown to expect from interacting with native applications. This session will demonstrate
+    several alternative techniques for interacting with large data sets.   We’ll explore the
+    concepts of virtualized lists and how the same techniques utilized during the development
+    of user interface components  for native applications may be applied to AngularJS
+    applications.   There are several existing solutions for virtualized lists in
+    Angular.  We’ll compare and contrast the various offerings and help you choose
+    the right solution for your particular needs.
+  Length: 20 # sessions are 5 or 20 minutes long
+  Tags: 
+    - performance
+    - lists
+    - native
+    - mobile
+    - happiness
+
+Speaker:
+  name: Peter Traeg
+  twitter: ptraeg
+  email: peter.traeg@universalmind.com
+  url: http://www.universalmind.com/author/peter-traeg.html
+  bio: >
+    As a solutions architect at Universal Mind, I've worked with clients like Complete Genomics,
+    Meijer Stores, and Kodak. I've has been involved in web development since 1996 and have
+    experience in developing native iOS and Android apps, as well as hybrid mobile apps.
+
+    I've spoken at several conferences including Interop in Las Vegas, Snow-Mobile, and NCDevCon.
+    I also run the Rochester NY, Javascript group, RochesterJS.  I've written serveral articles
+    for Smashing Magazine - http://www.smashingmagazine.com/author/peter-traeg/
+
+    When I'm not experimenting with my ever-growing list of mobile devices I also enjoy
+    photography, cycling, and spending time with the family.
+
+Speaker2:
+  name: Cliff Meyers
+  twitter: @cliffmeyers
+  email: cliff.meyers@universalmind.com
+  url: http://www.universalmind.com/author/cliff-meyers.html
+  bio: >
+    I'm a Solutions Architect for Universal Mind, a digital solutions agency specializing in
+    applications that deliver a unified multiscreen customer experience.
+    I've consulted for numerous companies including SAP, Pearson, Shutterfly, Xerox and the
+    United States Department of State.
+
+    I have more than thirteen years experience in application development. Since 2005,
+    my focus has been on enterprise Java development using technologies such as Spring and
+    Hibernate, and front-end application development with HTML5, JavaScript and Adobe Flex.
+
+    My expertise includes... integrating enterprise application backends with rich user
+    interfaces, web API design and optimization. I have over a decade of experience in object
+    and relational data modeling and I've worked with Oracle, SQL Server, MySQL and PostgreSQL.
+    Before Java, I built numerous web applications and content management systems using
+    ColdFusion and Python.
+
+    In my spare time, I enjoy traveling, sampling local microbrews and tinkering with
+    my collection of Android phones and tablets.
