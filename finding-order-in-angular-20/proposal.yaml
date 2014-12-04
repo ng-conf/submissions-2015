@@ -1,0 +1,29 @@
+---
+Session:
+  Title: Finding order in Angular 2.0
+  Description: >
+    Everything is dead now in Angular 2.0. This means that we have more freedom
+    to organize applications as we want and have code that is compatible with
+    any framework or library.
+    However, with a great power comes a great responsibility.
+    In this session, we'll learn how we can create organized and
+    mantainable projects using AtScript and ES 6.0.
+  Length: 20 # sessions are 5 or 20 minutes long
+  Tags:
+    - organize
+    - structure
+    - services
+    - models
+    - atscript
+    - es6
+    - angular 2.0
+Speaker:
+  name: Martin Gontovnikas
+  twitter: mgonto
+  email: martin@gon.to
+  bio: >
+    Martin Gontovnikas is a software engineer living in Buenos Aires, Argentina
+    that works as a Developer Advocate in Auth0.
+    Martin is passionate about technology and he always keeps up to date with everything regarding IT.
+    Lately, he's been coding with AngularJS, NodeJS and Scala among others.
+    Martin also contributes to Open Source with Restangular (Rest client for AngularJS), AngularWizard, Angularytics and FactoryPal among others.
