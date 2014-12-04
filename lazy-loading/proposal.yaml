@@ -1,0 +1,33 @@
+---
+Session:
+  Title: The Amblyopia of Angular... (i.e. lazy loading)
+  Description: >
+    Single page apps (SPAs) are awesome. The user perceives them to be faster, their easier to reason about, etc. etc. etc.
+    However, one drawback to a traditional SPA is that the user is essentially downloading and installing your entire
+    application every time they go to it. Can you imagine having to download and install the Twitter app on your phone
+    every time you wanted to check up on the latest from @js_dev? Crazy talk. Besides, 99% of the time, you don't even need
+    the profile portion, or the settings piece, so why would you want to load that stuff?
+    Enter: Lazy loading. It's a concept that says you can load pieces of the application as they're needed. This dramatically
+    improves load time of Angular applications and in this talk we'll walk through refactoring code to lazy load a feature
+    of an application as well as creating a build to break out features into separate files to be loaded lazily.
+    After this talk, you should be able to go back to your applications and with relative ease, lazy load the snot out of
+    them. It'll be awesome.
+  Length: 20
+  Tags:
+    - angular
+    - $ocLazyLoad
+    - ui-router
+    - gulp
+
+Speaker:
+  name: Kent C. Dodds
+  twitter: kentcdodds
+  email: kent@doddsfamily.us
+  bio: >
+    Kent C. Dodds is a professional frontend developer working at Alianza.
+    Kent's an egghead instructor and loves sharing what he knows with the world in small bite-sized videos.
+    Kent's active in the open source community with projects of his own and others (including AngularJS core).
+    Find him on GitHub (kentcdodds).
+    Kent loves building things with JavaScript (vanilla, AngularJS, and ReactJS flavors) and talking with people about code.
+    If you like talking about code too, he'd love to chat!
+    And, if you're reading this in a published thing, Kent's also speaking at ng-conf :-)
