@@ -1,0 +1,25 @@
+---
+Session:
+  Title: Web Components
+  Description: >
+    Web Components - What are they? Where and when can I use them? How do they compare to other technologies,
+    such as AngularJS? What are Custom Elements, an HTML import & a Shadow DOM? How does the Polymer library &
+    platform.js relate to all of this?
+
+  Length: 20 # sessions are 5 or 20 minutes long
+  Tags:
+    - WebComponents
+    - Polymer
+    - ShadowDOM
+    - Custom Elements
+    - X-tags
+
+Speaker:
+  name: Daniel Zen
+  twitter: @zendigital
+  email: daniel@zendigital.com
+  bio: >
+    Daniel Zen is the CEO of Zen Digital, founder of the New York AngularJS Meetup, a frequent lecturer, and a
+    former consultant for Google, Pivotal Labs and various Fortune 500 companies. Zen Digital uses Agile techniques
+    to move projects forward while continuously integrating new code and ideas, producing elegant frontend
+    experiences and efficient backend systems for web and mobile applications.
