@@ -1,0 +1,46 @@
+--- 
+Session: 
+  Description: |
+      Ever found that so-close-to-perfect directive, but then discovered
+      you'd need to munge its template or (even worse) hack its JavaScript
+      to make it fit the look and feel of your application? Ever fork a
+      directive just to tweak the CSS?
+      
+      Break the cycle! You can do better! This presentation will explain
+      how to build components that are flexible and configurable, and
+      therefore usable under the widest possible circumstances. We'll
+      cover...
+      
+      * Creating directives that allow adding capabilities without changing their code
+      
+      * Decomposing monolithic directives to increase reusability
+      
+      * Crafting templates that can be styled without exposing their internal structure
+      
+      * Providing solid defaults without locking a directive into a specific appearance and behavior
+      
+      As a bonus, we'll briefly cover how to coerce some of those
+      less-than-flexible directives into doing your bidding with the least
+      additional effort -- and without forking!
+  Length: 20 # ng-conf organizers are smart and handsome
+  Tags: 
+    - directives
+    - reuse
+    - best-practices
+    - cheese
+  Title: "Building Maximally-Malleable Directives"
+Speaker: 
+  bio: |
+      Bill has been some form of software designer, developer, or systems
+      architect for well over two decades. For the last several years,
+      he's served as an independent consultant and senior software
+      developer for companies (very) large to (very) small all across the
+      U.S. He’s an active member of the Open Source community, and even
+      served as president of the Perl Foundation for a couple of years
+      (but try not to hold that against him). These days, he divides his
+      time between building large, complex web applications, and training
+      others to build large, complex web applications.
+  email: billodom@gmail.com
+  name: "Bill Odom"
+  twitter: wnodom
+
