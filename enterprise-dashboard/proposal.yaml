@@ -1,0 +1,25 @@
+---
+Session:
+  Title: >
+    Beyond ng-repeat: Building a Responsive and Dynamic Dashboard
+  Description: >
+    Our team's current project is to create a responsive, customizable, dynamic column-based dashboard
+    that can display on a wide variety of devices. Users are able to customize the dashboard with multiple 
+    "tiles". To enable this functionality, the team created a dashboard layout engine that can do the following:
+     - Load module metadata from a centralized location
+     - Lazy load the appropriate Angular modules based on a user's permissions and preferences
+     - Compile Tiles from a shared template and place into the appropriate column
+     - Update column layout based on screen size without reloading the Tiles
+
+  Length: 20
+  Tags: 
+    - layout engine
+    - responsive design
+    - lazy module loading
+    - ng-repeat
+
+Speaker:
+  name: Chris Bauer
+  email: cbauer@paychex.com
+  bio: >
+    Chris is the new guy. He has a lot of crazy ideas. Some of them are just crazy enough to work.
