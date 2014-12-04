@@ -1,0 +1,26 @@
+---
+Session:
+  Title: Creating MVP Apps with Ionic Framework and Firebase
+  Description: >
+    Step away from the paper napkin! Do you have a great app idea but are light on the skills 
+    necessary to make it a reality?
+    Don't spend many tens of thousands developing an app and backend before even speaking to
+    a customer.
+    Using Ionic Framework and Firebase, you can build an MVP in a few days. Use the app to get
+    feedback from customers and investors and then iterate some more.
+  Length: 20
+  Tags: 
+    - mvp
+    - ionicframework
+    - firebase
+
+Speaker:
+  name: Justin Noel
+  twitter: Calendee
+  email: justin.noel@calendee.com
+  bio: >
+    Justin is a former enterprise LAMP developer that set off to become an independent app 
+    developer. He launched Kids In Touch (using the Ionic Framework) on the Apple App Store
+    in March 2014. Justin spends most of his spare time helping out on the Ionic forums,
+    keeping Kids In Touch running, and working on new app ideas. When He's not working, 
+    He's home schooling his boys and loving life with his beautiful wife.
