@@ -1,0 +1,23 @@
+---
+Session:
+  Title: Exploring Security Vulnerabilities in AngularJS
+  Description: >
+    This talk will focus on common security vulnerabilities associated with applications using AngularJS. We will be demonstrating these vulnerabilities on an intentionally vulnerable application built on the MEAN stack. We will then give best security practices for developers to keep in mind as they are developing their AngularJS applications.
+  Length: 20 
+  Tags: 
+    - Security
+    - AngularJS
+    - MEANjs
+
+Speaker 1:
+  name: Anand Vemuri
+  twitter: nandupandu57
+  email: anand.vemuri@nvisium.com
+  bio: >
+    Anand Vemuri is an Application Security Consultant at nVisium Security. After graduating from the University of Pennsylvania , Anand worked as a business technology consultant in the federal sector. Realizing the importance of application security in software development, Anand was inspired to focus his efforts full-time on secure software development.
+Speaker 2:
+  name: Seth Law
+  twitter: sethlaw
+  email: seth.law@nvisium.com
+  bio: >
+    Seth is an experienced Application Security Professional with over 12 years of experience in the computer security industry. During this time, Seth has worked within multiple disciplines in the security field, from software development to network protection, both as a manager and individual contributor. Seth has honed his application security skills using offensive and defensive techniques, including tool development. His understanding of the software development lifecycle allows him to speak as a developer and to equate security issues to development tasks. In his spare time, Seth revels in deep-level analysis of programming languages and inherent flaws.
