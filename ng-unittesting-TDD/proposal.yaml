@@ -1,0 +1,24 @@
+---
+Session:
+  Title: Test Driven Development(TDD) in NG World
+  Description: >
+    When writing large enterprise applications, one way 
+    to help with code quality is to use test driven development. 
+    We will talk about how to use TDD with-in an angular application. 
+    Using examples in Karma, Jasmine, and Protractor and inspired by Star Wars. 
+  Length: 20 # sessions are 5 or 20 minutes long
+  Tags: 
+    - angular
+    - unit testing
+    - TDD
+
+Speaker:
+  name: Jason Dalton
+  twitter: Jdawgdallas
+  email: jcdalton@hotmail.com
+  bio: >
+   Jason is an enterprise architect with 20 years of creating enterprise
+   web applications for Fortune 500. With companies like Thomson-Reuters, 
+   FedEx, Halliburton, and Sprint these applications help support millions
+   of users on diverse platforms.
+

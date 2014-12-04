@@ -1,0 +1,25 @@
+---
+Session:
+  Title: How to use Angular with Corporate UX
+  Description: >
+    Large Corporation are concern with their brand and UX.
+    This will look at how to use Angular to distribute a
+    common look and feel for a corporation. This will look
+    at current state and future state including shadow dom.
+  Length: 5 # sessions are 5 or 20 minutes long
+  Tags: 
+    - angular
+    - shadow dom
+    - UX
+    - branding
+
+Speaker:
+  name: Jason Dalton
+  twitter: Jdawgdallas
+  email: jcdalton@hotmail.com
+  bio: >
+   Jason is an enterprise architect with 20 years of creating enterprise
+   web applications for Fortune 500. With companies like Thomson-Reuters, 
+   FedEx, Halliburton, and Sprint these applications help support millions
+   of users on diverse platforms.
+
