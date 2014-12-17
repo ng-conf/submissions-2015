@@ -8,7 +8,7 @@ Session:
     Even better, we can use all the power, simplicity and eco-system of AngularJS together with Meteor’s tools (including Meteor's great integration with Cordova).
     After a few production apps with Meteor, AngularJS and Ionic Framework we came to realize , AngularJS and Meteor are a match made in heaven!
     The talk will be about Meteor’s concepts, how to integrate AngularJS and Ionic Framework into it and a technical details about the angular-meteor implementation and how it utilizes concepts from both AngularJS and Meteor.
-  Length: 20 # sessions are 5 or 20 minutes long
+  Length: 5-20 (Flexible depend on the time given) # sessions are 5 or 20 minutes long
   Tags: 
     - angularjs
     - Meteor
