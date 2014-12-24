@@ -1,0 +1,36 @@
+---
+Session:
+  Title: Digging into AngularJS Style Guide Decisions
+  Description: >
+    Jump into the leading style guides for teams working with AngularJS. 
+    These style guides touch on concepts, syntax, conventions and are based on Todd and John's 
+    experience building Angular applications. Todd and John will talk through best practices, 
+    reasons behind style decisions and inspire you to build the best AngularJS project yet, 
+    from scaffolding to modular JavaScript.
+  Length: 20
+  Tags: 
+    - angularjs
+    - teams
+    - styleguide
+    - patterns
+
+Speaker:
+  name: Todd Motto
+  twitter: toddmotto
+  email: todd@toddmotto.com
+  bio: >
+    Lead front-end engineer and developer advocate at Appsbroker, 
+    Developer Expert at Google (GDE), open source lover, JavaScript 
+    and HTML5 fanatic.
+
+Speaker2:
+  name: John Papa
+  twitter: john_papa
+  email: john@johnpapa.net
+  bio: >
+    John dabbles in Web technologies including HTML5, JavaScript, CSS, Angular, Gulp as a
+    Principal Developer at Walt Disney World, Google Developer Expert (GDE), and Microsoft RD and MVP.
+    He can often be found speaking around the world at keynotes and sessions for major conferences.
+    John is a co-host of the popular Adventures in Angular podcast and formerly was the host of the show 
+    Silverlight TV on Channel 9. He currently enjoys authoring courses for Pluralsight and has several
+    popular OSS projects including his Angular style guide http://jpapa.me/ngstyles
