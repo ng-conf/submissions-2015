@@ -1,0 +1,19 @@
+---
+Session:
+  Title: How to Migrate
+  Description: >
+    When Angular 2 was announced, many developers were concerned with the migration path.
+    This talk will not cover how to migrate from Angular 1 to 2.
+    Instead, it will discuss how to build the tools to make migration easier.
+    I'll show some of the tools I created in building the New Angular Router to make it work in both Angular 1 and 2.
+    I'll also discuss static analysis, façades, and general techniques for dealing with change in software dependencies.
+  Length: 20
+  Tags:
+    - migration
+
+Speaker:
+  name: Brian Ford
+  twitter: briantford
+  email: bford@google.com
+  bio: >
+    Brian works on the AngularJS core team at Google where he tries his very best to make computers do the right thing.
