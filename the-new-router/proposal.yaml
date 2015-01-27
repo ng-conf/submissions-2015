@@ -1,0 +1,18 @@
+---
+Session:
+  Title: The New Router
+  Description: >
+    You may have heard rumors of a new Angular Router.
+    In this talk, I'll show off the new router in Angular 1 with a focus on building large, maintainable, modular applications.
+    I'll also touch on how this router will work in Angular 2, and how it can serve as a stepping stone for migrating your application.
+  Length: 20
+  Tags:
+    - routing
+    - architecture
+
+Speaker:
+  name: Brian Ford
+  twitter: briantford
+  email: bford@google.com
+  bio: >
+    Brian works on the AngularJS core team at Google where he tries his very best to make computers do the right thing.
