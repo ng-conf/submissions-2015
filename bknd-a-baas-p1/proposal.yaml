@@ -1,0 +1,21 @@
+---
+Session:
+  Title: Refurb Your Existing Applications with Angular
+  Description: 
+    "In the enterprise world there are endless data-driven applications, and they usually need to be upgraded every few years. With Angular being a huge trend, many companies are in the process of refurbing their existing apps using Angular and maybe even give it a beautiful and easy to use UI using a Bootstrap template. Of course you can rebuild it from scratch (really?), but what if you can reverse engineer the application and migrate it fast and easy?\n
+  In this presentation you will learn how to: \n
+- Reverse engineer the data-driven application business logic into a robust back-end.\n
+- Connect Angular front-end in no time with all the app's business logic represented as REST API.\n
+- Apply more server side business rules, set up role base security and manage it all up in the cloud.\n
+At the end of the presentation the old application will be made over into a beautiful Angular app with a full blown backend.\n"
+  Length: 20 minutes
+  Tags: 
+    - Backend as a Service
+    - enterprise
+    - REST API
+    - Directives
+Speaker:
+  name: Itay Herskovits
+  twitter: itayher
+  email: itay@backand.com
+  bio: "With 18 years of software and product development experience, Itay is responsible for the technical development, delivery and operation of the Backand platform. Previously, Itay served as VP Product Management at Mobix.com, Director of Engineering at Ask.com, and Development Manager at Esurance.com."
