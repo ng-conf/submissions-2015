@@ -1,0 +1,27 @@
+---
+Session:
+  Title: Fast from the Start
+  Description: >
+    Nothing is more frustrating than a slow web app.
+    Yet, too often, performance is not considered until end users begin to
+    complain about frustrating experiences.
+    Tobias and Jeff will talk about tools and methods that were used to make
+    Angular 2 fast from the start, and how these tools and
+    methods can be applied to other web applications as well.
+  Length: 20 # sessions are 5 or 20 minutes long
+  Tags:
+    - angular2
+    - performance
+
+Speaker:
+  name: Jeff Cross
+  twitter: jeffbcross
+  email: crossj@google.com
+  bio: >
+    Software Engineer on the core Angular team at Google.
+Speaker2:
+  name: Tobias Bosch
+  twitter: tbosch1009
+  email: tbosch@google.com
+  bio: >
+    Software Engineer on the core Angular team at Google.
