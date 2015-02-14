@@ -1,0 +1,20 @@
+---
+Session:
+  Title: "Accessibility Design Made Easy"
+  Description: >
+    Learn how Angular and Protractor can help give your app accessibility
+    superpowers. 
+  Length: 10 # sessions are 5 or 20 minutes long
+  Tags: 
+    - accessibility
+    - protractor
+    - testing
+
+Speaker:
+  name: Julie Ralph
+  twitter: 
+  email:
+  bio: >
+    Julie Ralph works as a Software Engineer in Test at Google and is
+    the lead developer on the Angular end-to-end testing framework
+    Protractor.
