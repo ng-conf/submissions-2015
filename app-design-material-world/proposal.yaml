@@ -1,0 +1,38 @@
+---
+Session:
+  Title: "Prototyping with AngularJS? YES!!"
+  Description: >
+    Prototyping has become an essential part of the design process. In
+    our search for the best framework to use for prototyping, AngularJS
+    came out on top. We’ll tell you why and show you some easy methods
+    we use to make AngularJS a powerful prototyping tool.
+  Length: 20 # sessions are 5 or 20 minutes long
+  Tags: 
+    - material design
+    - UI
+    - UX
+
+Speaker:
+  name: Kelly Knight
+  twitter: 
+  email:
+  bio: >
+    Kelly is a User Experience Engineer and 7 year veteran at Google
+    with 15 years in the tech industry. With experience in both back-end
+    and client-side development, she thrives at bridging the gap between
+    design and engineering. Currently, she’s working on a prototyping
+    platform written in AngularJS to help designers better express their
+    designs through prototypes. 
+    
+Speaker2:
+  name: Dirk Ginader
+  twitter: @ginader
+  email: dirk@ginader.com
+  bio: >
+    Dirk started building websites professionally in the year Internet
+    Explorer 4 was released. The new technical possibilities blew his
+    mind. The mind blowing has been happening every year since. He can’t
+    wait to see what he’s going to learn next year. 
+
+    He’s been prototyping at Google for the last 2 years. Before that he was
+    working for Yahoo! in the U.S., England and Germany
