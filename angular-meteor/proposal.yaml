@@ -1,14 +1,16 @@
 ---
 Session:
-  Title: angular-meteor - Working with the 2 great eco-systems together
+  Title: angular-meteor - Perfect stack, a match made in heaven!
   Description: >
-    Meteor 1.0 just been released and the great power it gives to programmers is incredible.
-    As a hard core AngularJS developer I wasn't so happy with Meteor’s choice to invent a new templating engine called Blaze.
-    Researching into Meteor’s code I've learned more about the philosophies behind the choices they’ve made and why it doesn't stop us from using it with AngularJS.
-    Even better, we can use all the power, simplicity and eco-system of AngularJS together with Meteor’s tools (including Meteor's great integration with Cordova).
-    After a few production apps with Meteor, AngularJS and Ionic Framework we came to realize , AngularJS and Meteor are a match made in heaven!
-    The talk will be about Meteor’s concepts, how to integrate AngularJS and Ionic Framework into it and a technical details about the angular-meteor implementation and how it utilizes concepts from both AngularJS and Meteor.
-  Length: 5-20 (Flexible depend on the time given) # sessions are 5 or 20 minutes long
+    Meteor 1.0 just been released and it is extremely powerful, fast and simple.
+
+    As a hard-core AngularJS developer for many years I wasn't going to give up Angular to get Meteor's powers.
+    So I've created the angular-meteor library to make any AngularJS app work with Meteor easily and seamlessly.
+
+    In this talk I'll share how to write angular-meteor web and mobile applications,
+    how to integrate Meteor into your existing Angular application,
+    how I wrote the library and lessons I learned about both Frameworks.
+  Length: 20 # sessions are 5 or 20 minutes long
   Tags: 
     - angularjs
     - Meteor
