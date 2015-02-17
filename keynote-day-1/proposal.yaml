@@ -1,0 +1,30 @@
+---
+Session:
+  Title: Keynote Day 1
+  Description: >
+    Welcome! Let's talk about the state of Angular.
+  Length: 40
+  Tags: 
+    - keynote
+    - past
+    - present
+    - future
+    - highlights
+    - no tombstones
+
+Speaker1:
+  name: Brad Green
+  twitter: BradlyGreen
+  email: bradgreen@google.com
+  bio: >
+    Brad Green works at Google as an engineering director.  Brad manages the Google Sales Platform suite of projects as well as the Angular framework. Prior to Google, Brad worked on the early mobile web at AvantGo, founded and sold startups, and spent a few hard years toiling as a caterer. Brad's first job out of school was as lackey to Steve Jobs at NeXT Computer writing demo software and designing his slide presentations. Brad lives in Mountain View, CA with his wife and two children.
+
+
+Speaker2:
+  name: Igor Minar
+  twitter: IgorMinar
+  email: iminar@google.com
+  bio: >
+    Igor is a software engineer at Google. He is a lead on the Angular project, practitioner of test driven development, open source enthusiast, hacker.
+
+    In his free time, Igor enjoys spending time with his wife and two kids, doing outdoor activities (including but not limited to sports, gardening and building retaining walls).
