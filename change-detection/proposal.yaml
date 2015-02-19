@@ -1,0 +1,15 @@
+---
+Session:
+  Title: Change Detection Reinvented
+  Description: >
+    Change detection in Angular is a big part of what makes the framework seem like magic. But in Angular 1.x it can be confusing, difficult to debug, and can become a performance bottleneck. Let's look at how change detection is designed differently for Angular2, and how it makes applications simpler and more performant. 
+  Length: 20
+  Tags: 
+    - angular2
+
+Speaker:
+  name: Victor Savkin
+  twitter: victorsavkin
+  email: avix1000@gmail.com
+  bio: >
+    Victor works on the Angular team at Google. He is interested in functional programming, the Web platform, and client-side applications. 
