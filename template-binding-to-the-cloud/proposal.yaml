@@ -1,0 +1,22 @@
+---
+Session:
+  Title: Binding to the Cloud with Falcor
+  Description: >
+    Every user wants to believe that all of the data in the cloud is available locally on their device. Netflix's Falcor framework creates this illusion for the developer. Falcor allows you to model all of your cloud data sources as one virtual JSON object. "Falcor" allows you to code against your remote JSON model using the same APIs you would use on local JSON objects. With Falcor you can use simple JSON operations and path expressions to retrieve precisely the data your templates need. Imagine binding your templates directly to the cloud and letting Falcor take care of the network for you.
+
+    We'll talk about how Falcor works, and how we're planning on taking advantage of Angular 2.0 extensibility to more tightly integrate the two frameworks.
+
+  Length: 20
+  Tags: 
+    - json
+    - cloud
+    - template
+    - netflix
+    - falcor
+
+Speaker:
+  name: Jafar Husain
+  twitter: jhusain
+  email: jhusain@gmail.com
+  bio: >
+    Jafar Husain is Netflix's Cross-Team Technical Lead and has 16 years of experience in the industry. He's currently a member of the TC39, the Javascript standards body designing the next version of JS. He specializes in building web servers and clients using reactive programming. He is the architect of Falcor, the RESTful data access framework that powers  Netflix clients. A highly-rated speaker, he has spoken at NodeSummit, HTML Dev Conf, QCon, and ReactJS Conf. He has also authored interactive training software to help developers learn reactive programming.
