@@ -1,0 +1,22 @@
+---
+Session:
+  Title: "Build an Angular Material App"
+  Description: >
+   Struggling with integrating UI components into your AngularJS apps?
+   With the Angular Material UI components, you can quickly build
+   responsive, real-world apps that behave seamlessly across multiple
+   devices. See how Gridlist, Icons, and the Toolbar are used with Layouts and Themes
+   to quickly build a real-world app from the ground up!
+  Length: 20 # sessions are 5 or 20 minutes long
+  Tags: 
+    - material design
+    - angular material
+    - ux
+
+Speaker:
+  name: Thomas Burleson
+  twitter: ThomasBurleson
+  email: ThomasBurleson@gmail.com
+  bio: >
+    Passionate about software quality, excellence, guerrilla team
+    development, team leadership/mentoring, and experiential learning.
