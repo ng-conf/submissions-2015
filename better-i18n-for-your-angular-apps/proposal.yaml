@@ -1,0 +1,36 @@
+---
+Session:
+  Title: Better i18n for your Angular apps
+  Description: >
+    Internationalization and Localization are fundamental to making your
+    applications available in different languages and cultures. This is fairly
+    involved and would ideally have a tightly integrated toolchain and workflow
+    to support the entire process. Angular currently only offers some
+    rudimentary support.  While the community has built some great extensions
+    to help in this area, we would really like to have first class support from
+    the framework.  In this talk, Chirayu and Pascal are going to show you
+    their roadmap for a to bring a great i18n experience to the Angular framework.
+  Length: 20 # sessions are 5 or 20 minutes long
+  Tags:
+    - i18n
+
+Speaker:
+  name: Chirayu Krishnappa
+  twitter: 
+  email: chirayu@google.com
+  bio: >
+    Chirayu is a core Angular team member and has contributed to AngularJS,
+    AngularDart and Protractor. He loves technology. When not working, he's
+    learning music, improv or painting.
+Speaker2:
+  name: Pascal Precht
+  twitter: PascalPrecht
+  email: pascal.precht@gmail.com
+  bio: >
+    Pascal is a front-end engineer with a love for semantic markup and evolving
+    technologies in the open web. He loves contributing to open source and is the
+    creator of the popular angular-translate module. Pascal loves to travel the
+    world and speaks at conferences and meetups. When he's not busy preparing the
+    next workshop or conference talk, you might find him outside with his
+    skateboard.
+
