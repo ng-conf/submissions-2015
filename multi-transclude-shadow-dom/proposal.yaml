@@ -1,0 +1,36 @@
+---
+Session:
+  Title: > Custom Content: Template Insertion in Web Components and AngularJS
+  Description: >
+    So you've embraced architecting your Angular application with reusable 
+    components--cheers to you!  But you have UI components that need multiple 
+    entry points for user markup, and regular ng-transclude left you hanging.
+    In this talk, we'll cover how new web component standards, like the 
+    Shadow DOM, handle this.  Next, we'll walk through how to accomplish it 
+    today in AngularJS 1.3 -- and also give you a brief glimpse into what a 
+    solution will look like in upcoming Angular 2.0.
+  Length: 20 # sessions are 5 or 20 minutes long
+  Tags:
+    - angular1.3
+    - transclusion
+    - shadowDOM
+    - webcomponents
+    - templates
+
+Speaker:
+  name: Kara Erickson
+  twitter: karaforthewin
+  email: kerickson@opentable.com
+  bio: >
+    Kara is a Software Engineer at OpenTable where she builds Angular applications for OpenTable 
+    Restaurants. She has spent the last six months architecting a robust library of business-level 
+    and UI-level components founded on Angular directives.
+Speaker2:
+  name: Rachael L Moore
+  twitter: morewry
+  email: rmoore@opentable.com
+  bio: >
+    Rachael is a UI Engineer at OpenTable specializing in the implementation of 
+    enterprise-scale interfaces using HTML, CSS, and JavaScript. She began as a 
+    freelance web designer in the 90's and previously worked at Homes.com. 
+
