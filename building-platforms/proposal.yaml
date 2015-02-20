@@ -1,10 +1,10 @@
 ---
 Session:
-  Title: Building Platforms with angular.js
+  Title: Building Platforms with Angular
   Description: >
-    While we often see angular.js used to quickly build small applications,
+    While we often see Angular used to quickly build small applications,
     it also has the power to drive large frameworks.  Learn how Google has 
-    used angular.js to build infrastructure and libraries that support the
+    used Angular to build infrastructure and libraries that support the
     Google Cloud Developer web console.  We'll talk about challenges the 
     team has experienced and how we've handled them, from implementing 
     lazy-loading to assuring consistency and quality across many separate 
