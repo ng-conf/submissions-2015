@@ -1,11 +1,11 @@
 ---
 Session:
-  Title: "Prototyping with AngularJS? YES!!"
+  Title: "Prototyping with Angular? YES!!"
   Description: >
     Prototyping has become an essential part of the design process. In
-    our search for the best framework to use for prototyping, AngularJS
+    our search for the best framework to use for prototyping, Angular
     came out on top. We’ll tell you why and show you some easy methods
-    we use to make AngularJS a powerful prototyping tool.
+    we use to make Angular a powerful prototyping tool.
   Length: 20 # sessions are 5 or 20 minutes long
   Tags: 
     - material design
@@ -21,7 +21,7 @@ Speaker:
     with 15 years in the tech industry. With experience in both back-end
     and client-side development, she thrives at bridging the gap between
     design and engineering. Currently, she’s working on a prototyping
-    platform written in AngularJS to help designers better express their
+    platform written in Angular to help designers better express their
     designs through prototypes. 
     
 Speaker2:

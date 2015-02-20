@@ -1,15 +1,15 @@
 ---
 Session:
-  Title: Digging into AngularJS Style Guide Decisions
+  Title: Digging into Angular Style Guide Decisions
   Description: >
-    Jump into the leading style guides for teams working with AngularJS. 
+    Jump into the leading style guides for teams working with Angular. 
     These style guides touch on concepts, syntax, conventions and are based on Todd and John's 
     experience building Angular applications. Todd and John will talk through best practices, 
-    reasons behind style decisions and inspire you to build the best AngularJS project yet, 
+    reasons behind style decisions and inspire you to build the best Angular project yet, 
     from scaffolding to modular JavaScript.
   Length: 20
   Tags: 
-    - angularjs
+    - Angular
     - teams
     - styleguide
     - patterns

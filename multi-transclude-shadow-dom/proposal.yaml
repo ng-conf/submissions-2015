@@ -1,13 +1,13 @@
 ---
 Session:
-  Title: > Custom Content: Template Insertion in Web Components and AngularJS
+  Title: > Custom Content: Template Insertion in Web Components and Angular
   Description: >
     So you've embraced architecting your Angular application with reusable 
     components--cheers to you!  But you have UI components that need multiple 
     entry points for user markup, and regular ng-transclude left you hanging.
     In this talk, we'll cover how new web component standards, like the 
     Shadow DOM, handle this.  Next, we'll walk through how to accomplish it 
-    today in AngularJS 1.3 -- and also give you a brief glimpse into what a 
+    today in Angular 1.3 -- and also give you a brief glimpse into what a 
     solution will look like in upcoming Angular 2.0.
   Length: 20 # sessions are 5 or 20 minutes long
   Tags:

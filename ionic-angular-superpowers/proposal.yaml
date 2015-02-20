@@ -8,7 +8,7 @@ Session:
     the design decisions made as we integrated Ionic with Angular, and the
     performance considerations for mobile platforms that our team had to overcome.
     We’ll also review new and upcoming Ionic features, and talk about the hidden
-    powers and benefits of combining mobile app development and AngularJS.
+    powers and benefits of combining mobile app development and Angular.
   Length: 20
   Tags:
     - ionic
@@ -21,6 +21,6 @@ Speaker:
   twitter: adamdbradley
   email: adam@drifty.com
   bio: >
-    Co-creator of Ionic Framework and AngularJS Material Design team member.
-    Regularly writes and speaks about hybrid development with Ionic and AngularJS.
+    Co-creator of Ionic Framework and Angular Material Design team member.
+    Regularly writes and speaks about hybrid development with Ionic and Angular.
     Proud dad, husband, veteran, and dog's best friend. Based in beautiful Madison, WI.
