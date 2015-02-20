@@ -15,15 +15,6 @@ Session:
     - patterns
 
 Speaker:
-  name: Todd Motto
-  twitter: toddmotto
-  email: todd@toddmotto.com
-  bio: >
-    Lead front-end engineer and developer advocate at Appsbroker, 
-    Developer Expert at Google (GDE), open source lover, JavaScript 
-    and HTML5 fanatic.
-
-Speaker2:
   name: John Papa
   twitter: john_papa
   email: john@johnpapa.net
