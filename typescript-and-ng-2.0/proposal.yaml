@@ -1,0 +1,23 @@
+---
+Session:
+  Title: TypeScript and Angular 2.0
+  Description: >
+    One of the best aids to good craftsmen is the tools they use.  In this session, we'll be
+    looking at upcoming features of TypeScript and related tools and how these features help 
+    you get the most out of your Angular 2.0 development.
+
+  Length: 20
+  Tags: 
+    - angular2
+    - TypeScript
+    - es6
+
+Speaker:
+  name: Jonathan Turner
+  twitter: jntrnr
+  email: jont@microsoft.com
+  bio: >
+    Jonathan Turner is a programming language geek working at Microsoft as the Program Manager
+    on TypeScript. He has been a part of the TypeScript team since its first public release in
+    October 2012. Before TypeScript, he studied programming language and compilers at the 
+    University of Colorado at Boulder and worked on Chapel and Clang/LLVM.
