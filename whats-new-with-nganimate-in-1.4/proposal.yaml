@@ -1,0 +1,24 @@
+---
+Session:
+  Title: What's new with ngAnimate in 1.4
+  Description: >
+    AngularJS 1.4 will come packaged with a totally new refactor of ngAnimate. The
+    animation platform is now much further broken down and there are some sweet new
+    features we can get our hands on. Let's explore these new features and really see
+    how far our sleek animated interfaces can go. Let's also explore what's in store
+    for Angular 1.5 and 2.0.
+  Length: 15
+  Tags: 
+    - present
+    - future
+    - animations
+    - interfaces
+    - ui
+    - interactivity
+
+Speaker1:
+  name: Matias Niemela
+  twitter: yearofmoo
+  email: matias@yearofmoo.com
+  bio: >
+    Matias Niemela is a fullstack web developer whom has been programming & building websites for over 10 years. He blogs at yearofmoo.com and has been a core team member of AngularJS for two years. As of now he is a fresh new Googler and in the spring of 2015 Matias will be moving to California to work on AngularJS full time at Google. In his free time Matias loves to build complex things and is always up for public speaking, travelling and tweaking his current Vim setup.
