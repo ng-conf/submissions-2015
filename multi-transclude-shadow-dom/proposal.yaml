@@ -1,6 +1,7 @@
 ---
 Session:
-  Title: > Custom Content: Template Insertion in Web Components and Angular
+  Title: >
+    Custom Content: Template Insertion in Web Components and Angular
   Description: >
     So you've embraced architecting your Angular application with reusable 
     components--cheers to you!  But you have UI components that need multiple 
