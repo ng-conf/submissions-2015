@@ -1,0 +1,31 @@
+---
+Session:
+  Title: "State of 1.x"
+  Description: >
+    Growth. Community. Future.
+  Length: 20 # sessions are 5 or 20 minutes long
+  Tags: 
+    - 1.x
+    - angularjs
+    - community
+
+Speaker: 
+  name: Pawel Kozlowski
+  twitter: pkozlowski_os 
+  email: pkozlowski.opensource@gmail.com
+  bio: >
+    Open source hacker, AngularJS book author, AngularUI lead developer.
+    Pawel is an software-development addict who believes in free, open
+    source software. He is a core contributor to the AngularJS framework,
+    AngularUI, Karma-runner and several other projects. He is the
+    co-author of the "Mastering Web Application Development with AngularJS"
+    book. When not coding, Pawel can be spotted speaking at various
+    software development conferences.
+
+Speaker2:
+  name: Lucas Galfaso
+  twitter: lgalfaso
+  email: lmirelmann@google.com
+  bio: >
+    Lucas is a Software Engineer at Google and Angular contributor.
+
