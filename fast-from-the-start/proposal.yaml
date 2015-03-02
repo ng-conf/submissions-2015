@@ -5,23 +5,20 @@ Session:
     Nothing is more frustrating than a slow web app.
     Yet, too often, performance is not considered until end users begin to
     complain about frustrating experiences.
-    Tobias and Jeff will talk about tools and methods that were used to make
+    Jeff will talk about tools and methods that were used to make
     Angular 2 fast from the start, and how these tools and
     methods can be applied to other web applications as well.
   Length: 20 # sessions are 5 or 20 minutes long
   Tags:
     - angular2
     - performance
+    - benchpress
 
 Speaker:
   name: Jeff Cross
   twitter: jeffbcross
   email: crossj@google.com
   bio: >
-    Software Engineer on the core Angular team at Google.
-Speaker2:
-  name: Tobias Bosch
-  twitter: tbosch1009
-  email: tbosch@google.com
-  bio: >
-    Software Engineer on the core Angular team at Google.
+    Jeff is a member of the Angular core team at Google, focusing on data access and application performance. 
+    Jeff has an extensive background in open source software, marketing, and user experience design. 
+    When not in front of a computer, he spends his time doing whatever his kids tell him to do, which usually involves playing music or making gadgets.
