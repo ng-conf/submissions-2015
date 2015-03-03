@@ -1,0 +1,31 @@
+---
+Session:
+  Title: angular-meteor - Perfect stack, a match made in heaven!
+  Description: >
+    Meteor 1.0 has just been released and it is extremely powerful, fast and simple.
+
+    As a hard-core AngularJS developer for many years I wasn't going to give up Angular to get Meteor's power.
+    So I've created the angular-meteor library enable make any AngularJS app work with Meteor easily and seamlessly.
+
+    In this talk I'll share how to write angular-meteor web and mobile applications,
+    how to integrate Meteor into your existing Angular application and
+    how I wrote the library and lessons I learned about both Frameworks.
+  Length: 20 # sessions are 5 or 20 minutes long
+  Tags: 
+    - angularjs
+    - Meteor
+    - Cordova
+    - PhoneGap
+    - Ionic
+
+Speaker:
+  name: Uri Goldshtein
+  twitter: @UriGoldshtein
+  email: uri.goldshtein@gmail.com
+  github: @Urigo
+  bio: >
+    Uri is the creator of the angular-meteor package which makes the integration between AngularJS and Meteor as seamless as possible.
+    Uri travels around the world building stuff and consulting to various companies.
+    Started with assembler, C++, then C# and WPF before taking on the web a few years ago.
+    Since then he regularly speaks and lectures about AngularJS until moving on to developing the library 'angular-meteor' and so now he is talking about angular-meteor in every chance he gets.
+
