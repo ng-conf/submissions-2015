@@ -1,7 +1,7 @@
 ---
 Session:
   Title: >
-    Custom Content: Template Insertion in Web Components and Angular
+    Creating Container Components with Web Components and Angular
   Description: >
     So you've embraced architecting your Angular application with reusable 
     components--cheers to you!  But you have UI components that need multiple 
@@ -9,7 +9,7 @@ Session:
     In this talk, we'll cover how new web component standards, like the 
     Shadow DOM, handle this.  Next, we'll walk through how to accomplish it 
     today in Angular 1.3 -- and also give you a brief glimpse into what a 
-    solution will look like in upcoming Angular 2.0.
+    solution will look like in upcoming Angular 2.
   Length: 20 # sessions are 5 or 20 minutes long
   Tags:
     - angular1.3
@@ -17,6 +17,7 @@ Session:
     - shadowDOM
     - webcomponents
     - templates
+    - angular2
 
 Speaker:
   name: Kara Erickson
