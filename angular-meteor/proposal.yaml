@@ -20,9 +20,9 @@ Session:
 
 Speaker:
   name: Uri Goldshtein
-  twitter: @UriGoldshtein
+  twitter: UriGoldshtein
   email: uri.goldshtein@gmail.com
-  github: @Urigo
+  github: Urigo
   bio: >
     Uri is the creator of the angular-meteor package which makes the integration between AngularJS and Meteor as seamless as possible.
     Uri travels around the world building stuff and consulting to various companies.
