@@ -14,7 +14,7 @@ The deadline for submissions is November 1st, 2014.
 
 ## Travel
 
-We cover the hotel and reimburse up to $500 in travel costs. And of course, you attend the conference for free. If you have any questions about travel and accomodation costs, please email us at info@ng-conf.org.
+We cover the hotel and reimburse up to $500 in travel costs. And of course, you attend the conference for free. If you have any questions about travel and accommodation costs, please email us at info@ng-conf.org.
 
 ## We Can Help
 
