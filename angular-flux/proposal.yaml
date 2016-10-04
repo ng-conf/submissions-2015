@@ -1,0 +1,35 @@
+---
+Session:
+  Title: Getting Reactive with Flux Architecture
+  Description: >
+    Flux Application Architecture is a pattern that allows unidirectional data flow in
+    a single direction. The concept was development from React community as a way to reinvent
+    app architecture. I will demonstrate an Angular app that uses Flux Architecture conpared to
+    the traditional MVC pattern used by most Angular apps today.
+  Length: 20 # sessions are 5 or 20 minutes long
+  Tags:
+    - flux
+    - reactive
+    - architecture
+    - realtime
+    - datastreams
+
+Speaker:
+  name: Patrick Stapleton
+  twitter: gdi2290
+  email: patrick@gdi2290.com
+  bio: >
+    PatrickJS.bio([
+      'CTO Keychain Logistics,''
+      'Open-Source contributor',
+      'Hack Reactor Instructor and Alumni',
+      '2014 Launch Hackathon Winner',
+      '2013 Judge at Node Knockout',
+      'Creator of Reddit Insight
+    ]).define("""
+      Patrick, aka PatrickJS, leads the engineering team at Keychain Logistics by
+      betting big on Angular and realtime. He is a fan of realtime, an advocate
+      of code maintainability (coming from a Ruby background), and idiomatic
+      programming. When he is not coding for dayz, he spends his time
+      watching programming videos or anime with friends.
+    """);
