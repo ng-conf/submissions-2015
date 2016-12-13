@@ -1,0 +1,21 @@
+---
+Session:
+  Title: Finding Your Right Route
+  Description: >
+    First there was ngRoute for URL management and navigation. Then ui-router gave us nested views
+    and route states. Coming soon is version 1.3.x routing. Then on to Routing 2.0.
+    How do you find the right route for you? Join Deborah as she outlines the pros and cons
+    of today's routing options.
+
+  Length: 20 # sessions are 5 or 20 minutes long
+  Tags: 
+    - routing
+    - ngRoute
+
+Speaker:
+  name: Deborah Kurata
+  twitter: deborahkurata
+  email: deborahk@insteptech.com
+  bio: >
+    Deborah is an independent software consultant specializing in Web and .NET development. 
+    She is also a Pluralsight author with top rated courses on AngularJS and C#. 
