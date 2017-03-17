@@ -1,0 +1,18 @@
+---
+Session:
+  Title: Clean Your Controllers
+  Description: >
+    Admit it.  Your controllers are dirty.  There's stuff in there that no man or woman deserves to see. We'll take a quick look at a very dirty controller with all the common pitfalls. Then we'll refactor away into a clean testable work of concise controller craft.
+  Length: 5
+  Tags:
+    - controllers
+    - refactoring
+    - best practices
+    - testable
+
+Speaker:
+  name: Hunter Powers
+  twitter: TheHunter
+  email: hunter@wiretheplanet.com
+  bio: >
+    Hunter is a Full Stack Developer and Senior Software Engineer @Jibe in Washington, DC.  With 20 years of professional experience, Hunter crafts enterprise ready AngularJs as Team Lead on Candidate Connect.  He loves technology, movies, snowboarding, and pushing all boundaries.  "Refuse to be limited by technology.  Technology is endless.  Always push forward."
