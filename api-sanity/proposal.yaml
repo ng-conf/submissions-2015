@@ -1,0 +1,25 @@
+---
+Session:
+  Title: Sane $http Error Handling
+  Description: >
+    One of the challenges in building single-page applications on top of large
+    RESTful interfaces is handling the multitude of $http errors in a clean DRY
+    testable manner. 400, 401, 422, 500, etc... In the next 20 minutes I will
+    share with you my approach to normalizing the handling, response, and testing
+    of $http errors against a large RESTful API. You will learn to bucket errors,
+    keep UI up-to-date, and minimize headaches.
+
+  Length: 20
+  Tags:
+    - error handling
+    - $http
+    - testable
+    - APIs
+    - REST
+
+Speaker:
+  name: Hunter Powers
+  twitter: TheHunter
+  email: hunter@wiretheplanet.com
+  bio: >
+    Hunter is a Full Stack Developer and Senior Software Engineer @Jibe in Washington, DC.  With 20 years of professional experience, Hunter crafts enterprise ready AngularJs as Team Lead on Candidate Connect.  He loves technology, movies, snowboarding, and pushing all boundaries.  "Refuse to be limited by technology.  Technology is endless.  Always push forward."
