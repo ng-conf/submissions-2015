@@ -1,0 +1,18 @@
+---
+Session:
+  Title: A Sublime Editor
+  Description: >
+    I love watching how people work. We'll spend the next 20 minutes as I setup Sublime Text from scratch with all the settings, configuration, shortcuts and packages I use every day to maximize my productivity writing good clean AngularJs enabled code.
+  Length: 20
+  Tags:
+    - sublime
+    - editor
+    - ide
+    - workflow
+
+Speaker:
+  name: Hunter Powers
+  twitter: TheHunter
+  email: hunter@wiretheplanet.com
+  bio: >
+    Hunter is a Full Stack Developer and Senior Software Engineer @Jibe in Washington, DC.  With 20 years of professional experience, Hunter crafts enterprise ready AngularJs as Team Lead on Candidate Connect.  He loves technology, movies, snowboarding, and pushing all boundaries.  "Refuse to be limited by technology.  Technology is endless.  Always push forward."
