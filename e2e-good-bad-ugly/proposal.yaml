@@ -1,0 +1,21 @@
+---
+Session:
+  Title: End-to-End Testing: the Good, the Bad, and the Ugly
+  Description: >
+    Without automated end-to-end tests, releasing new versions of your application can become a burden, requiring slow and error prone manual regression testing.
+    Learning to write good end to end tests with Protractor can pay off quickly, dramatically reducing the need for costly manual testing, and fits great into a continuous integration and delivery cycle.
+    However, bad end-to-end tests can be worse than none at all. You can end up with fragile tests, that are difficult to debug and maintain. In this talk, I'll go over some common pitfalls, and share some tips and tricks that will make your life easier when automating your testing with Protractor.
+  Length: 20
+  Tags: 
+    - protractor
+    - end-to-end
+    - testing
+    - tips
+
+Speaker:
+  name: Tyler Henkel
+  twitter: tyhenkel
+  email: tyhenkel@gmail.com
+  bio: >
+    Tyler Henkel is a Software Engineer working at Lendio, where he focuses on front-end development and testing. An active contributor in the open source community, Tyler created and maintains the popular "Angular Fullstack" Yeoman generator.
+  
