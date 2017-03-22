@@ -1,0 +1,36 @@
+---
+Session:
+  Title: "It's Not Me, It's You: Breaking up with ng-controller"
+  Description: >
+    At ng-europe, the Angular team announced Angular 2.0 and the imminent demise of controllers and
+    scopes as we know them. This reflects a growing sentiment that ng-controller and hierarchical
+    scopes have limitations that make them difficult to develop and test with, and that maybe it's
+    time for us to politely go our separate ways. But do we have to wait until Angular 2.0?
+
+    In this talk I'll discuss the advantages and feasibility of banishing ng-controller from your
+    Angular 1.x app right now. We'll cover the ins-and-outs of using custom directives instead, as
+    well as how to use isolate scopes instead of scope inheritance to manage state across different
+    parts of your app. Finally, we'll see how this in turn can simplify testing of your templates by
+    letting you leverage existing directive unit testing techniques, rather than relying entirely on
+    Protractor.
+
+    Attendees will leave with an understanding of how ditching ng-controller can help them build
+    apps that are more modular, less bug-prone and more easily testable. And they'll see how they
+    can get a little bit of the future right now by cutting the cord, moving on and starting to
+    embrace the component-based approach that is coming in Angular 2.0.
+  Length: 20
+  Tags:
+    - controllers
+    - Angular 2.0
+    - directives
+    - templates
+
+Speaker:
+  name: Ben Teese
+  twitter: benteese
+  email: ben.teese@shinetech.com
+  bio: >
+    Ben Teese is a software developer from Melbourne, Australia. Emerging from the primeval swamp
+    of 10 years of Java development, he first evolved into a Ruby developer, then ascended to the
+    world of pure Javascript. He now builds Angular.js apps for a variety of clients and absolutely
+    loves every minute of it. He presented on Rich Object Models at the inaugural ng-conf 2014.
