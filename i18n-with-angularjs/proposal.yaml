@@ -1,0 +1,24 @@
+---
+Session:
+  Title: i18n for Angular Applications
+  Description: >
+    We live in a globalized world, so why is your Angular application only in English?
+    In this talk, we'll discuss what internationalization actually means to you, the developer,
+    and how we need to think about the text of the app, as well as any date/times and numbers.
+    Finally, we'll look at some great libraries out there to help make localizing your app super easy.
+  Length: 20 # sessions are 5 or 20 minutes long
+  Tags: 
+    - i18n
+    - localization
+    - translations
+    - moment.js
+    - angular-gettext
+
+Speaker:
+  name: Jessica Martin
+  twitter: N/A
+  email: jessica.martin@messagesystems.com
+  bio: >
+    Jessica is a software developer for Message Systems, Inc., where she works in an entirely JS based stack (AngularJS in the front, node in the back).
+    She helps out at the Baltimore NodeSchool as a mentor, and regularly attends the Maryland Javscript Meetup group.
+    In her down time, Jess is an avid gamer, and watches way too much YouTube.
