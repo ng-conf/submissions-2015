@@ -1,0 +1,14 @@
+--- 
+Session: 
+  Description: "The beauty of JavaScript is that it can run practically everywhere. So, why do most people use completely different JavaScript frameworks or completely different technologies for their back end and front end? I spent the past two years building an open source library that enables you to write Isomorphic Angular code which can run at all levels of your stack. The server-side Angular code is ultra-DRY, SEO friendly and provides an excellent user experience during initial page load.\n"
+  Length: 20
+  Tags: 
+    - isomorphic
+    - seo
+    - DRY
+  Title: "Isomorphic Angular"
+Speaker: 
+  bio: "Jeff is the Chief Architect at GetHuman where he is trying to make customer service at big companies just a little less sucky. Over the past two years at GetHuman, he has helped author a number of open source JavaScript libraries including Pancakes.js (an isomorphic meta-framework), Jeff.js (a JavaScript-based template engine) and Fakeblock.js (field-level ACL security).\n"
+  email: jeff@gethuman.com
+  name: "Jeff Whelpley"
+  twitter: jeffwhelpley
