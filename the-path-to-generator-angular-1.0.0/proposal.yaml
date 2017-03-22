@@ -1,0 +1,37 @@
+---
+Session:
+  Title: Introducing Yeoman Angular Generator 1.0.0
+  Description: >
+    May 7, 2013 was my first commit to the Yeoman Angular generator. Since then
+    I've been hooked. It's been over a year but the major rewrite to the
+    generator is now ready for the public and this will go over some of the new
+    features (including opinionated best practices for setting up an Angular 1.x
+    project).
+
+    Some of the big improvements to the generator are:
+      - Directory organization: by feature (module), by type (existing), or
+        random pile of files! (j/k on that last one, maybe)
+      - Choice of CSS/Sass (Ruby or Node versions)/Less/Stylus
+      - Bootstrap only? Not anymore
+      - Completely composable (extend to your heart's content)
+      - Protractor and Karma support
+      - I Grunt'ed then I Gulp'ed. But I can Grunt or Gulp
+  Length: 20
+  Tags:
+    - yeoman
+    - generator
+    - new-features
+
+Speaker:
+  name: Eddie Monge
+  twitter: EddieMonge
+  email: eddie@eddiemonge.com
+  bio: >
+    Eddie Monge is an all-around computer enthusiast who loves to help others
+    learn and succeed. He has realized his passion lies in user interface
+    optimization and implementation. This means he is a front-end developer who
+    likes to make it easier to use the web. He can often be found patiently
+    helping those in need of programming guidance, whether it is through IRC,
+    Twitter, Github or where ever else people are in need of help and learning.
+    He is currently a part of the Yeoman project, mainly helping with the
+    Yeoman.io site and the Angular generator.
